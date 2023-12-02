@@ -1,0 +1,101 @@
+@charset "UTF-8";
+.word:first-child {
+  border-top: 1px #4d91b3 solid;
+}
+
+.word {
+  padding: 15px 0px;
+  border-bottom: 1px rgba(77, 145, 179, 0.3) solid;
+}
+
+.outer {
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.title {
+  margin-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+  border-bottom: 1px rgba(77, 145, 179, 0.3) solid;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "EB Garamond", "Times New Roman", "Yu Mincho", "YuMincho", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "ＭＳ Ｐ明朝", serif;
+  font-size: 17px;
+  font-feature-settings: "palt" 1, "pkna" 1;
+  line-height: 1;
+  background-color: #e1edf2;
+  overflow-x: auto;
+  overflow-y: scroll;
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+.word_form {
+  margin: -4px 0.5em 0px 0px;
+  font-size: 120%;
+  font-weight: bold;
+  color: #4d91b3;
+  line-height: 1.6;
+  display: inline-block;
+}
+
+.tags {
+  display: inline-block;
+}
+
+.word_infos {
+  margin: 5px 0px 0px 0px;
+}
+
+.word_info {
+  margin: 0px;
+  line-height: 1.6;
+  text-align: justify;
+  white-space: pre-line;
+}
+
+.bordered_info {
+  bottom: 0.1em;
+  margin: 0em 0.5em 0em 0em;
+  padding: 0em 0.2em;
+  font-size: 70%;
+  border: 1px #4d91b3 solid;
+  border-radius: 3px;
+  position: relative;
+}
+
+.nonbordered_info {
+  font-size: 70%;
+  color: #4d91b3;
+  display: block;
+}
+
+.outermost {
+  width: calc(100% - 30px * 2);
+  margin: 60px 30px 60px 30px;
+  padding: 0px;
+}
+
+/* stolen from https://rust-lang.github.io/rust-clippy/master/index.html */
+.permalink {
+  padding: 0.2em 0.6em 0.3em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: center;
+  border-radius: 0.25em;
+  background-color: #488d9e;
+  text-decoration: none;
+  visibility: hidden;
+}
+
+/*# sourceMappingURL=main.css.map */

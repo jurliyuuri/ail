@@ -1,0 +1,5244 @@
+{
+    "words": [
+        {
+            "entry" : {
+              "id" : 36096,
+              "form" : "o"
+            },
+            "translations" : [ ],
+            "tags" : [ "真理設定" ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "分離詞\n"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36097,
+              "form" : "oai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "霊媒の能力,【地名】リューベック（ドイツ）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36098,
+              "form" : "oaii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "浮浪者;【海】不定期貨物船"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36099,
+              "form" : "obee"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【カ】ローマ教皇大使"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36100,
+              "form" : "obeu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}類似の;【生】相似の;【情】アナログの,>>cifereca"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36101,
+              "form" : "obiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【織】フーラード（薄地の絹布）;（フーラード製の）スカーフ,ネッカチーフ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36102,
+              "form" : "obio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "最大限の,最高度の,極限の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36103,
+              "form" : "oblai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【動】シマスカンク（属）;（一般に）スカンク"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36104,
+              "form" : "obo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］編み合わせる,組み合わせる,撚り合わせる,［他］【医】（虫歯に）充填する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36105,
+              "form" : "obu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "自家中毒"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36106,
+              "form" : "obua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "た"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36107,
+              "form" : "obuo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "曲がりやすい"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36108,
+              "form" : "obwei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "町外れ,市外地"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36109,
+              "form" : "obwou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］ふりかける"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36110,
+              "form" : "obwu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "塩素ガス"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36111,
+              "form" : "oca"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "抑制の無い"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36112,
+              "form" : "ocaiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "=kirurgo（外科医）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36113,
+              "form" : "ocaio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］（予約を）取消す,解約する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36114,
+              "form" : "oce"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【電】交流"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36115,
+              "form" : "ocea"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "濃いコーヒー"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36116,
+              "form" : "ocha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（女が）男のような,［自］乾く,乾燥する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36117,
+              "form" : "ochi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "背についているもの;【料】背肉"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36118,
+              "form" : "oci"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］（書類など）実際より後の日付にする"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36119,
+              "form" : "ociu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "内務大臣"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36120,
+              "form" : "ocoa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "国会議員団"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36121,
+              "form" : "ocou"
+            },
+            "translations" : [ ],
+            "tags" : [ "真理設定" ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］花が散る,派手な色,真四角な紙片"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36122,
+              "form" : "ocue"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "北に,北方に"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36123,
+              "form" : "ocuo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【楽】声楽"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36124,
+              "form" : "ocwi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］（女を）婚約させる,硬質ゴム,>>ebonito"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36125,
+              "form" : "ocwo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］（徴兵・住民登録などの）名簿に記載する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36126,
+              "form" : "odau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "愚行"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36127,
+              "form" : "ode"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "聴覚"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36128,
+              "form" : "odiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "=obeado（服従）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36129,
+              "form" : "odo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【環】曝気（ばっき）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36130,
+              "form" : "odu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［他］尊敬する,尊重する,高く評価する,>>ati,>>respekti"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36131,
+              "form" : "odui"
+            },
+            "translations" : [ ],
+            "tags" : [ "真理設定" ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}油,石油,>>petrolo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36132,
+              "form" : "odzae"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "平和的に;平安に,平穏に,安らかに,【料】ポレンタ,=maizkao"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36133,
+              "form" : "odzaio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}控えめな,謙虚な,慎み深い;質素な,地味な,ささやかな,（la ～）次週,翌週,来週"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36134,
+              "form" : "odzao"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "文学者,作家"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36135,
+              "form" : "odzee"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【軍】弾道学,骨相学"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36136,
+              "form" : "odzeo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "精糖所"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36137,
+              "form" : "odzua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（al）［自］～に反対している;～に向かい合っている\n［他］反対する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36138,
+              "form" : "oei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "金縁の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36139,
+              "form" : "ofai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "いっしょの,同じ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36140,
+              "form" : "ofaii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【動】ネコ（猫）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36141,
+              "form" : "ofaio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "盗人,泥棒"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36142,
+              "form" : "ofeo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］予防する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36143,
+              "form" : "ofeu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【政】官房;（大使館などの）事務局,記録保管室"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36144,
+              "form" : "ofii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［他］確定する,定める;測定する;【Ｇ】限定する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36145,
+              "form" : "ofiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "最終的な,決定的な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36146,
+              "form" : "ofoi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "流れ,カタカナ（片仮名）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36147,
+              "form" : "ofoo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【化】ナトロン,ソーダ石（炭酸ナトリウムを含む）,>>sodo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36148,
+              "form" : "ofua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "月に"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36149,
+              "form" : "ofue"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "溶鉱炉"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36150,
+              "form" : "ogaio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【医】子癇（しかん）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36151,
+              "form" : "ogaiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "設備,施設;備品"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36152,
+              "form" : "oge"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【運】リレー競走"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36153,
+              "form" : "ogeai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "避け得る"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36154,
+              "form" : "ogei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}穀物,［自］悪臭がする,=malbonodori"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36155,
+              "form" : "ogia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】電位"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36156,
+              "form" : "ogoai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "暫定内閣"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36157,
+              "form" : "ogu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］復刻する,再版する;転載する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36158,
+              "form" : "ogua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【植】ゼニアオイ（種）（銭葵）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36159,
+              "form" : "ogue"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【料】ピラフ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36160,
+              "form" : "oguu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】=Skopio"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36161,
+              "form" : "oh^aiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "厳しい,荒々しい,>>kruda,>>severa"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36162,
+              "form" : "oh^aio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［前］～によって（受け身の主語）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36163,
+              "form" : "oh^ua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "燃焼;火事"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36164,
+              "form" : "oha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【病】関節炎,=artikinflamo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36165,
+              "form" : "ohai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "過度の,行過ぎた,並外れた,>>troa"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36166,
+              "form" : "ohei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】ニアメ（ニジェールの首都）,{Ｂ}［他］【服】裁断する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36167,
+              "form" : "ohi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "め 目"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36168,
+              "form" : "ohi1"
+            },
+            "translations" : [ ],
+            "tags" : [ "真理設定" ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "したしい (親しい)"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36169,
+              "form" : "ohou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "有徳者"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36170,
+              "form" : "ohu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【動】=damao,ダマジカ,（作業などの）班,チーム"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36171,
+              "form" : "ohua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［自］栄えている,繁栄している,繁盛している,繁茂している;うまくいく,成功する,>>sukcesi"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36172,
+              "form" : "ohuo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "涙を流す"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36173,
+              "form" : "ohuu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "撃たれた"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36174,
+              "form" : "oia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【印】斜体文字,>>kursivo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36175,
+              "form" : "oiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "血痕"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36176,
+              "form" : "oio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "食事をとる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36177,
+              "form" : "oja"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "しっかりと,がっちりと;じっと"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36178,
+              "form" : "ojae"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "紅おしろい,美顔料,化粧品,【劇】ドーラン"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36179,
+              "form" : "ojai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "教育者の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36180,
+              "form" : "ojau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【病】喉頭炎,=gorinflamo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36181,
+              "form" : "ojo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "名あて人,受取人"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36182,
+              "form" : "ojoai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "左利きの人"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36183,
+              "form" : "ojoe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【料】イチゴのプレザーブ,イチゴジャム"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36184,
+              "form" : "ojuo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "塩魚"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36185,
+              "form" : "ojuu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【史】（中世ドイツの）方伯"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36186,
+              "form" : "ok'ae"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】（散乱）断面積"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36187,
+              "form" : "ok'aio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］【海】座礁する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36188,
+              "form" : "ok'eai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】ルアーブル（フランス）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36189,
+              "form" : "ok'eo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "後援,賛助,庇護（ひご）;前兆"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36190,
+              "form" : "ok'eu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】コペンハーゲン（デンマークの首都）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36191,
+              "form" : "okha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "翌年"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36192,
+              "form" : "okhei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "展示場,展覧会場,博覧会場"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36193,
+              "form" : "okhou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】光量子"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36194,
+              "form" : "okhu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【機】=muntumo（台座）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36195,
+              "form" : "ok'ia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "うつろになった幹"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36196,
+              "form" : "okiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "曲芸,軽業（かるわざ）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36197,
+              "form" : "ok'io"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］【写】絞りを開く"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36198,
+              "form" : "ok'ua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "破壊者"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36199,
+              "form" : "ok'uu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}議会,国会;>>Dieto"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36200,
+              "form" : "ola"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "あり得る批判"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36201,
+              "form" : "olai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "ヘアドライヤー"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36202,
+              "form" : "olaio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "母語,=denaska lingvo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36203,
+              "form" : "olaiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【解】うなじ,首筋,襟首（えりくび）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36204,
+              "form" : "olau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【楽】フーガ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36205,
+              "form" : "oli"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【情】ワードプロセッサ,=verkilo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36206,
+              "form" : "olii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "推薦候補"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36207,
+              "form" : "olua1"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "ふすま 襖"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36208,
+              "form" : "omaa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【楽】アルペジオ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36209,
+              "form" : "omaai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【情】分散処理"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36210,
+              "form" : "omaii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【商】見本一式"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36211,
+              "form" : "omao"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "提案,動議,申し出;提供"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36212,
+              "form" : "omau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "組織,機構,団体"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36213,
+              "form" : "omei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】不可逆変化"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36214,
+              "form" : "omii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "環境の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36215,
+              "form" : "omoa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【機】旋削バイト"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36216,
+              "form" : "omuu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "適切な,ふさわしい,向いている;礼儀にかなった"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36217,
+              "form" : "onaiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【軍】従卒"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36218,
+              "form" : "onau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］粉々にする,粉砕する,すりつぶす"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36219,
+              "form" : "onga"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "腹巻,腹帯"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36220,
+              "form" : "ongai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】熱エネルギー"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36221,
+              "form" : "ongao"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "自制,遠慮;棄権"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36222,
+              "form" : "ongi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］別々にする,区切る;【環】（ごみを）分別する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36223,
+              "form" : "ongo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "酔っぱらい"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36224,
+              "form" : "ongoa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【史】ヒエラティック,神官文字"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36225,
+              "form" : "ongui"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【印】実線"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36226,
+              "form" : "onguu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "反体制活動家"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36227,
+              "form" : "oni"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}横柄な,尊大な,思い上がった"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36228,
+              "form" : "onou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【天】みずがめ座,{Ｂ}貸し借り,貸借,=pruntado;=pruntao;>>pruntedono,>>pruntepreno"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36229,
+              "form" : "onyai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］釣り合う,均衡がとれる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36230,
+              "form" : "onyau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "=Sagitario（いて座）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36231,
+              "form" : "onye"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】ミュルーズ（フランス）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36232,
+              "form" : "onyei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］（身を捧げて）世話をする"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36233,
+              "form" : "ooe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［自］横たわっている,（水平に）置かれている;（異性と）寝る;《転》位置する,存在する,ある"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36234,
+              "form" : "opaai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【化】硝酸セルロース"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36235,
+              "form" : "op'aia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}消極的な;否定的な;【電】陰の;【理】【数】負の,Ｓ極の;>>pasiva,><pozitiva"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36236,
+              "form" : "opaiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "１万"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36237,
+              "form" : "op'aie"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【数】六角形"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36238,
+              "form" : "op'aio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "稲妻の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36239,
+              "form" : "op'aiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "釣り,=fihokado"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36240,
+              "form" : "opaiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】パラグアイ川,=Paragvaja Rivero,{Ｂ}【政】政体;制度,体制;【機】作動状態;【情】モード,>>enova,>>superskriba"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36241,
+              "form" : "opeai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【動】イモリ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36242,
+              "form" : "op'ee"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "無意志の,無意識的な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36243,
+              "form" : "opei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "クリップ（装身具・文具など）,>>broo,>>paperklipo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36244,
+              "form" : "opha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】=Gvanio（広西壮族自治区）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36245,
+              "form" : "opi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】カプア（イタリア）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36246,
+              "form" : "opii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "半熟卵"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36247,
+              "form" : "op'io"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【電】オーム（電気抵抗の単位,Ω）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36248,
+              "form" : "opo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "バギー（折りたたみ式の小型乳母車）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36249,
+              "form" : "op'oai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【気】最高温度計"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36250,
+              "form" : "opoai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【海】通報艦（無線のない時代に艦隊間の連絡に使用された小型の快速艦）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36251,
+              "form" : "opou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "番号の,数値の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36252,
+              "form" : "opua1"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "感動詞・間投詞はい"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36253,
+              "form" : "op'uai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "商業活動"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36254,
+              "form" : "opwai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "中央部"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36255,
+              "form" : "opwe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "化粧石鹸"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36256,
+              "form" : "opwei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【宗】神秘の,霊的象徴の;神秘主義的な,一級の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36257,
+              "form" : "oqa2"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "きざむ (刻む)"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36258,
+              "form" : "oqaie"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【服】襟（えり）ぐり"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36259,
+              "form" : "oqaiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］ふりかける"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36260,
+              "form" : "oqeai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［他］吐き気を催させる;《転》むかむかさせる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36261,
+              "form" : "oqee"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}（植物の）葉;（金属などの）薄片;紙片,広告産業,広告業界"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36262,
+              "form" : "oqio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "包囲の,攻城の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36263,
+              "form" : "oqoai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］（秘密を）打ち明ける"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36264,
+              "form" : "oqou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "いたずらっぽい表情"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36265,
+              "form" : "oraia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｎ}【人名】芭蕉（japana poeto, hajkisto, 1644-1694）,音域"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36266,
+              "form" : "oraie"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【軍】閲兵式;パレード;誇示,見せびらかし,>>manifestacio,>>procesio"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36267,
+              "form" : "oraii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］我慢する,辛抱する;根気よく待つ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36268,
+              "form" : "oraio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "まれな事;希少品,珍品"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36269,
+              "form" : "ore"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}強調,力説"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36270,
+              "form" : "orei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【病】狂犬病,>>akvofobio;《転》激怒,狂暴"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36271,
+              "form" : "oreo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【キ】教会参事会員,［他］告解を聴く,ざんげを聴く,【情】光ディスク"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36272,
+              "form" : "oreu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［擬］ズドン！（銃声）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36273,
+              "form" : "ori"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（個々の）操作"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36274,
+              "form" : "oriai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "=konsilisto（参事官）;=konsiliano（評議員）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36275,
+              "form" : "oru"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}苦い;きびしい,無政府の,無政府状態の,建設,建造"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36276,
+              "form" : "os^aa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "明るい赤色,薄い赤色,=skarlato"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36277,
+              "form" : "os^aie"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（住み込みの）家庭教師,養育係"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36278,
+              "form" : "os^aii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【写】補力剤"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36279,
+              "form" : "os^ea"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "=konvinko（納得）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36280,
+              "form" : "os^ua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "副大統領"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36281,
+              "form" : "os^uu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】=Induso"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36282,
+              "form" : "osa2"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "醤油"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36283,
+              "form" : "os'aa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【建】（建物の）正面,ファサード;【情】ユーザーインターフェース,>>interfaco"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36284,
+              "form" : "osai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【環】集約的畜産"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36285,
+              "form" : "osaia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "脱税"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36286,
+              "form" : "os'ao"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［他］拒絶する,拒む,断る,辞退する,～しようとしない"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36287,
+              "form" : "osau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}わら（藁）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36288,
+              "form" : "osha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【果】グレープフルーツ,【海】ラガー（小型の帆船）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36289,
+              "form" : "oshai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］（傷が）癒着（ゆちゃく）する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36290,
+              "form" : "oshei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【果】スミノミザクラの実（酸味の強い加工用サクランボ）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36291,
+              "form" : "osho"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "野良犬（のらいぬ）,=migra hundo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36292,
+              "form" : "oshou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【Ｅ】チャペリーロ（エスペラント用ワープロの商品名）,異父兄弟,異母兄弟,キューバの\n立方体の,立方形の;立方の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36293,
+              "form" : "osi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【動】バビルサ,シカイノシシ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36294,
+              "form" : "osiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］【経】国有化する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36295,
+              "form" : "os'oai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "縮写図"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36296,
+              "form" : "osou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "無用の,無駄な,終日の,一日間の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36297,
+              "form" : "osu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "始祖,先祖"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36298,
+              "form" : "os'ue"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "消極性"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36299,
+              "form" : "os'uo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "起立状態;停滞"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36300,
+              "form" : "osuo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "健忘,忘れっぽいこと"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36301,
+              "form" : "ot^aa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}（傾斜した）見台,書見台,記帳台,立ち机;【楽】譜面台"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36302,
+              "form" : "ot^aai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【服】胸当"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36303,
+              "form" : "ot^aio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "まっすぐなこと"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36304,
+              "form" : "ot^ao"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}（食物を覆う）鐘形ガラス器;釣鐘形のもの"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36305,
+              "form" : "ot^eo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］巻きつく"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36306,
+              "form" : "otai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（新聞・雑誌の）切り抜き"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36307,
+              "form" : "ot'aiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "防腐剤"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36308,
+              "form" : "ot'aio"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【哲】唯名論"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36309,
+              "form" : "ot'eo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "繁栄,順調な暮し,恵まれた生活"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36310,
+              "form" : "otha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【鳥】ウミワシ（海鷲）,オオワシ（大鷲）,=haliaeto"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36311,
+              "form" : "othe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "=>beloruso,（la ～）レジオン・ドヌール（フランス最高の勲章）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36312,
+              "form" : "otho"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【Ｅ】FEL発行の月刊総合誌"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36313,
+              "form" : "othou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【美】（絵画・舞台の）背景,=fono,><antaa plano"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36314,
+              "form" : "oto"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "さる 猿"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36315,
+              "form" : "otoo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］=heni,いななく"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36316,
+              "form" : "otu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【化】卑金属"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36317,
+              "form" : "otuai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "保護,庇護（ひご）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36318,
+              "form" : "otwei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【数】小数点,【料】パン粉"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36319,
+              "form" : "otwu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "購買力"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36320,
+              "form" : "oua"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "やめる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36321,
+              "form" : "ouai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "巻き貝（の殻）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36322,
+              "form" : "ouba"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "修理できない,まっすぐなこと"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36323,
+              "form" : "oube"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【印】リーム,連（紙の取引単位＝５００枚）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36324,
+              "form" : "oublau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "積極性;【数】正"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36325,
+              "form" : "oublo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］並べて置く,どら声の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36326,
+              "form" : "oublou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "ニクズクバター"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36327,
+              "form" : "oubo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【軍】連隊長,>>kolonelo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36328,
+              "form" : "oubu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【植】バラ（の木）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36329,
+              "form" : "oubwau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "少女,女の子,一かたまりの;【服】ワンピースの"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36330,
+              "form" : "oubwo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "神の恵み,=graco,【機】スパナ,レンチ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36331,
+              "form" : "ouca"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "長距離電話"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36332,
+              "form" : "oucai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【果】ナシ（梨）,洋ナシ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36333,
+              "form" : "ouce"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（トランプなどの）カード一組;=maparo（地図帳）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36334,
+              "form" : "ouchai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}［自］振動する,揺れる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36335,
+              "form" : "ouchau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "細菌を培養する,感情の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36336,
+              "form" : "ouchei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}自転車"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36337,
+              "form" : "oucho"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【史】（古代ローマの）道化役者;《転》大根役者"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36338,
+              "form" : "ouchou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "新鮮な卵"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36339,
+              "form" : "ouchu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "ザメンホフの"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36340,
+              "form" : "oucwa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}本,書籍,書物,図書;帳簿,記録簿;（書物の）巻,編"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36341,
+              "form" : "oucwai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【環】使い捨て食器"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36342,
+              "form" : "oucwau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地理】地理緯度"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36343,
+              "form" : "oucwei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【織】ラシャ,>>lanao,>>tofo,>>tuko"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36344,
+              "form" : "ouda"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "ダブルベッド"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36345,
+              "form" : "oudau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］【医】消毒する,>>sterilizi"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36346,
+              "form" : "oude"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］だます,かつぐ,{Ｏ}=iktiokolo,=figluo（魚膠）,［他］錨をあげる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36347,
+              "form" : "oudei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "刃,（とがった）かど,はし"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36348,
+              "form" : "oudi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "タイプライター"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36349,
+              "form" : "ougai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【国名】=Popola Demokratia Respubliko Koreio, =Nord-Koreio\n【国名】=Respubliko Koreio, =Sud-Koreio\n【国名】朝鮮・韓国,>>Nord-Koreio,>>Sud-Koreio"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36350,
+              "form" : "ougau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【動】ハムスター,キヌゲネズミ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36351,
+              "form" : "ouge"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "基礎の;基礎的な,基本的な,【機】ターボジェット"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36352,
+              "form" : "ougei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】ハルツーム（スーダンの首都）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36353,
+              "form" : "ougo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【化】結晶;【鉱】水晶;クリスタルガラス"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36354,
+              "form" : "ouha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "境界標,境界石"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36355,
+              "form" : "ouhe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】ブルゴーニュ地方（フランス）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36356,
+              "form" : "ouhei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【宗】多神教,=plurdiismo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36357,
+              "form" : "ouho"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【経】市場価値"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36358,
+              "form" : "ouhou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］勇気づける,激励する,元気づける"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36359,
+              "form" : "ouhu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}速記術"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36360,
+              "form" : "oui"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］=trudi"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36361,
+              "form" : "oujai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【車】八気筒の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36362,
+              "form" : "oujo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［接］または,あるいは"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36363,
+              "form" : "oujou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］気分である"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36364,
+              "form" : "ouka"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】伏角,=inklinacio"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36365,
+              "form" : "oukai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【植】ホルミヌム（属,南欧の高山植物）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36366,
+              "form" : "oukha"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地理】大陸縁辺部"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36367,
+              "form" : "oukhai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【人名】ルドルフ（男子名）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36368,
+              "form" : "oukhau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【運】準々決勝"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36369,
+              "form" : "oukhei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "官房職員,事務局職員"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36370,
+              "form" : "oukhi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "鎖状の;連鎖した"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36371,
+              "form" : "oukho"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【空】グライダー"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36372,
+              "form" : "oukhu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［他］押しやる,ずらせる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36373,
+              "form" : "ouki"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "どの場合にも,ともかく"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36374,
+              "form" : "ouko"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "乳状の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36375,
+              "form" : "ouku"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（登山家や兵士の着用する）バラクラバ帽,目出し帽"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36376,
+              "form" : "oula"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［数詞］二"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36377,
+              "form" : "oulai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "毛並みに逆らって,逆に"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36378,
+              "form" : "oulau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "誇大広告"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36379,
+              "form" : "oulei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］（水に）つかる,沈む"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36380,
+              "form" : "oumai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "裁判,裁き;判断,判定;審判"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36381,
+              "form" : "oume"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "微熱,=vegetalo"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36382,
+              "form" : "oumei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【病】幼稚症"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36383,
+              "form" : "oumi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "潤滑油"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36384,
+              "form" : "oumu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］【病】萎縮させる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36385,
+              "form" : "ounai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（綱渡りの）バランス棒,{Ｏ}【病】瘻孔（ろうこう）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36386,
+              "form" : "ounau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【楽】（弦楽器の）共鳴箱,音響室"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36387,
+              "form" : "oune"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "チェスクラブ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36388,
+              "form" : "ounei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "複合した;入り組んだ,複雑な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36389,
+              "form" : "oungai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "中央銀行,ばか正直な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36390,
+              "form" : "oungau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］おしろいを塗る,化粧する,メークアップする"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36391,
+              "form" : "oungu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【植】常緑樹,数学の,数学的な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36392,
+              "form" : "ouni"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "金メダル"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36393,
+              "form" : "ounou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "駅長,局長,【地名】サウス・カロライナ州（米国）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36394,
+              "form" : "ounya"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "戦場"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36395,
+              "form" : "ounye"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【料】ウイスキー"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36396,
+              "form" : "ounyo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］生き返らせる,復活させる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36397,
+              "form" : "ounyou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "罪深い"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36398,
+              "form" : "ounyu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【経】株主,［自］確実になる,確信する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36399,
+              "form" : "ouou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【海】中甲板;甲板の間,【美】点描画法,点刻版画法"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36400,
+              "form" : "oupa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【機】ボール盤,削岩機,ボーリングマシン,品位に満ちた"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36401,
+              "form" : "oupai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］会合する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36402,
+              "form" : "oupau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【数】奇数"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36403,
+              "form" : "oupe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "明確な命令"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36404,
+              "form" : "oupei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］来させる,呼び寄せる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36405,
+              "form" : "ouphe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "幼稚な理屈"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36406,
+              "form" : "ouphi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］こぶしでなぐる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36407,
+              "form" : "ouphou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "組合員"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36408,
+              "form" : "ouphu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【虫】繭（まゆ）;（クモの）卵嚢（らんのう）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36409,
+              "form" : "oupi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "懐中電灯"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36410,
+              "form" : "oupou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【動】ザリガニ（の類）,［他］（鞘などから）抜く,=malingi,賛同の身ぶり,【空】旅客機"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36411,
+              "form" : "oupu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【数】八面体"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36412,
+              "form" : "oupwa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】転換炉"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36413,
+              "form" : "oupwau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【国名】タジキスタン（アジア）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36414,
+              "form" : "oupwi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "鍵"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36415,
+              "form" : "oupwo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］聴診する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36416,
+              "form" : "oura"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "押し合いへし合い;衝突"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36417,
+              "form" : "ourai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【化】解離"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36418,
+              "form" : "ourau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（本の）後書き,後記"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36419,
+              "form" : "oure"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "機械室,機関室"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36420,
+              "form" : "ourei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "お世辞のうまい人;追従者,{Ｂ}十億"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36421,
+              "form" : "ouro"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【史】ボイオティア人（古代ギリシア）,第一に,まず"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36422,
+              "form" : "ourou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "奇人,変人"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36423,
+              "form" : "ousa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "草の繁った,草の多い"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36424,
+              "form" : "ousau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "親しい人,親友"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36425,
+              "form" : "ousei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "残飯,食べ残し"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36426,
+              "form" : "oushi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【楽】ボストンワルツ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36427,
+              "form" : "oushu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【服】ホック,=agrafo;【楽】（音符の）旗,符鉤（ふこう）;【印】（かぎ形の）字上符（ブリーブやキャロン）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36428,
+              "form" : "ousi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}［副］あまりに～すぎる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36429,
+              "form" : "ouso"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "言,ことば,【学】度量衡学,計測学"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36430,
+              "form" : "outai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【写】被写体"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36431,
+              "form" : "oute"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］重ね刷りする"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36432,
+              "form" : "outhai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］【理】（熱・電気を）伝導する,伝える"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36433,
+              "form" : "outhe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "偽造,偽作"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36434,
+              "form" : "outhu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］創造される,創作される"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36435,
+              "form" : "outi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【政】中道派（人）,中間派（人）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36436,
+              "form" : "outo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "大便,くそ,糞（ふん）,気兼ねしたほほ笑み,【地名】グアテマラシティ（グアテマラの首都）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36437,
+              "form" : "outwei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}病理学者"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36438,
+              "form" : "outwu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "応用力学"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36439,
+              "form" : "ouwa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【植】メキャベツ,=bruselbrasiko,（肉食獣の）口,=fako"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36440,
+              "form" : "ouwe"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】シャントン省（山東省,中国）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36441,
+              "form" : "ouwei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【Ｇ】=singularo（単数）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36442,
+              "form" : "ouxai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "綱（つな）,ひも,ロープ;《転》絆（きずな）,つながり"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36443,
+              "form" : "ouxi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "畜舎,牧舎"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36444,
+              "form" : "ouxo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "侵略的な,攻撃的な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36445,
+              "form" : "ouya"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【化】リン酸"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36446,
+              "form" : "ouye"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "老い;老年,老境,{Ｏ}［文字名］ショー（文字,の名称）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36447,
+              "form" : "ouyei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "賃金,労賃,日焼け色（日焼けした肌の色）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36448,
+              "form" : "ouyou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "書類箱"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36449,
+              "form" : "ouza"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}葉巻,【電】検流器"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36450,
+              "form" : "ouze"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}【動】サソリ"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36451,
+              "form" : "ouzo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］【農】植林する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36452,
+              "form" : "ouzou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}大言壮語,誇張"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36453,
+              "form" : "ovaai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "煎じた液,浸出液;ハーブティー,茶"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36454,
+              "form" : "ovau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "語源辞典"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36455,
+              "form" : "ovei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "有徳者"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36456,
+              "form" : "ovii"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "大公,=arkiduko,=efduko"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36457,
+              "form" : "ovoa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（行事などでの）斉唱,紙の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36458,
+              "form" : "ovuu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｂ}（あかり取りの）小窓;【建】天窓（てんまど）;【海】舷窓（げんそう）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36459,
+              "form" : "owaia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "初歩的な,基本の,未発達の;痕跡の"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36460,
+              "form" : "owaiai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］もつれる;混乱する;巻き込まれる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36461,
+              "form" : "owau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】トゥーレーヌ地方（フランス）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36462,
+              "form" : "owea"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］病気を治す,健康を回復する,癒やす"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36463,
+              "form" : "owei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【環】集中冷暖房,【地名】アラフラ海（オーストラリア北方）,最小で,最少で,最低で;少なくとも"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36464,
+              "form" : "owou"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "チリ硝石,=natria nitrato"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36465,
+              "form" : "owu"
+            },
+            "translations" : [ ],
+            "tags" : [ "真理設定" ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "板,【地質】プレート"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36466,
+              "form" : "owu1"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "上下 (じょうげ)"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36467,
+              "form" : "oxa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "右に"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36468,
+              "form" : "oxaia"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "信頼の,郵便集配人"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36469,
+              "form" : "oxaie"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "致命傷,歩数計（「万歩計」は商標）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36470,
+              "form" : "oxaiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "点字文"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36471,
+              "form" : "oxao"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "（自転車などの）後輪"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36472,
+              "form" : "oxau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】沖縄"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36473,
+              "form" : "oxeai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}野心,大望"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36474,
+              "form" : "oxei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}ハーレム（イスラムの家屋で女性の居室）;後宮"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36475,
+              "form" : "oxi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "言語権"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36476,
+              "form" : "oxu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］支える"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36477,
+              "form" : "oxuai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "奇人,変人"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36478,
+              "form" : "oyau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "{Ｏ}【建】手すり,欄干"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36479,
+              "form" : "oye"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【理】フェルミオン,フェルミ粒子,>>bosono"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36480,
+              "form" : "oyi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］満腹する,満ち足りる"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36481,
+              "form" : "oyie"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］結晶させる;《転》具体化する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36482,
+              "form" : "oyiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "密封した,密閉した;難解な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36483,
+              "form" : "oyoa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "読むこと,読み方;読書"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36484,
+              "form" : "oyoai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "単調な"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36485,
+              "form" : "oyuai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【地名】ティチーノ州（スイス）\n【地名】ティチーノ川（スイス・イタリア,ポー川の支流）"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36486,
+              "form" : "oyuu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "滞在費"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36487,
+              "form" : "ozaa"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］知る;知り合う;識別する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36488,
+              "form" : "ozaai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "雌羊"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36489,
+              "form" : "ozai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "影絵芝居"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36490,
+              "form" : "ozaiu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］後払いする"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36491,
+              "form" : "ozau"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【Ｇ】基数詞"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36492,
+              "form" : "ozee"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【楽】半音"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36493,
+              "form" : "ozei"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "小児科医"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36494,
+              "form" : "ozeu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［自］蒸発してしまう"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36495,
+              "form" : "ozo"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "【単】エーカー（土地の面積）,表明,明示,表示,表れ,【医】精神科,精神医学"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36496,
+              "form" : "ozoi"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "［他］ちりにする,粉末にする,粉砕する"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36497,
+              "form" : "ozu"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "現在 (げんざい)"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }, {
+            "entry" : {
+              "id" : 36498,
+              "form" : "ozuai"
+            },
+            "translations" : [ ],
+            "tags" : [ ],
+            "contents" : [ {
+              "title" : "訳語",
+              "text" : "全体として,総計"
+            } ],
+            "variations" : [ ],
+            "relations" : [ ]
+          }
+    ]
+}
