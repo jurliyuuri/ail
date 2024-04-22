@@ -5255,13 +5255,16 @@
           }, {
             "entry" : {
               "id" : 28459,
-              "form" : "MAKINA"
+              "form" : "makina"
             },
-            "translations" : [ ],
+            "translations" : [ "真理設定" ],
             "tags" : [ ],
             "contents" : [ {
               "title" : "訳語",
               "text" : "音楽,"
+            }, {
+              "title" : "旧辞書表記",
+              "text" : "phengua2"
             } ],
             "variations" : [ ],
             "relations" : [ ]

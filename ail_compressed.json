@@ -4985,6 +4985,19 @@
     "relations" : [ ]
   }, {
     "entry" : {
+      "id" : 28459,
+      "form" : "makina"
+    },
+    "translations" : [ ],
+    "tags" : [ "真理設定" ],
+    "contents" : [ {
+      "title" : "訳語",
+      "text" : "音楽,"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
       "id" : 28477,
       "form" : "makutu"
     },
@@ -6332,6 +6345,19 @@
     "relations" : [ ]
   }, {
     "entry" : {
+      "id" : 37768,
+      "form" : "peixe"
+    },
+    "translations" : [ ],
+    "tags" : [ "真理設定" ],
+    "contents" : [ {
+      "title" : "訳語",
+      "text" : "もとの方へ,後ろへ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
       "id" : 37813,
       "form" : "peki"
     },
@@ -7474,6 +7500,19 @@
     "relations" : [ ]
   }, {
     "entry" : {
+      "id" : 49748,
+      "form" : "sua"
+    },
+    "translations" : [ ],
+    "tags" : [ "真理設定" ],
+    "contents" : [ {
+      "title" : "訳語",
+      "text" : "円錐の,円錐形の"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
       "id" : 49755,
       "form" : "suaki"
     },
@@ -8449,6 +8488,19 @@
     } ],
     "tags" : [ "真理設定" ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55604,
+      "form" : "tunii"
+    },
+    "translations" : [ ],
+    "tags" : [ "真理設定" ],
+    "contents" : [ {
+      "title" : "訳語",
+      "text" : "［他］予定する"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {

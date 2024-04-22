@@ -308,6 +308,7 @@ maixaai
 maka
 makana
 makasu
+makina
 mamau
 mamu
 manana
@@ -388,6 +389,7 @@ p'afaiu
 p'aibaia
 paxo
 pechu
+peixe
 peki
 pelu
 perao
@@ -464,6 +466,7 @@ siusa
 sono
 soqoai
 su
+sua
 suaki
 suama
 sui
@@ -518,6 +521,7 @@ topo
 tubi
 tui
 tumi
+tunii
 tunu
 tut^oe
 twaji
