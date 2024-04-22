@@ -7239,6 +7239,19 @@
     "relations" : [ ]
   }, {
     "entry" : {
+      "id" : 47662,
+      "form" : "shaimai"
+    },
+    "translations" : [ ],
+    "tags" : [ "真理設定" ],
+    "contents" : [ {
+      "title" : "訳語",
+      "text" : "【理】水圧,糸の玉,【数】四角形"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
       "id" : 47861,
       "form" : "shaute"
     },
