@@ -1,1 +1,1 @@
-wget -O dict.tsv 'https://docs.google.com/spreadsheets/d/1Han8vd6RHVaT0CV6svMh840AgeAiqi7ieY2kbuBbfEk/export?gid=0&format=tsv'
+wget -O dict.txt 'https://docs.google.com/spreadsheets/d/1Han8vd6RHVaT0CV6svMh840AgeAiqi7ieY2kbuBbfEk/export?gid=0&format=tsv'
