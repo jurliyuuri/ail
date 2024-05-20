@@ -7,14 +7,14 @@
 -sa	接尾辞	女	女、おんな	usa				TRUE		
 a	間投詞	噫	あ		a.pek, há.bt, a.tk					
 a	助詞	之	～の、～と、～かつ、と、かつ		a.pk, a.tk, -án.bt				A a B「BのA」	古くは他のラネーメ言語と同様にA a Bで「AのB」であったため、理語などにはその語形で入っていることも多い
-abudijey	名詞		汚染防止			abudijey	TRUE			
+abudijey	名詞		汚染防止			abdijery	TRUE			
 acaur	動詞	能	～する能力がある、～することができる		c-u.tk, ácahúl.bt					
 aciir	動詞	辿	道をたどる		aci-lu.tk, accúl.bt					
-adwidere	名詞		人肉食			adwirdurta	TRUE			
+adwirede	名詞		人肉食			adwirdurta	TRUE			
 age	形容詞		仮の、臨時の、一時的な		ághai.bt	irxe	TRUE			
 aguvii	形容詞		せっかちな、気が早い			agvir	TRUE			
-ai'r	名詞	冠	アイル		ai2.pk					正書法は理語からの逆輸入と思われる
-ai'raniija	名詞		アイラニーヤ					TRUE		理語を母語とするアイル人のこと
+airu	名詞	冠	アイル		ai2.pk					理語の影響でai'r、東島通商語の影響でailと綴られることも多い。
+airaniija	名詞		アイラニーヤ					TRUE		理語を母語とするアイル人のこと
 aifeu	名詞		子供、こども、(人の)子			fevaiarj, gekarifew	TRUE			
 aihei	名詞	冠	王冠		ai2.pk, ehai.bt					
 aihou	間投詞		じゃあ！			aihou	TRUE			
@@ -28,7 +28,7 @@ ait'ee	名詞		牢、監獄、独房			etaj	TRUE			理語辞書ではaitóee
 akai	名詞	血	血		kai1.pk, ághi.bt					
 akata	名詞	書	書物		ak1.pk, aghauṭa.bt, ákúḷ.bt					
 ake	名詞		火山弾			mammake	TRUE			
-akia	名詞	日	太陽		kia1.pk, ákíjam.bt, kija.tk					
+akia	名詞	日	太陽、日		kia1.pk, ákíjam.bt, kija.tk					
 akir	動詞		～させる、～せる					FALSE		
 akui	形容詞		仮、仮の		ághai.bt					
 akunu	名詞		貴様、きさま、てめえ					TRUE		
@@ -137,7 +137,7 @@ chisha	名詞	質	性質		zit1.pk
 chixu	名詞		時計		zíghíṣ,bt					
 chobu	名詞		本；乗用馬					TRUE		
 chogau	名詞		料理、調理			xorga	TRUE			
-choma	名詞		たびたび、なんども			chomadipai	TRUE			
+choma	副詞		たびたび、なんども			chomadipai	TRUE			
 chuwo	名詞	片	かけら		zuo1.pk	chuvo	TRUE			
 cica	名詞	吏、宦	地方公務員					TRUE		
 cidoxiler	動詞		はさむ			cedoxirle	TRUE			
@@ -393,7 +393,7 @@ leka	名詞	絵	絵、絵画		lek1.pk, legha.bt, leghúḷ.bt
 lexai	形容詞		口頭での、言葉の			lerxenurtha	TRUE			
 libwa	名詞	虫	虫、むし、昆虫、（クモ・カタツムリ・ダンゴムシなどの）昆虫でなく、細長くない虫		li2.pk					
 lihuor	動詞		平たくする、ぺしゃんこにする、潰す		rohúḷ.bt					
-linest ols	名詞		リナエスト・オルス					TRUE		
+linaesto olus	名詞		リナエスト・オルス					TRUE		
 lingei	形容詞	清	よごれのない、しみのない		lin.pk					
 lisua	名詞	倉	保管所、倉庫		li1.pk					
 liwor	動詞	須	～しなければならない、～にちがいない、～はずである		ly.pk					
@@ -490,7 +490,7 @@ nguwa	名詞	弓	弓	nguwar	gua2.pk, ghá.bt
 nguwar	動詞	弓	弓で射る、射撃する	nguwa	gua2.pk, ghá.bt					
 nicuu	名詞		エリート、精鋭			nixur	TRUE			
 niku	名詞	六	六、6					TRUE		
-nilua	名詞	胸	準備；胸					FALSE		
+nilua	名詞	胸？	準備；胸？					TRUE		
 nimutu	名詞	族	民族		nim2.pk, nímaṣ.bt, nisu.tk					
 ninu	名詞	紙	紙		nin1.pk, nín.bt					
 nisisa	名詞		河豚、フグ			nisirsa	TRUE			
@@ -526,7 +526,7 @@ oqaiur	動詞		ふりかける		okajúḷ.bt
 owifizu	形容詞		奇妙な			arvifit	TRUE			
 owu	名詞	平	板、プレート		o1.pk					
 p'afaiu	名詞		岬			pafey	TRUE			
-p'aibaia	名詞		興味、関心、利益		bhajúḷ.bt					
+p'aibaia	名詞		興味、関心		bhajúḷ.bt					
 paxo	名詞	犬	犬	phaxo	pa2.pk					
 pechu	名詞		チーズ			perchu	TRUE			
 peixe			後ろに、後ろの		peixe.pmcp					
@@ -677,10 +677,11 @@ titatir	動詞		死ぬ					TRUE
 titimur	動詞	待	待つ		tim1.pk					
 titu	形容詞	正	正しい		tit1.pk					
 titusur	動詞		殺す			korsissatit	TRUE			
-tiu		再	再び		ty.pk, tiu.bt					
+tiu	副詞	再	再び		ty.pk, tiu.bt					
 tiuar	動詞	従	従う		tia1.pk					
 tiuna	名詞	左	左		tyn1.pk, tijuna.pmcp					
 tixuo	名詞	花	花、草花；最良の部分		xuo1.pk, díṣlo.bt					
+tobai	副詞		すでに、もう							
 tobwu	名詞	樽	容器		to2.pk, ton.tk					
 toca	形容詞		尊敬すべき		ṭác.bt					
 topor	動詞		ある					FALSE		
