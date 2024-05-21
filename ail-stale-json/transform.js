@@ -1,7 +1,11 @@
 "use strict";
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
-    Object.defineProperty(o, k2, { enumerable: true, get: function() { return m[k]; } });
+    var desc = Object.getOwnPropertyDescriptor(m, k);
+    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
+      desc = { enumerable: true, get: function() { return m[k]; } };
+    }
+    Object.defineProperty(o, k2, desc);
 }) : (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     o[k2] = m[k];
@@ -35,18 +39,18 @@ const getWord = (word) => {
     return `<div class="word" id="${html_element_id}" onmouseover="document.getElementById('permalink_${html_element_id}').style.visibility = 'visible'" onmouseout="document.getElementById('permalink_${html_element_id}').style.visibility = 'hidden'">${word_form + translations + contents + relations}</div>\n`;
 };
 indices.forEach((index) => {
-    const file = fs.readFileSync(`./json/air_${index}.json`, "utf-8");
+    const file = fs.readFileSync(`./json/ail_${index}.json`, "utf-8");
     const content = JSON.parse(file);
     var text = `<html><head><link rel="stylesheet" href="./main.css"/></head><body>\n<div class="outer">\n<div class="title">${index}</div>\n`;
     content["words"].forEach((word) => {
         text += getWord(word);
     });
     text += "</div>\n</body></html>";
-    fs.writeFile(`./dict/air_${index}.html`, text, () => { });
+    fs.writeFile(`./dict/ail_${index}.html`, text, () => { });
 });
 var indexPage = `<html><head><link rel="stylesheet" href="./main.css"></head><body>\n<div class="outer">\n<div class="title">Air Stale Dict</div>\n<ul>\n`;
 indices.forEach((index) => {
-    indexPage += `<li><a href="air_${index}.html">${index}</a></li>\n`;
+    indexPage += `<li><a href="ail_${index}.html">${index}</a></li>\n`;
 });
 indexPage += "</ul>\n</body>\n</html>";
 fs.writeFile(`./dict/index.html`, indexPage, () => { });

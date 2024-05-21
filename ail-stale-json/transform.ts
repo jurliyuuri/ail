@@ -47,19 +47,19 @@ const getWord = (word: Word) => {
 };
 
 indices.forEach((index) => {
-    const file = fs.readFileSync(`./json/air_${index}.json`, "utf-8");
+    const file = fs.readFileSync(`./json/ail_${index}.json`, "utf-8");
     const content = JSON.parse(file);
     var text = `<html><head><link rel="stylesheet" href="./main.css"/></head><body>\n<div class="outer">\n<div class="title">${index}</div>\n`;
     content["words"].forEach((word: Word) => {
         text += getWord(word);
     })
     text += "</div>\n</body></html>"
-    fs.writeFile(`./dict/air_${index}.html`, text, () => {});
+    fs.writeFile(`./dict/ail_${index}.html`, text, () => {});
 });
 
 var indexPage = `<html><head><link rel="stylesheet" href="./main.css"></head><body>\n<div class="outer">\n<div class="title">Air Stale Dict</div>\n<ul>\n`;
 indices.forEach((index) => {
-    indexPage += `<li><a href="air_${index}.html">${index}</a></li>\n`;
+    indexPage += `<li><a href="ail_${index}.html">${index}</a></li>\n`;
 });
 indexPage += "</ul>\n</body>\n</html>";
 fs.writeFile(`./dict/index.html`, indexPage, () => {});
