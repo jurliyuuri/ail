@@ -20,7 +20,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "hep'iai"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -45,7 +50,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "uki"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -71,7 +81,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "uku"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -95,7 +110,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "amama"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -119,7 +139,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "inini"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -144,7 +169,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "usa"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -175,12 +205,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "a.pek, há.bt, a.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -221,20 +246,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "a.pk, a.tk, -án.bt"
-      },
-      {
-        "title": "例文",
-        "text": "A a B「BのA」"
-      },
-      {
-        "title": "備考",
-        "text": "古くは他のラネーメ言語と同様にA a Bで「AのB」であったため、理語などにはその語形で入っていることも多い"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -259,12 +271,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "abdijery"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -294,12 +301,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "c-u.tk, ácahúl.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -328,12 +330,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "aci-lu.tk, accúl.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -358,12 +355,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "adwirdurta"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -394,16 +386,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ághai.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "irxe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -429,12 +412,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "agvir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -461,12 +439,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fevaiarj, gekarifew"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -495,12 +468,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ai2.pk, ehai.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -525,12 +493,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aihou"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -561,12 +524,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "aik2.pk, eka-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -596,12 +554,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "aim2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -631,12 +584,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "em.pk, ema.bt, -aim.bt, -waim.bt, mu-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -673,12 +621,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "aip1.pk, ephaúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -722,16 +665,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "puau1.pk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "evoradz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -754,12 +688,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "理語を母語とするアイル人のこと"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -792,16 +721,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ai2.pk"
-      },
-      {
-        "title": "備考",
-        "text": "理語の影響でai'r、東島通商語の影響でailと綴られることも多い。"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -826,12 +746,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "sarcvakh"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -862,16 +777,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "etaj"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではaitóee"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -900,12 +806,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kai1.pk, ághi.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -934,12 +835,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ak1.pk, aghauṭa.bt, ákúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -964,12 +860,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "mammake"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1018,12 +909,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kia1.pk, ákíjam.bt, kija.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1047,12 +933,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ághai.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1096,12 +977,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ághat.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1127,12 +1003,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "alzarm"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1157,12 +1028,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aledzvaju, arcilanwif"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1191,16 +1057,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "alwe.pmcp"
-      },
-      {
-        "title": "派生した理語",
-        "text": "alve"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1224,17 +1081,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "ami"
+      },
+      {
         "title": "同根語",
         "text": "ma1.pk, amáma.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ma1.pk, amáma.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1259,17 +1115,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "amama"
+      },
+      {
         "title": "同根語",
         "text": "am.pk, amúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "am.pk, amúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1300,12 +1155,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mua2.pk, ma.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1334,12 +1184,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mui1.pk, amila.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1370,12 +1215,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mun1.pk, ám.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1407,12 +1247,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "na1.pk, na-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1435,12 +1270,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nau.bt, nau1.az"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1465,12 +1295,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "apo"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1501,12 +1326,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lási.bt, asi.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1535,16 +1355,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "rásitúḷ.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "korniusti'e"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1575,12 +1386,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sy2.pk, asíjaúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1610,12 +1416,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "suk2.pk, cuka.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1651,12 +1452,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ta1.pk, ata.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1687,12 +1483,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tam2.pk, aṭam.bt, takan.tk, takamu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1722,12 +1513,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "adheṣ.bt, ales.li?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1752,12 +1538,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ádhín.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1785,12 +1566,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aubes"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1819,12 +1595,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "aum2.pk, aumúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1851,12 +1622,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "avir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1881,12 +1647,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "arvifit"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1909,12 +1670,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ja.tk?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1944,12 +1700,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bházahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -1978,12 +1729,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bai2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2013,12 +1759,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bap.pk, bhápúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2049,12 +1790,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bia1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2083,12 +1819,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "baik.pk, bháheúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2117,12 +1848,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bait.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2165,12 +1891,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "banerdex"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2195,12 +1916,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "becajm"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2229,12 +1945,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bet2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2259,12 +1970,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "bexe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2312,12 +2018,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "u1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2342,12 +2043,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blard"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2374,12 +2070,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blesva"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2406,12 +2097,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blerkh"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2437,12 +2123,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blirba"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2467,12 +2148,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blim"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2502,16 +2178,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhoḷog.bt, bhoheáḷ.bt, bhoḷorúḷ.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "blofeziphera"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2537,12 +2204,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "bleiformajera"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2568,12 +2230,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blowka"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2602,12 +2259,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "olu?.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2632,12 +2284,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "bloung"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2664,12 +2311,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aplauxme"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2706,12 +2348,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bup2.pk, ula.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2738,12 +2375,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "blurja"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2766,12 +2398,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhoheúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2821,12 +2448,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "bong'ia"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2857,12 +2479,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bot1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2913,12 +2530,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bon2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2947,12 +2559,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bo1.pk, bhoúḷ.bt, mo-lu.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -2975,12 +2582,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhájabáni.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3003,12 +2605,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ka1.pk?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3042,16 +2639,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bum1.pk?"
-      },
-      {
-        "title": "派生した理語",
-        "text": "pqu"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3082,12 +2670,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bu1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3117,12 +2700,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bo1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3158,12 +2736,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bau2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3195,12 +2768,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pheini'avirga"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3243,7 +2811,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "pwugo"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -3269,12 +2842,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhoṣahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3299,12 +2867,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pzeniatz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3328,12 +2891,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cazúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3356,12 +2914,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṣahe.bt?, ṣe.bt?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3379,17 +2932,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "cwaho"
+      },
+      {
         "title": "同根語",
         "text": "cahúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3414,12 +2966,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xamor"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3449,12 +2996,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "can2.pk, cánajúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3477,12 +3019,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṣabhahu.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3508,12 +3045,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "capaudex"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3575,16 +3107,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "caca.pmcp"
-      },
-      {
-        "title": "派生した理語",
-        "text": "casarmanugarki"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3614,12 +3137,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cájau.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3650,12 +3168,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cac-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3685,12 +3198,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ze2.pk, zeúḷ.bt, zekáta.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3717,12 +3225,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ceiny"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3747,12 +3250,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "gamyrxert"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3777,17 +3275,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "ceyuu"
+      },
+      {
         "title": "同根語",
         "text": "cajúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cajúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3812,12 +3309,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "demozel"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3846,12 +3338,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cet2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3876,17 +3363,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "ceixei"
+      },
+      {
         "title": "同根語",
         "text": "cei2.pk, cajúḷ.bt, cai.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cei2.pk, cajúḷ.bt, cai.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3916,12 +3402,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zap2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3951,12 +3432,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zat1.pk, zádeúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -3980,12 +3456,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "chaitaus.vef"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4008,12 +3479,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zámúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4038,12 +3504,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "chas"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4073,12 +3534,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zau.pk, zúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4103,12 +3559,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xorla"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4138,17 +3589,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "chepor"
+      },
+      {
         "title": "同根語",
         "text": "zep1.pk, zepha.bt, cepatepa.bt, cema-lu.tk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zep1.pk, zepha.bt, cepatepa.bt, cema-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4172,17 +3622,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "chesim, tisi"
+      },
+      {
         "title": "同根語",
         "text": "ze1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ze1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4199,7 +3648,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "chesi"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -4226,12 +3680,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tjerx"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4257,12 +3706,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zíghúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4291,12 +3735,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zit1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4319,12 +3758,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zíghíṣ,bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4374,12 +3808,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xorga"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4405,12 +3834,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "chomadipai"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4445,16 +3869,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zuo1.pk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "chuvo"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4503,12 +3918,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cedoxirle"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4550,17 +3960,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "ciwi"
+      },
+      {
         "title": "同根語",
         "text": "cy2.pk, ṣíkahúḷ.bt, cik-u.tk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cy2.pk, ṣíkahúḷ.bt, cik-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4590,12 +3999,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sia2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4627,12 +4031,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xitua"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4657,12 +4056,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "civior"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4688,17 +4082,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "cikau"
+      },
+      {
         "title": "同根語",
         "text": "cy2.pk, ṣíkahúḷ.bt, cik-u.tk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cy2.pk, ṣíkahúḷ.bt, cik-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4723,12 +4116,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ciziur"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4763,16 +4151,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cuscadex"
-      },
-      {
-        "title": "備考",
-        "text": "粉を練って成形した食べ物のうち、麺でないものを指す。"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4801,12 +4180,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "co1.pk, ṣoya.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4835,16 +4209,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "menaxarde"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではcuaduä"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4870,12 +4235,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cpatirt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4899,12 +4259,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṣiṇṇa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4929,12 +4284,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cauxange, cauxarnekorxa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -4956,6 +4306,10 @@
     ],
     "contents": [
       {
+        "title": "関連語",
+        "text": "cahu"
+      },
+      {
         "title": "同根語",
         "text": "cahúḷ.bt"
       },
@@ -4965,16 +4319,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cahúḷ.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "sarcvakh"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5006,12 +4351,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cuau2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5060,17 +4400,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "cweio"
+      },
+      {
         "title": "同根語",
         "text": "cue1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cue1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5095,17 +4434,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "cweio"
+      },
+      {
         "title": "同根語",
         "text": "cue1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cue1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5135,12 +4473,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cuet.pk, cuwelo.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5169,12 +4502,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cuop1.pk, codhi.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5207,12 +4535,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dacrarje?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5235,12 +4558,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dházúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5282,16 +4600,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dat2.pk, dhárad.bt, tadu.tk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "dadorta"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5335,12 +4644,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "demozel"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5365,12 +4669,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dervilkov"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5400,12 +4699,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dau2.pk, dhauna.bt, dhán.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5435,12 +4729,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "daut1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5478,12 +4767,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "banerdex, capaudex, cuscadex, desxupse"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5508,12 +4792,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "adi'a"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5543,12 +4822,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dhíp.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5571,12 +4845,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "díl.bt, naunilorúḷ.bt, dilit.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5605,12 +4874,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pai2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5676,12 +4940,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dit1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5710,12 +4969,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ḍáz.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5744,12 +4998,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dop1.pk, tomu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5775,12 +5024,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "durfemark"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5811,16 +5055,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dhokit.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "durk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5849,16 +5084,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "duqewartax"
-      },
-      {
-        "title": "備考",
-        "text": "暗くすると光るもの"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5883,12 +5109,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "hormarverdzar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5914,12 +5135,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dzacar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5948,16 +5164,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dzarfie"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではdzahúie"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -5984,12 +5191,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dzec"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6014,12 +5216,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xerfa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6045,12 +5242,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xeparju"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6076,12 +5268,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xerp'e"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6107,12 +5294,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aledzvaju"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6138,12 +5320,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dzoy"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6173,16 +5350,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ebu.pmcp"
-      },
-      {
-        "title": "派生した理語",
-        "text": "erb"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6207,12 +5375,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "iptzules"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6245,12 +5408,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "vismoua"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6275,12 +5433,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ilvefan"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6305,12 +5458,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xauternaz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6340,12 +5488,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pau1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6375,12 +5518,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "so1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6405,12 +5543,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "itzapel"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6443,17 +5576,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "ewair"
+      },
+      {
         "title": "同根語",
         "text": "uai1.pk, eyáúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "uai1.pk, eyáúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6482,12 +5614,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "iei2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6538,12 +5665,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fabi"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6569,12 +5691,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fardza"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6603,12 +5720,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "huap1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6640,12 +5752,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hua1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6674,12 +5781,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "huat.pk, wáḷa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6730,12 +5832,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "faxeobe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6760,12 +5857,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "feqai"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6790,12 +5882,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "firganqerw"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6820,12 +5907,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fimea"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6855,12 +5937,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hui2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6890,12 +5967,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "huok1.pk, fokjut.ln, woghit.bt, moku.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6921,12 +5993,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "foni'a"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6951,12 +6018,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aporie"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -6983,12 +6045,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "feti'a"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7033,12 +6090,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "gamuuceiti"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7087,12 +6139,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gat2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7118,12 +6165,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "gable"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7148,12 +6190,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "casarmanugarki"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7179,12 +6216,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "gesvi'o"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7236,12 +6268,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "giau1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7294,16 +6321,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gek.pk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "gekarifew"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7328,12 +6346,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fadi'agerve"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7357,17 +6370,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "quvoo"
+      },
+      {
         "title": "同根語",
         "text": "kuo1.pk, ghíyo.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuo1.pk, ghíyo.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7412,12 +6424,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "guk2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7447,12 +6454,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gy1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7481,16 +6483,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fealej"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではhúalaii"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7514,12 +6507,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "recúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7550,12 +6538,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hio1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7584,16 +6567,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "feral"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではhúolou"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7618,12 +6592,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "khosao"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7652,12 +6621,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hut2.pk, huṭeúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7686,12 +6650,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hak2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7739,12 +6698,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hau2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7770,12 +6724,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "curibaj"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7802,12 +6751,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fenire"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7826,17 +6770,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "haivuu"
+      },
+      {
         "title": "同根語",
         "text": "háju.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "háju.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7855,6 +6798,10 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "haivuu"
+      },
+      {
         "title": "同根語",
         "text": "háju.bt"
       },
@@ -7864,16 +6811,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "háju.bt"
-      },
-      {
-        "title": "備考",
-        "text": "侮蔑的な言葉"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7908,16 +6846,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kan.tk"
-      },
-      {
-        "title": "備考",
-        "text": "古い処格の接辞。現代では -ne/nu になっているが、燐文体では今でも用いられる。"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7943,12 +6872,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "farva"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -7992,12 +6916,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "bleiformajera, hormarverdzar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8023,12 +6942,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pirfem"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8057,12 +6971,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hem1.pk, hámúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8116,17 +7025,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "-hep"
+      },
+      {
         "title": "同根語",
         "text": "huep2.pk, epa.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "huep2.pk, epa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8167,20 +7075,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "eghi.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "hervianni"
-      },
-      {
-        "title": "備考",
-        "text": "【石】で書ける可能性がある"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8233,12 +7128,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hia1.pk, heyáúḷ.bt, híja.bt, ha.bt, rijúḷ.bt, ijalu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8264,12 +7154,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "hoduo"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8320,12 +7205,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hon1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8350,12 +7230,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "otúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8384,12 +7259,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ho2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8418,12 +7288,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hy2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8454,12 +7319,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "marfakhardz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8489,12 +7349,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hem.pk, -úp.bt, ken.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8518,12 +7373,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuṇannúḷ.bt?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8552,12 +7402,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hup1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8587,12 +7432,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hue1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8621,12 +7461,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "huo2.pk, horabát.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8650,12 +7485,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "i.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8679,12 +7509,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "前置否定詞である"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8719,12 +7544,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ie.pk, hína.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8750,12 +7570,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "jarke"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8791,12 +7606,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "iam1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8890,16 +7700,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ghikísa.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "ekcan"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8930,12 +7731,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ektir, netekte"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8965,12 +7761,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ik2.pk, ríka.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -8995,12 +7786,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "molojaine"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9029,12 +7815,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "imiku.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9063,12 +7844,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mit2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9094,12 +7870,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "emert"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9128,12 +7899,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "im1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9158,12 +7924,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "imyti"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9192,12 +7953,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ni1.pk, inin-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9222,12 +7978,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "hervianni"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9257,12 +8008,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nut2.pk, inuci.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9288,12 +8034,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "intakk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9323,12 +8064,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "io.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9359,12 +8095,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ky2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9390,12 +8121,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "portvirtax"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9424,12 +8150,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tua1.pk, dhokit.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9458,12 +8179,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ua.pk, ja.bt, wa.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9514,12 +8230,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "jerga"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9546,12 +8257,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "jelua"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9602,12 +8308,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ian1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9631,17 +8332,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "jatu"
+      },
+      {
         "title": "同根語",
         "text": "iat1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "iat1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9665,17 +8365,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "jatu"
+      },
+      {
         "title": "同根語",
         "text": "iat1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "iat1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9700,12 +8399,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ebladz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9742,12 +8436,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "in2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9770,12 +8459,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "jog"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9822,12 +8506,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "io1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9859,12 +8538,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "jos"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9938,12 +8612,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "arve"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -9974,12 +8643,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "yt2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10003,12 +8667,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "rúkasa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10031,12 +8690,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "jurkukku.li"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10066,12 +8720,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "io2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10119,16 +8768,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tasierjupuj"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではjupóui"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10157,12 +8797,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "io2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10185,12 +8820,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "juce.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10216,12 +8846,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "abea"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10250,16 +8875,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xorla"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではkóebaie"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10289,16 +8905,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "korjzoria"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではkóesóia"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10322,12 +8929,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "用例ではkóiwea"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10363,12 +8965,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kua2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10412,12 +9009,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kachein"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10444,12 +9036,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kaci"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10478,12 +9065,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kak.pk, káṇa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10538,12 +9120,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kaik.pk, kaikúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10573,12 +9150,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kait.pk, ket-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10604,12 +9176,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "karnaxerge"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10636,12 +9203,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kakites"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10692,12 +9254,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kemie"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10722,17 +9279,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "kanata"
+      },
+      {
         "title": "同根語",
         "text": "kan1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kan1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10756,17 +9312,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "kanaka"
+      },
+      {
         "title": "同根語",
         "text": "kan1.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kan1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10797,17 +9352,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "kanir"
+      },
+      {
         "title": "同根語",
         "text": "kan1.pk, gháni.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kan1.pk, gháni.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10849,17 +9403,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "kasi"
+      },
+      {
         "title": "同根語",
         "text": "kat2.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kat2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10883,17 +9436,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "kasi"
+      },
+      {
         "title": "同根語",
         "text": "kat2.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kat2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10917,17 +9469,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "khaicwi"
+      },
+      {
         "title": "同根語",
         "text": "kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -10954,12 +9505,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "vismoua"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11007,16 +9553,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "katuroj"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではkatúoe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11046,12 +9583,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kat1.pk, ghátu.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11077,12 +9609,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "korniusti'e"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11107,12 +9634,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "korsissatit?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11135,12 +9657,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kághi.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11163,12 +9680,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "keco.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11198,12 +9710,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ket.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11238,12 +9745,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kháṣí.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11261,17 +9763,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "kasui"
+      },
+      {
         "title": "同根語",
         "text": "kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11323,12 +9824,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kop1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11354,12 +9850,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xturkhurte"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11384,12 +9875,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ghi.bt, ki.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11426,16 +9912,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kik1.pk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "afikelixekirk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11460,12 +9937,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kirta"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11490,12 +9962,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kemerk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11521,12 +9988,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kirma"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11555,12 +10017,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ky1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11589,12 +10046,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kin2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11617,12 +10069,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kísamúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11651,12 +10098,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kí.bt, ki.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11686,12 +10128,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kicu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11721,12 +10158,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kit1.pk, kit1.az"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11755,12 +10187,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kit.pk, kit.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11789,12 +10216,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "koli.bt, koli-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11823,12 +10245,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kot.pk, koṭ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11866,12 +10283,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuai1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11897,12 +10309,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "vismoua, cauxarnekorxa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11931,12 +10338,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuak1.pk, khak.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -11977,12 +10379,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kun2.pk, kug-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12007,12 +10404,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kynik"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12037,12 +10429,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "kyersi"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12096,12 +10483,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lánahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12150,12 +10532,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lia1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12199,12 +10576,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "larto"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12234,12 +10606,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lek1.pk, legha.bt, leghúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12265,12 +10632,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "lerxenurtha"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12303,12 +10665,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "li2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12333,12 +10690,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "rohúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12386,12 +10738,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lin.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12421,12 +10768,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "li1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12457,12 +10799,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ly.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12492,12 +10829,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lot2.pk, rodúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12528,12 +10860,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lo1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12564,12 +10891,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lok1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12594,12 +10916,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "myrda"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12635,12 +10952,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lua1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12670,12 +10982,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lo1.pk, e loc.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12705,12 +11012,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lup1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12734,12 +11036,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "roṇúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12764,12 +11061,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "lurfe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12802,12 +11094,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "lurpe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12838,12 +11125,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lu2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12887,12 +11169,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "madyrti"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12910,17 +11187,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "masuni"
+      },
+      {
         "title": "同根語",
         "text": "bacú.bt, bácujúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bacú.bt, bácujúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12952,12 +11228,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "meblo"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -12986,12 +11257,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "me.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13016,12 +11282,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xuspiramexaj"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13050,12 +11311,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mak2.pk, bágha.bt, maka.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13080,12 +11336,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "durfemark"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13114,12 +11365,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "auk2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13162,12 +11408,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "makina.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13190,12 +11431,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bákatú.bt, bákatúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13213,17 +11449,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "manana"
+      },
+      {
         "title": "同根語",
         "text": "mam1.pk, banáman.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mam1.pk, banáman.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13248,12 +11483,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "mangmerke"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13279,12 +11509,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pirfem"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13315,17 +11540,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "mamau"
+      },
+      {
         "title": "同根語",
         "text": "mam1.pk, banáman.bt, manmana.pmcp"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mam1.pk, banáman.bt, manmana.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13355,12 +11579,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "man1.pk, báni.bt, mani.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13385,12 +11604,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "menyrkskir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13422,12 +11636,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "marfakhardz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13463,12 +11672,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mak1.pk, mákúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13493,12 +11697,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "macc-"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13529,12 +11728,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "masátu.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13570,17 +11764,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "macwe"
+      },
+      {
         "title": "同根語",
         "text": "bacú.bt, bácujúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bacú.bt, bácujúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13612,12 +11805,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bátat.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13642,12 +11830,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "curibajmorbern"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13676,12 +11859,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "maun1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13707,12 +11885,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "aplauxme"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13737,12 +11910,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "mefoaj"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13766,12 +11934,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "báṣi.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13796,12 +11959,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "menaxarde"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13832,16 +11990,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "saqermisero"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではmisúeo"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13891,12 +12040,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nakimis"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13950,12 +12094,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mit.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -13981,12 +12120,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "mevau"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14016,12 +12150,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mot2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14051,12 +12180,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mok1.pk, bohúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14086,16 +12210,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "boḷorúḷ.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "molojaine"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14121,12 +12236,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xorlarmorn"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14155,12 +12265,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mo1.pk, mon.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14208,12 +12313,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kut2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14237,12 +12337,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "báṇam.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14271,12 +12366,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "muo1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14300,12 +12390,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "< muo + -hep"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14334,12 +12419,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mut2.pk, bádha.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14368,12 +12448,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bátujúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14403,12 +12478,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "náhúl.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14438,12 +12508,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "naip2.pk, e naipe.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14474,12 +12539,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nert, netekte"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14509,12 +12569,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "no1.pk, náju.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14540,12 +12595,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nakimis"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14575,12 +12625,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nághu.bt, nou.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14610,16 +12655,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "náḷa.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "nalva"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14649,12 +12685,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nam2.pk, námúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14684,12 +12715,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ap1.pk, naga.tk, nagamu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14714,12 +12740,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nais"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14749,12 +12770,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nan2.pk, nána.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14779,12 +12795,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "naxer"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14813,16 +12824,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "no.tk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "navax"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14845,12 +12847,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "noblé.vef"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14875,12 +12872,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nauki.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14906,12 +12898,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nav"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14946,12 +12933,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ne2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -14976,12 +12958,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nerfa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15006,12 +12983,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "garci"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15034,12 +13006,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "語義変更；名称の前からかける"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15064,12 +13031,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gháyoúḷ.bt, kewa-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15098,12 +13060,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gak1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15130,16 +13087,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ghaccúḷ.bt"
-      },
-      {
-        "title": "備考",
-        "text": "用例ではngasóaa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15168,12 +13116,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "uaip2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15198,12 +13141,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nordi"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15234,12 +13172,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gau2.pk, ghau.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15268,12 +13201,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gui2.pk, kuwi.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15304,17 +13232,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "nguwa"
+      },
+      {
         "title": "同根語",
         "text": "gua2.pk, ghá.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "gua2.pk, ghá.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15340,12 +13267,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nixur"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15429,12 +13351,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nim2.pk, nímaṣ.bt, nisu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15463,12 +13380,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nin1.pk, nín.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15494,12 +13406,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nisirsa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15528,12 +13435,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tiu2.az"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15558,12 +13460,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tinirza"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15588,12 +13485,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "niurn"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15622,12 +13514,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "non1.pk, nonúḷ.bt, non.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15656,16 +13543,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "firganqerw"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではnoqoę"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15690,12 +13568,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nox"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15719,12 +13592,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nui2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15751,16 +13619,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nui2 hue.pk"
-      },
-      {
-        "title": "備考",
-        "text": "< noyaii + -hep"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15783,12 +13642,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "パイグ語の影響による語と思われる【学与人】"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15817,12 +13671,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nua2.pk, nutta.bt, na.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15857,16 +13706,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "núsu.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "naanwis"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15891,12 +13731,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "niukirna"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15925,12 +13760,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "num1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15953,12 +13783,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "numíju.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -15987,16 +13812,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nuporju"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではnupóiu"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16019,12 +13835,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "not.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16055,16 +13866,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "núdha.bt, nudhorúḷ.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "lerxenurtha"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16089,12 +13891,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nyal"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16118,12 +13915,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nauṇaghúḷ.bt, naunijúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16149,12 +13941,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "nyaphi"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16189,16 +13976,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "nautu.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "pzeniatz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16228,12 +14006,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "niek1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16279,12 +14052,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "niirfe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16331,12 +14099,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "co1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16366,12 +14129,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dui.pk, hodhi.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16400,12 +14158,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hi1.pk, ohi.bt, oki.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16428,12 +14181,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "okajúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16458,12 +14206,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "arvifit"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16493,12 +14236,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "o1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16523,12 +14261,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pafey"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16552,12 +14285,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhajúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16581,17 +14309,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "phaxo"
+      },
+      {
         "title": "同根語",
         "text": "pa2.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pa2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16616,12 +14343,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "perchu"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16651,12 +14373,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "peixe.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16685,12 +14402,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pek1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16715,12 +14427,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xpelai'r"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16749,12 +14456,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "po1.pk, mo.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16783,12 +14485,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pet2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16813,12 +14510,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fadi'agerve"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16843,12 +14535,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "feun"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16872,17 +14559,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "paxo"
+      },
+      {
         "title": "同根語",
         "text": "pa2.pk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pa2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16912,12 +14598,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "huet.pk, bhát.bt, bhátúḷ.bt, medu.tk, phed.li"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16951,12 +14632,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pheini'avirga"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -16981,12 +14657,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fengguacapea"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17013,12 +14684,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fey"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17048,12 +14714,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pit1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17082,12 +14743,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hop1.pk, bhoma.bt, bhomúḷ.bt, momo.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17113,12 +14769,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fosorr"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17145,12 +14796,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "pirfem"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17179,12 +14825,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "py.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17207,12 +14848,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhoṇau.bt, phornau.li"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17252,12 +14888,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "podzir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17286,12 +14917,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pok.pk, bhog.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17317,12 +14943,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "parfe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17351,12 +14972,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "po1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17385,12 +15001,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "polapobo.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17419,12 +15030,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhán.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17463,12 +15069,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "puat1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17504,12 +15105,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pua2.pk, bhára.bt, bháro.bt, muka.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17539,12 +15135,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "put.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17577,12 +15168,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "firche"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17614,12 +15200,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "pui1.pk, bhai.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17648,16 +15229,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "bhodi.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "portvirtax"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17682,17 +15254,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "bwogo"
+      },
+      {
         "title": "同根語",
         "text": "mug-u.tk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mug-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17723,12 +15294,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuai2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17752,12 +15318,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "keca.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17786,12 +15347,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuot1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17816,12 +15372,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "quci'e"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17845,17 +15396,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "gio"
+      },
+      {
         "title": "同根語",
         "text": "kuo1.pk, ghíyo.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "kuo1.pk, ghíyo.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17881,12 +15431,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "dacrarje"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17912,12 +15457,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "rerx"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17949,12 +15489,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "la1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -17977,12 +15512,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "rek.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18011,12 +15541,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "let1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18041,12 +15566,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "riti'a"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18075,12 +15595,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lit2.pk, ídúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18105,12 +15620,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "irvej"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18153,12 +15663,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "roble"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18187,12 +15692,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "lok1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18221,12 +15721,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "rutoṣí.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18256,16 +15751,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xaksversar"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではsúesoa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18300,16 +15786,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "curibaj"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではsúibar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18339,16 +15816,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "sudz"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではsúodzou"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18377,16 +15845,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "eucsurda, csurda"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞典ではsúudea"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18412,12 +15871,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xturkhurte"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18440,12 +15894,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṣahe.bt?, ṣe.bt?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18468,12 +15917,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṣahe.bt?, ṣe.bt?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18498,12 +15942,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ceg"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18527,12 +15966,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "seṇa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18557,12 +15991,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cainíju.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18591,12 +16020,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sak2.pk, srakkq.ln, cákíkúḷ.bt, rakkúḷ.bt, sáka.bt, sakká.bt, cákíkaúḷ.bt, cak-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18621,12 +16045,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cakirt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18655,12 +16074,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sam1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18685,12 +16099,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cerkmern"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18715,12 +16124,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "fengguasapea"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18745,12 +16149,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "carxa"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18781,12 +16180,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sat1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18815,12 +16209,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sau2.pk, co-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18850,12 +16239,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "saup1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18878,12 +16262,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "sauとの関連は不明"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18928,12 +16307,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "axorlaselar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18962,12 +16336,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sep.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -18990,12 +16359,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xaimai.pmcf"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19020,12 +16384,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xauternaz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19055,12 +16414,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xa2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19086,12 +16440,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xaksversar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19120,12 +16469,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xom1.pk, ṣoma.bt, coma.tk, com-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19147,7 +16491,12 @@
       }
     ],
     "tags": [],
-    "contents": [],
+    "contents": [
+      {
+        "title": "関連語",
+        "text": "shomu, khazu"
+      }
+    ],
     "variations": [],
     "relations": []
   },
@@ -19179,12 +16528,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cosa-lu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19210,12 +16554,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cikina"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19244,12 +16583,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sin1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19274,12 +16608,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cakstinernzirn"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19310,12 +16639,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sip1.pk, síbha.bt, ṣibhai.bt, cima.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19340,12 +16664,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "korsissatit"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19370,12 +16689,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "sirtna"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19405,12 +16719,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sik2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19445,16 +16754,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sít.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "stuc"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19485,12 +16785,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sit1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19521,12 +16816,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "syt2.pk, ṣúsa.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19555,12 +16845,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "son1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19585,12 +16870,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "saqermisero"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19625,16 +16905,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "su1.pk, suúḷ.bt"
-      },
-      {
-        "title": "派生した理語",
-        "text": "sur"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19658,12 +16929,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cuwa.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19688,12 +16954,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "korsissatit"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19719,12 +16980,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "sarma"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19753,12 +17009,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sui1.pk, sujúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19783,12 +17034,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "jancaek"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19811,12 +17057,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "coghi.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19841,12 +17082,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "menyrkskir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19872,12 +17108,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cakstinern"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19901,12 +17132,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "súḷa.bt, suḷorúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19936,12 +17162,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "un1.pk, ṣán.bt, cuna.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19966,12 +17187,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cunam"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -19997,12 +17213,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "agesquik"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20031,12 +17242,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "cu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20061,12 +17267,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "incuturk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20093,16 +17294,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "síyoúḷ.bt"
-      },
-      {
-        "title": "例文",
-        "text": "chabbama modo suvoos「彼は殺しすぎた」"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20131,12 +17323,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tai.pk, deja.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20165,16 +17352,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "turx"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではtóedzou"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20204,16 +17382,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tue"
-      },
-      {
-        "title": "備考",
-        "text": "理語辞書ではtúebaia"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20262,12 +17431,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tesarja"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20291,12 +17455,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dácúḷ.bt, dáṣ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20321,12 +17480,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tadyr"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20352,12 +17506,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tinirza"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20387,12 +17536,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dhet.bt, tetien.li?"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20417,12 +17561,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tekor"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20447,12 +17586,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "terxe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20481,12 +17615,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tak1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20515,12 +17644,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tan1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20561,12 +17685,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "danúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20591,12 +17710,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tarj"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20621,12 +17735,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tasierjupuj"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20649,12 +17758,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "taciku.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20683,12 +17787,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tet.pk, dat.bt, tetu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20718,12 +17817,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tat2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20748,12 +17842,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "taxur"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20777,12 +17866,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "atesè.vef"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20813,12 +17897,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tauk1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20850,12 +17929,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tau2.pk, daupha.bt, dáp.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20880,12 +17954,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "texlis"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20910,12 +17979,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "terre"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20945,12 +18009,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ten1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -20974,12 +18033,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dheseúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21004,12 +18058,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "thana"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21032,12 +18081,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "dhezáúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21062,12 +18106,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "thilejaxerg"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21090,12 +18129,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "díma.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21138,12 +18172,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "timirve"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21168,12 +18197,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cakstinern"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21199,12 +18223,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tenierk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21228,17 +18247,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "chesi"
+      },
+      {
         "title": "同根語",
         "text": "ti.tk, dí.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ti.tk, dí.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21267,12 +18285,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tia2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21319,12 +18332,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tim1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21353,12 +18361,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tit1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21383,12 +18386,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "korsissatit"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21417,12 +18415,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ty.pk, tiu.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21451,12 +18444,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tia1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21485,12 +18473,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tyn1.pk, tijuna.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21526,12 +18509,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xuo1.pk, díṣlo.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21579,12 +18557,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "to2.pk, ton.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21607,12 +18580,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṭác.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21653,12 +18621,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tup1.az"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21688,12 +18651,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tui2.pk, ḍujúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21723,12 +18681,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tuk2.pk, doghajúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21751,12 +18704,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mit mit.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21779,12 +18727,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "doma.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21807,12 +18750,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "domana.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21841,12 +18779,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tum1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21871,12 +18804,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xymizir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21899,12 +18827,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tuni.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21933,12 +18856,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tun1.pk, tuna.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -21985,12 +18903,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tut1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22020,12 +18933,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tuai2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22057,12 +18965,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tuik1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22085,12 +18988,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ṭánasácú.bt, ṭánadhokit.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22115,12 +19013,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "tverfe"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22145,12 +19038,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "agrief"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22179,12 +19067,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ki1.pk, kí.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22209,17 +19092,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "-ku"
+      },
+      {
         "title": "同根語",
         "text": "ku.pk, k.bt"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ku.pk, k.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22248,12 +19130,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "om2.pk, lom.bt, umu.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22282,12 +19159,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "mu1.az"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22312,12 +19184,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "iumim"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22341,17 +19208,16 @@
     "tags": [],
     "contents": [
       {
+        "title": "関連語",
+        "text": "-sa"
+      },
+      {
         "title": "同根語",
         "text": "sa1.pk, sá.bt, ca.tk"
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "sa1.pk, sá.bt, ca.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22376,12 +19242,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "ytarta"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22410,16 +19271,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "untik.pmcp"
-      },
-      {
-        "title": "派生した理語",
-        "text": "untirk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22448,12 +19300,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ut2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22482,12 +19329,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "tu2.pk, rúṣ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22510,12 +19352,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "備考",
-        "text": "utuとの関連は不明"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22542,12 +19379,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "farxaj"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22578,12 +19410,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "vedir"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22637,12 +19464,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zo1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22668,12 +19490,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "vililirz"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22722,12 +19539,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "hormarverdzar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22751,12 +19563,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "wákahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22779,12 +19586,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "wekupolto.pmcp"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22813,12 +19615,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ue1.pk, ue1.az"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22845,12 +19642,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "witer"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22879,12 +19671,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "háṣin.bt, wac-u.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22921,12 +19708,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "uo1.pk, ho.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22956,12 +19738,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "uep.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -22986,12 +19763,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "adwirdurta"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23017,12 +19789,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xador"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23057,12 +19824,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "karnaxerge"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23088,12 +19850,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "thilejaxerg"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23119,12 +19876,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xane"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23150,12 +19902,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xatva"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23192,12 +19939,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xau1.pk, ṣahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23226,16 +19968,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cauxarnekorxa, cauxarne"
-      },
-      {
-        "title": "備考",
-        "text": "取り入れられた理語側での意味に不整合"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23279,12 +20012,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xep2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23319,12 +20047,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xo1.pk, ṣárahúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23353,12 +20076,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xem1.pk, cemo.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23387,16 +20105,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xerf.li?, xep.pmcp?"
-      },
-      {
-        "title": "派生した理語",
-        "text": "xpelai'r"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23434,12 +20143,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xit2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23470,12 +20174,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xi1.pk, ṣíṣ.bt, cisa.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23516,16 +20215,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xy1.pk, ṣíya.bt"
-      },
-      {
-        "title": "例文",
-        "text": "A-mo B-mo C-nu xiyu「AはBをCとみなす」"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23554,12 +20244,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xot1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23588,12 +20273,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "xo2.pk, ṣot.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23653,12 +20333,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ho1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23688,12 +20363,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "jano.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23740,12 +20410,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "yk2.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23769,12 +20434,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "josedúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23797,12 +20457,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "jomúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23833,12 +20488,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "yp.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23867,12 +20517,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "ia1.pk, joraúḷ.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23901,12 +20546,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "y.pk, jo.bt, o.tk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23937,12 +20577,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "y1.pk, joṇu.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -23966,12 +20601,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "hemijoya.bt, joya.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24000,16 +20630,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "xauternazなど多数"
-      },
-      {
-        "title": "備考",
-        "text": "古語かも"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24038,12 +20659,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "be1.pk, bhá-.bt"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24068,12 +20684,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cablei"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24099,12 +20710,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "cardza"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24130,12 +20736,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "caikheu"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24161,12 +20762,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "zerhes"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24192,12 +20788,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "firjal"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24222,12 +20813,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "zeng"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24257,12 +20843,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zi1.pk"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24298,16 +20879,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "同根語",
-        "text": "zit1.pk"
-      },
-      {
-        "title": "派生した理語",
-        "text": "blofeziphera"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24349,12 +20921,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "sgati'ar"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {
@@ -24379,12 +20946,7 @@
       }
     ],
     "variations": [],
-    "relations": [
-      {
-        "title": "派生した理語",
-        "text": "zgias"
-      }
-    ]
+    "relations": []
   },
   {
     "entry": {

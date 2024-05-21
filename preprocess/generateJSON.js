@@ -39,6 +39,12 @@ for (let i = 0; i < lines.length - 1; i++) {
   if (ifLipSource === "TRUE") tags.push("リパライン語ソース")
   const variations = [];
   const contents = [];
+  if (relatives !== "") {
+    contents.push({
+      "title": "関連語",
+      "text": relatives
+    })
+  }
   if (doublets !== ""){
     contents.push({
       "title": "同根語",
@@ -64,19 +70,13 @@ for (let i = 0; i < lines.length - 1; i++) {
     })
   }
   const relations = [];
-  if (relatives !== "") {
-    relations.push({
-      "title": "関連語",
-      "text": relatives
-    })
-  }
   words.push({
     "entry": entry,
     "translations": translations,
     "tags": tags,
     "contents": contents,
     "variations": variations,
-    "relations": contents
+    "relations": relations
   })
 }
 
