@@ -2,7 +2,7 @@
   "words": [
   {
     "entry": {
-      "id": 1,
+      "id": 2,
       "form": "-hep"
     },
     "translations": [
@@ -20,18 +20,21 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "hep'iai"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 253,
+          "form": "hep'iai"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 2,
+      "id": 3,
       "form": "-ki"
     },
     "translations": [
@@ -50,18 +53,21 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "uki"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 692,
+          "form": "uki"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 3,
+      "id": 4,
       "form": "-ku"
     },
     "translations": [
@@ -81,25 +87,28 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "uku"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 693,
+          "form": "uku"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 4,
+      "id": 5,
       "form": "-ma"
     },
     "translations": [
       {
         "title": "接尾辞",
         "forms": [
-          "大"
+          "大きい"
         ]
       },
       {
@@ -110,25 +119,28 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "amama"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 39,
+          "form": "amama"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 5,
+      "id": 6,
       "form": "-ni"
     },
     "translations": [
       {
         "title": "接尾辞",
         "forms": [
-          "小"
+          "小さい"
         ]
       },
       {
@@ -139,18 +151,21 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "inini"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 286,
+          "form": "inini"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 6,
+      "id": 7,
       "form": "-sa"
     },
     "translations": [
@@ -169,18 +184,21 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "usa"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 697,
+          "form": "usa"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 7,
+      "id": 8,
       "form": "a"
     },
     "translations": [
@@ -209,7 +227,7 @@
   },
   {
     "entry": {
-      "id": 8,
+      "id": 9,
       "form": "a"
     },
     "translations": [
@@ -250,7 +268,7 @@
   },
   {
     "entry": {
-      "id": 9,
+      "id": 10,
       "form": "abudijey"
     },
     "translations": [
@@ -261,9 +279,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -275,7 +291,7 @@
   },
   {
     "entry": {
-      "id": 10,
+      "id": 11,
       "form": "acau"
     },
     "translations": [
@@ -305,7 +321,7 @@
   },
   {
     "entry": {
-      "id": 11,
+      "id": 12,
       "form": "acii"
     },
     "translations": [
@@ -334,7 +350,7 @@
   },
   {
     "entry": {
-      "id": 12,
+      "id": 13,
       "form": "adwirede"
     },
     "translations": [
@@ -345,9 +361,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -359,7 +373,7 @@
   },
   {
     "entry": {
-      "id": 13,
+      "id": 14,
       "form": "age"
     },
     "translations": [
@@ -372,9 +386,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -390,7 +402,7 @@
   },
   {
     "entry": {
-      "id": 14,
+      "id": 15,
       "form": "aguvii"
     },
     "translations": [
@@ -402,9 +414,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -416,7 +426,7 @@
   },
   {
     "entry": {
-      "id": 15,
+      "id": 16,
       "form": "aifeu"
     },
     "translations": [
@@ -429,9 +439,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -443,7 +451,7 @@
   },
   {
     "entry": {
-      "id": 16,
+      "id": 17,
       "form": "aihei"
     },
     "translations": [
@@ -472,7 +480,7 @@
   },
   {
     "entry": {
-      "id": 17,
+      "id": 18,
       "form": "aihou"
     },
     "translations": [
@@ -483,9 +491,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -497,7 +503,7 @@
   },
   {
     "entry": {
-      "id": 18,
+      "id": 19,
       "form": "aika"
     },
     "translations": [
@@ -528,7 +534,7 @@
   },
   {
     "entry": {
-      "id": 19,
+      "id": 20,
       "form": "aima"
     },
     "translations": [
@@ -558,7 +564,7 @@
   },
   {
     "entry": {
-      "id": 20,
+      "id": 21,
       "form": "aimu"
     },
     "translations": [
@@ -588,7 +594,7 @@
   },
   {
     "entry": {
-      "id": 21,
+      "id": 22,
       "form": "aipa"
     },
     "translations": [
@@ -625,7 +631,7 @@
   },
   {
     "entry": {
-      "id": 22,
+      "id": 23,
       "form": "aipwau"
     },
     "translations": [
@@ -651,9 +657,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -669,7 +673,7 @@
   },
   {
     "entry": {
-      "id": 23,
+      "id": 24,
       "form": "airaniija"
     },
     "translations": [
@@ -692,7 +696,7 @@
   },
   {
     "entry": {
-      "id": 24,
+      "id": 25,
       "form": "airu"
     },
     "translations": [
@@ -725,7 +729,7 @@
   },
   {
     "entry": {
-      "id": 25,
+      "id": 26,
       "form": "aisaa"
     },
     "translations": [
@@ -736,9 +740,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -750,7 +752,7 @@
   },
   {
     "entry": {
-      "id": 26,
+      "id": 27,
       "form": "ait'ee"
     },
     "translations": [
@@ -763,9 +765,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -781,7 +781,7 @@
   },
   {
     "entry": {
-      "id": 27,
+      "id": 28,
       "form": "akai"
     },
     "translations": [
@@ -810,7 +810,7 @@
   },
   {
     "entry": {
-      "id": 28,
+      "id": 29,
       "form": "akata"
     },
     "translations": [
@@ -839,7 +839,7 @@
   },
   {
     "entry": {
-      "id": 29,
+      "id": 30,
       "form": "ake"
     },
     "translations": [
@@ -850,9 +850,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -864,7 +862,7 @@
   },
   {
     "entry": {
-      "id": 30,
+      "id": 31,
       "form": "aki"
     },
     "translations": [
@@ -883,7 +881,7 @@
   },
   {
     "entry": {
-      "id": 31,
+      "id": 32,
       "form": "akia"
     },
     "translations": [
@@ -913,7 +911,7 @@
   },
   {
     "entry": {
-      "id": 32,
+      "id": 33,
       "form": "akui"
     },
     "translations": [
@@ -937,7 +935,7 @@
   },
   {
     "entry": {
-      "id": 33,
+      "id": 34,
       "form": "akunu"
     },
     "translations": [
@@ -957,7 +955,7 @@
   },
   {
     "entry": {
-      "id": 34,
+      "id": 35,
       "form": "akuti"
     },
     "translations": [
@@ -981,7 +979,7 @@
   },
   {
     "entry": {
-      "id": 35,
+      "id": 36,
       "form": "alazama"
     },
     "translations": [
@@ -993,9 +991,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1007,7 +1003,7 @@
   },
   {
     "entry": {
-      "id": 36,
+      "id": 37,
       "form": "ale"
     },
     "translations": [
@@ -1018,9 +1014,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1032,7 +1026,7 @@
   },
   {
     "entry": {
-      "id": 37,
+      "id": 38,
       "form": "aluai"
     },
     "translations": [
@@ -1043,9 +1037,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -1061,7 +1053,7 @@
   },
   {
     "entry": {
-      "id": 38,
+      "id": 39,
       "form": "amama"
     },
     "translations": [
@@ -1081,20 +1073,31 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "ami"
-      },
-      {
         "title": "同根語",
         "text": "ma1.pk, amáma.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 5,
+          "form": "-ma"
+        }
+      },
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 40,
+          "form": "ami"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 39,
+      "id": 40,
       "form": "ami"
     },
     "translations": [
@@ -1115,20 +1118,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "amama"
-      },
-      {
         "title": "同根語",
         "text": "am.pk, amúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 39,
+          "form": "amama"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 40,
+      "id": 41,
       "form": "amua"
     },
     "translations": [
@@ -1159,7 +1166,7 @@
   },
   {
     "entry": {
-      "id": 41,
+      "id": 42,
       "form": "amui"
     },
     "translations": [
@@ -1188,7 +1195,7 @@
   },
   {
     "entry": {
-      "id": 42,
+      "id": 43,
       "form": "amunu"
     },
     "translations": [
@@ -1219,7 +1226,7 @@
   },
   {
     "entry": {
-      "id": 43,
+      "id": 44,
       "form": "anaa"
     },
     "translations": [
@@ -1251,7 +1258,7 @@
   },
   {
     "entry": {
-      "id": 44,
+      "id": 45,
       "form": "anau"
     },
     "translations": [
@@ -1274,7 +1281,7 @@
   },
   {
     "entry": {
-      "id": 45,
+      "id": 46,
       "form": "apo"
     },
     "translations": [
@@ -1285,9 +1292,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1299,7 +1304,7 @@
   },
   {
     "entry": {
-      "id": 46,
+      "id": 47,
       "form": "asi"
     },
     "translations": [
@@ -1330,7 +1335,7 @@
   },
   {
     "entry": {
-      "id": 47,
+      "id": 48,
       "form": "asiti"
     },
     "translations": [
@@ -1341,9 +1346,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -1359,7 +1362,7 @@
   },
   {
     "entry": {
-      "id": 48,
+      "id": 49,
       "form": "asiu"
     },
     "translations": [
@@ -1390,7 +1393,7 @@
   },
   {
     "entry": {
-      "id": 49,
+      "id": 50,
       "form": "asuka"
     },
     "translations": [
@@ -1420,7 +1423,7 @@
   },
   {
     "entry": {
-      "id": 50,
+      "id": 51,
       "form": "ata"
     },
     "translations": [
@@ -1456,7 +1459,7 @@
   },
   {
     "entry": {
-      "id": 51,
+      "id": 52,
       "form": "atamu"
     },
     "translations": [
@@ -1487,7 +1490,7 @@
   },
   {
     "entry": {
-      "id": 52,
+      "id": 53,
       "form": "ateair"
     },
     "translations": [
@@ -1517,7 +1520,7 @@
   },
   {
     "entry": {
-      "id": 53,
+      "id": 54,
       "form": "atini"
     },
     "translations": [
@@ -1542,7 +1545,7 @@
   },
   {
     "entry": {
-      "id": 54,
+      "id": 55,
       "form": "aube"
     },
     "translations": [
@@ -1556,9 +1559,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1570,7 +1571,7 @@
   },
   {
     "entry": {
-      "id": 55,
+      "id": 56,
       "form": "aumi"
     },
     "translations": [
@@ -1599,7 +1600,7 @@
   },
   {
     "entry": {
-      "id": 56,
+      "id": 57,
       "form": "avii"
     },
     "translations": [
@@ -1612,9 +1613,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1626,7 +1625,7 @@
   },
   {
     "entry": {
-      "id": 57,
+      "id": 58,
       "form": "aybajis"
     },
     "translations": [
@@ -1637,9 +1636,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1651,7 +1648,7 @@
   },
   {
     "entry": {
-      "id": 58,
+      "id": 59,
       "form": "ayua"
     },
     "translations": [
@@ -1674,7 +1671,7 @@
   },
   {
     "entry": {
-      "id": 59,
+      "id": 60,
       "form": "bachau"
     },
     "translations": [
@@ -1704,7 +1701,7 @@
   },
   {
     "entry": {
-      "id": 60,
+      "id": 61,
       "form": "baeai"
     },
     "translations": [
@@ -1733,7 +1730,7 @@
   },
   {
     "entry": {
-      "id": 61,
+      "id": 62,
       "form": "baibae"
     },
     "translations": [
@@ -1763,7 +1760,7 @@
   },
   {
     "entry": {
-      "id": 62,
+      "id": 63,
       "form": "baibia"
     },
     "translations": [
@@ -1794,7 +1791,7 @@
   },
   {
     "entry": {
-      "id": 63,
+      "id": 64,
       "form": "baihaiu"
     },
     "translations": [
@@ -1823,7 +1820,7 @@
   },
   {
     "entry": {
-      "id": 64,
+      "id": 65,
       "form": "baiza"
     },
     "translations": [
@@ -1852,7 +1849,7 @@
   },
   {
     "entry": {
-      "id": 65,
+      "id": 66,
       "form": "bake"
     },
     "translations": [
@@ -1870,7 +1867,7 @@
   },
   {
     "entry": {
-      "id": 66,
+      "id": 67,
       "form": "bangai"
     },
     "translations": [
@@ -1881,9 +1878,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1895,7 +1890,7 @@
   },
   {
     "entry": {
-      "id": 67,
+      "id": 68,
       "form": "beca'ymo"
     },
     "translations": [
@@ -1906,9 +1901,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1920,7 +1913,7 @@
   },
   {
     "entry": {
-      "id": 68,
+      "id": 69,
       "form": "bet'aa"
     },
     "translations": [
@@ -1949,7 +1942,7 @@
   },
   {
     "entry": {
-      "id": 69,
+      "id": 70,
       "form": "bexaiai"
     },
     "translations": [
@@ -1960,9 +1953,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -1974,7 +1965,7 @@
   },
   {
     "entry": {
-      "id": 70,
+      "id": 71,
       "form": "bihuo"
     },
     "translations": [
@@ -1992,7 +1983,7 @@
   },
   {
     "entry": {
-      "id": 71,
+      "id": 72,
       "form": "biwuu"
     },
     "translations": [
@@ -2022,7 +2013,7 @@
   },
   {
     "entry": {
-      "id": 72,
+      "id": 73,
       "form": "bladai"
     },
     "translations": [
@@ -2033,9 +2024,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2047,7 +2036,7 @@
   },
   {
     "entry": {
-      "id": 73,
+      "id": 74,
       "form": "blecwa"
     },
     "translations": [
@@ -2060,9 +2049,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2074,7 +2061,7 @@
   },
   {
     "entry": {
-      "id": 74,
+      "id": 75,
       "form": "blekhau"
     },
     "translations": [
@@ -2087,9 +2074,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2101,7 +2086,7 @@
   },
   {
     "entry": {
-      "id": 75,
+      "id": 76,
       "form": "blibwau"
     },
     "translations": [
@@ -2113,9 +2098,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2127,7 +2110,7 @@
   },
   {
     "entry": {
-      "id": 76,
+      "id": 77,
       "form": "blimou"
     },
     "translations": [
@@ -2138,9 +2121,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2152,7 +2133,7 @@
   },
   {
     "entry": {
-      "id": 77,
+      "id": 78,
       "form": "blohai"
     },
     "translations": [
@@ -2164,9 +2145,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -2182,7 +2161,7 @@
   },
   {
     "entry": {
-      "id": 78,
+      "id": 79,
       "form": "blokhei"
     },
     "translations": [
@@ -2194,9 +2173,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2208,7 +2185,7 @@
   },
   {
     "entry": {
-      "id": 79,
+      "id": 80,
       "form": "blouka"
     },
     "translations": [
@@ -2220,9 +2197,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2234,7 +2209,7 @@
   },
   {
     "entry": {
-      "id": 80,
+      "id": 81,
       "form": "bloulu"
     },
     "translations": [
@@ -2263,7 +2238,7 @@
   },
   {
     "entry": {
-      "id": 81,
+      "id": 82,
       "form": "bloungu"
     },
     "translations": [
@@ -2274,9 +2249,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2288,7 +2261,7 @@
   },
   {
     "entry": {
-      "id": 82,
+      "id": 83,
       "form": "blouxai"
     },
     "translations": [
@@ -2301,9 +2274,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2315,7 +2286,7 @@
   },
   {
     "entry": {
-      "id": 83,
+      "id": 84,
       "form": "blubla"
     },
     "translations": [
@@ -2352,7 +2323,7 @@
   },
   {
     "entry": {
-      "id": 84,
+      "id": 85,
       "form": "blujau"
     },
     "translations": [
@@ -2365,9 +2336,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2379,7 +2348,7 @@
   },
   {
     "entry": {
-      "id": 85,
+      "id": 86,
       "form": "bohai"
     },
     "translations": [
@@ -2402,7 +2371,7 @@
   },
   {
     "entry": {
-      "id": 86,
+      "id": 87,
       "form": "bokua"
     },
     "translations": [
@@ -2427,7 +2396,7 @@
   },
   {
     "entry": {
-      "id": 87,
+      "id": 88,
       "form": "bongiai"
     },
     "translations": [
@@ -2438,9 +2407,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2452,7 +2419,7 @@
   },
   {
     "entry": {
-      "id": 88,
+      "id": 89,
       "form": "bot'oo"
     },
     "translations": [
@@ -2483,7 +2450,7 @@
   },
   {
     "entry": {
-      "id": 89,
+      "id": 90,
       "form": "botwu"
     },
     "translations": [
@@ -2502,7 +2469,7 @@
   },
   {
     "entry": {
-      "id": 90,
+      "id": 91,
       "form": "boungau"
     },
     "translations": [
@@ -2534,7 +2501,7 @@
   },
   {
     "entry": {
-      "id": 91,
+      "id": 92,
       "form": "bowa"
     },
     "translations": [
@@ -2563,7 +2530,7 @@
   },
   {
     "entry": {
-      "id": 92,
+      "id": 93,
       "form": "buia"
     },
     "translations": [
@@ -2586,7 +2553,7 @@
   },
   {
     "entry": {
-      "id": 93,
+      "id": 94,
       "form": "buka"
     },
     "translations": [
@@ -2609,7 +2576,7 @@
   },
   {
     "entry": {
-      "id": 94,
+      "id": 95,
       "form": "bunae"
     },
     "translations": [
@@ -2643,7 +2610,7 @@
   },
   {
     "entry": {
-      "id": 95,
+      "id": 96,
       "form": "buou"
     },
     "translations": [
@@ -2674,7 +2641,7 @@
   },
   {
     "entry": {
-      "id": 96,
+      "id": 97,
       "form": "buwo"
     },
     "translations": [
@@ -2704,7 +2671,7 @@
   },
   {
     "entry": {
-      "id": 97,
+      "id": 98,
       "form": "bwaulu"
     },
     "translations": [
@@ -2740,7 +2707,7 @@
   },
   {
     "entry": {
-      "id": 98,
+      "id": 99,
       "form": "bwikha"
     },
     "translations": [
@@ -2758,9 +2725,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2772,7 +2737,7 @@
   },
   {
     "entry": {
-      "id": 99,
+      "id": 100,
       "form": "bwila"
     },
     "translations": [
@@ -2792,7 +2757,7 @@
   },
   {
     "entry": {
-      "id": 100,
+      "id": 101,
       "form": "bwogo"
     },
     "translations": [
@@ -2811,18 +2776,21 @@
       }
     ],
     "tags": [],
-    "contents": [
+    "contents": [],
+    "variations": [],
+    "relations": [
       {
         "title": "関連語",
-        "text": "pwugo"
+        "entry": {
+          "id": 549,
+          "form": "pwugo"
+        }
       }
-    ],
-    "variations": [],
-    "relations": []
+    ]
   },
   {
     "entry": {
-      "id": 101,
+      "id": 102,
       "form": "bwoxou"
     },
     "translations": [
@@ -2846,7 +2814,7 @@
   },
   {
     "entry": {
-      "id": 102,
+      "id": 103,
       "form": "bwuzei"
     },
     "translations": [
@@ -2857,9 +2825,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2871,7 +2837,7 @@
   },
   {
     "entry": {
-      "id": 103,
+      "id": 104,
       "form": "cache"
     },
     "translations": [
@@ -2895,7 +2861,7 @@
   },
   {
     "entry": {
-      "id": 104,
+      "id": 105,
       "form": "cah^iu"
     },
     "translations": [
@@ -2918,7 +2884,7 @@
   },
   {
     "entry": {
-      "id": 105,
+      "id": 106,
       "form": "cahu"
     },
     "translations": [
@@ -2932,20 +2898,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "cwaho"
-      },
-      {
         "title": "同根語",
         "text": "cahúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 155,
+          "form": "cwaho"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 106,
+      "id": 107,
       "form": "camou"
     },
     "translations": [
@@ -2956,9 +2926,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -2970,7 +2938,7 @@
   },
   {
     "entry": {
-      "id": 107,
+      "id": 108,
       "form": "canai"
     },
     "translations": [
@@ -3000,7 +2968,7 @@
   },
   {
     "entry": {
-      "id": 108,
+      "id": 109,
       "form": "capaiu"
     },
     "translations": [
@@ -3023,7 +2991,7 @@
   },
   {
     "entry": {
-      "id": 109,
+      "id": 110,
       "form": "capau"
     },
     "translations": [
@@ -3035,9 +3003,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3049,7 +3015,7 @@
   },
   {
     "entry": {
-      "id": 110,
+      "id": 111,
       "form": "capi"
     },
     "translations": [
@@ -3075,7 +3041,7 @@
   },
   {
     "entry": {
-      "id": 111,
+      "id": 112,
       "form": "casa"
     },
     "translations": [
@@ -3093,9 +3059,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -3111,7 +3075,7 @@
   },
   {
     "entry": {
-      "id": 112,
+      "id": 113,
       "form": "cauyau"
     },
     "translations": [
@@ -3141,7 +3105,7 @@
   },
   {
     "entry": {
-      "id": 113,
+      "id": 114,
       "form": "caxou"
     },
     "translations": [
@@ -3172,7 +3136,7 @@
   },
   {
     "entry": {
-      "id": 114,
+      "id": 115,
       "form": "cee"
     },
     "translations": [
@@ -3202,7 +3166,7 @@
   },
   {
     "entry": {
-      "id": 115,
+      "id": 116,
       "form": "ceinyo"
     },
     "translations": [
@@ -3215,9 +3179,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3229,7 +3191,7 @@
   },
   {
     "entry": {
-      "id": 116,
+      "id": 117,
       "form": "ceiti"
     },
     "translations": [
@@ -3240,9 +3202,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3254,7 +3214,7 @@
   },
   {
     "entry": {
-      "id": 117,
+      "id": 118,
       "form": "ceixei"
     },
     "translations": [
@@ -3275,20 +3235,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "ceyuu"
-      },
-      {
         "title": "同根語",
         "text": "cajúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 121,
+          "form": "ceyuu"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 118,
+      "id": 119,
       "form": "celo"
     },
     "translations": [
@@ -3299,9 +3263,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3313,7 +3275,7 @@
   },
   {
     "entry": {
-      "id": 119,
+      "id": 120,
       "form": "ceta"
     },
     "translations": [
@@ -3342,7 +3304,7 @@
   },
   {
     "entry": {
-      "id": 120,
+      "id": 121,
       "form": "ceyuu"
     },
     "translations": [
@@ -3363,20 +3325,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "ceixei"
-      },
-      {
         "title": "同根語",
         "text": "cei2.pk, cajúḷ.bt, cai.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 118,
+          "form": "ceixei"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 121,
+      "id": 122,
       "form": "chaba"
     },
     "translations": [
@@ -3406,7 +3372,7 @@
   },
   {
     "entry": {
-      "id": 122,
+      "id": 123,
       "form": "chade"
     },
     "translations": [
@@ -3436,7 +3402,7 @@
   },
   {
     "entry": {
-      "id": 123,
+      "id": 124,
       "form": "chaitau"
     },
     "translations": [
@@ -3460,7 +3426,7 @@
   },
   {
     "entry": {
-      "id": 124,
+      "id": 125,
       "form": "chame"
     },
     "translations": [
@@ -3483,7 +3449,7 @@
   },
   {
     "entry": {
-      "id": 125,
+      "id": 126,
       "form": "chasu"
     },
     "translations": [
@@ -3494,9 +3460,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3508,7 +3472,7 @@
   },
   {
     "entry": {
-      "id": 126,
+      "id": 127,
       "form": "chauchu"
     },
     "translations": [
@@ -3538,7 +3502,7 @@
   },
   {
     "entry": {
-      "id": 127,
+      "id": 128,
       "form": "chaula"
     },
     "translations": [
@@ -3549,9 +3513,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3563,7 +3525,7 @@
   },
   {
     "entry": {
-      "id": 128,
+      "id": 129,
       "form": "chepo"
     },
     "translations": [
@@ -3589,10 +3551,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "chepor"
-      },
-      {
         "title": "同根語",
         "text": "zep1.pk, zepha.bt, cepatepa.bt, cema-lu.tk"
       }
@@ -3602,7 +3560,7 @@
   },
   {
     "entry": {
-      "id": 129,
+      "id": 130,
       "form": "chesi"
     },
     "translations": [
@@ -3622,20 +3580,31 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "chesim, tisi"
-      },
-      {
         "title": "同根語",
         "text": "ze1.pk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 131,
+          "form": "chesim"
+        }
+      },
+      {
+        "title": "同義語",
+        "entry": {
+          "id": 661,
+          "form": "tisi"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 130,
+      "id": 131,
       "form": "chesim"
     },
     "translations": [
@@ -3648,18 +3617,21 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "chesi"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 130,
+          "form": "chesi"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 131,
+      "id": 132,
       "form": "chexu"
     },
     "translations": [
@@ -3670,9 +3642,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3684,7 +3654,7 @@
   },
   {
     "entry": {
-      "id": 132,
+      "id": 133,
       "form": "chigo"
     },
     "translations": [
@@ -3710,7 +3680,7 @@
   },
   {
     "entry": {
-      "id": 133,
+      "id": 134,
       "form": "chisha"
     },
     "translations": [
@@ -3739,7 +3709,7 @@
   },
   {
     "entry": {
-      "id": 134,
+      "id": 135,
       "form": "chixu"
     },
     "translations": [
@@ -3762,7 +3732,7 @@
   },
   {
     "entry": {
-      "id": 135,
+      "id": 136,
       "form": "chobu"
     },
     "translations": [
@@ -3786,7 +3756,7 @@
   },
   {
     "entry": {
-      "id": 136,
+      "id": 137,
       "form": "chogau"
     },
     "translations": [
@@ -3798,9 +3768,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3812,7 +3780,7 @@
   },
   {
     "entry": {
-      "id": 137,
+      "id": 138,
       "form": "choma"
     },
     "translations": [
@@ -3824,9 +3792,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3838,7 +3804,7 @@
   },
   {
     "entry": {
-      "id": 138,
+      "id": 139,
       "form": "chuwo"
     },
     "translations": [
@@ -3855,9 +3821,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -3873,7 +3837,7 @@
   },
   {
     "entry": {
-      "id": 139,
+      "id": 140,
       "form": "cica"
     },
     "translations": [
@@ -3897,7 +3861,7 @@
   },
   {
     "entry": {
-      "id": 140,
+      "id": 141,
       "form": "cidoxile"
     },
     "translations": [
@@ -3908,9 +3872,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -3922,7 +3884,7 @@
   },
   {
     "entry": {
-      "id": 141,
+      "id": 142,
       "form": "cikau"
     },
     "translations": [
@@ -3940,7 +3902,7 @@
   },
   {
     "entry": {
-      "id": 142,
+      "id": 143,
       "form": "cikau"
     },
     "translations": [
@@ -3960,20 +3922,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "ciwi"
-      },
-      {
         "title": "同根語",
         "text": "cy2.pk, ṣíkahúḷ.bt, cik-u.tk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 147,
+          "form": "ciwi"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 143,
+      "id": 144,
       "form": "cira"
     },
     "translations": [
@@ -4003,7 +3969,7 @@
   },
   {
     "entry": {
-      "id": 144,
+      "id": 145,
       "form": "citua"
     },
     "translations": [
@@ -4021,9 +3987,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4035,7 +3999,7 @@
   },
   {
     "entry": {
-      "id": 145,
+      "id": 146,
       "form": "civeo"
     },
     "translations": [
@@ -4046,9 +4010,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4060,7 +4022,7 @@
   },
   {
     "entry": {
-      "id": 146,
+      "id": 147,
       "form": "ciwi"
     },
     "translations": [
@@ -4082,20 +4044,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "cikau"
-      },
-      {
         "title": "同根語",
         "text": "cy2.pk, ṣíkahúḷ.bt, cik-u.tk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 143,
+          "form": "cikau"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 147,
+      "id": 148,
       "form": "cizeu"
     },
     "translations": [
@@ -4106,9 +4072,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4120,7 +4084,7 @@
   },
   {
     "entry": {
-      "id": 148,
+      "id": 149,
       "form": "coucu"
     },
     "translations": [
@@ -4137,9 +4101,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4155,7 +4117,7 @@
   },
   {
     "entry": {
-      "id": 149,
+      "id": 150,
       "form": "couyau"
     },
     "translations": [
@@ -4184,7 +4146,7 @@
   },
   {
     "entry": {
-      "id": 150,
+      "id": 151,
       "form": "cuadu"
     },
     "translations": [
@@ -4195,9 +4157,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4213,7 +4173,7 @@
   },
   {
     "entry": {
-      "id": 151,
+      "id": 152,
       "form": "cubotu'i"
     },
     "translations": [
@@ -4225,9 +4185,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4239,7 +4197,7 @@
   },
   {
     "entry": {
-      "id": 152,
+      "id": 153,
       "form": "cunya"
     },
     "translations": [
@@ -4263,7 +4221,7 @@
   },
   {
     "entry": {
-      "id": 153,
+      "id": 154,
       "form": "curau"
     },
     "translations": [
@@ -4274,9 +4232,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4288,7 +4244,7 @@
   },
   {
     "entry": {
-      "id": 154,
+      "id": 155,
       "form": "cwaho"
     },
     "translations": [
@@ -4301,14 +4257,8 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
-      {
-        "title": "関連語",
-        "text": "cahu"
-      },
       {
         "title": "同根語",
         "text": "cahúḷ.bt"
@@ -4319,11 +4269,19 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 106,
+          "form": "cahu"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 155,
+      "id": 156,
       "form": "cwairo"
     },
     "translations": [
@@ -4355,7 +4313,7 @@
   },
   {
     "entry": {
-      "id": 156,
+      "id": 157,
       "form": "cwauyi"
     },
     "translations": [
@@ -4379,7 +4337,7 @@
   },
   {
     "entry": {
-      "id": 157,
+      "id": 158,
       "form": "cweio"
     },
     "translations": [
@@ -4390,33 +4348,6 @@
           "なにか"
         ]
       },
-      {
-        "title": "燐字",
-        "forms": [
-          "或"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "cweio"
-      },
-      {
-        "title": "同根語",
-        "text": "cue1.pk"
-      }
-    ],
-    "variations": [],
-    "relations": []
-  },
-  {
-    "entry": {
-      "id": 158,
-      "form": "cweio"
-    },
-    "translations": [
       {
         "title": "形容詞",
         "forms": [
@@ -4434,10 +4365,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "cweio"
-      },
-      {
         "title": "同根語",
         "text": "cue1.pk"
       }
@@ -4447,7 +4374,7 @@
   },
   {
     "entry": {
-      "id": 159,
+      "id": 160,
       "form": "cwelo"
     },
     "translations": [
@@ -4477,7 +4404,7 @@
   },
   {
     "entry": {
-      "id": 160,
+      "id": 161,
       "form": "cwouphi"
     },
     "translations": [
@@ -4506,7 +4433,7 @@
   },
   {
     "entry": {
-      "id": 161,
+      "id": 162,
       "form": "dace"
     },
     "translations": [
@@ -4525,9 +4452,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4539,7 +4464,7 @@
   },
   {
     "entry": {
-      "id": 162,
+      "id": 163,
       "form": "dacha"
     },
     "translations": [
@@ -4562,7 +4487,7 @@
   },
   {
     "entry": {
-      "id": 163,
+      "id": 164,
       "form": "dado"
     },
     "translations": [
@@ -4586,9 +4511,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -4604,7 +4527,7 @@
   },
   {
     "entry": {
-      "id": 164,
+      "id": 165,
       "form": "dailaa"
     },
     "translations": [
@@ -4623,7 +4546,7 @@
   },
   {
     "entry": {
-      "id": 165,
+      "id": 166,
       "form": "daimeu"
     },
     "translations": [
@@ -4634,9 +4557,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4648,7 +4569,7 @@
   },
   {
     "entry": {
-      "id": 166,
+      "id": 167,
       "form": "daipa"
     },
     "translations": [
@@ -4659,9 +4580,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4673,7 +4592,7 @@
   },
   {
     "entry": {
-      "id": 167,
+      "id": 168,
       "form": "daunou"
     },
     "translations": [
@@ -4703,7 +4622,7 @@
   },
   {
     "entry": {
-      "id": 168,
+      "id": 169,
       "form": "daute"
     },
     "translations": [
@@ -4733,7 +4652,7 @@
   },
   {
     "entry": {
-      "id": 169,
+      "id": 170,
       "form": "dexu"
     },
     "translations": [
@@ -4757,9 +4676,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4771,7 +4688,7 @@
   },
   {
     "entry": {
-      "id": 170,
+      "id": 171,
       "form": "diai"
     },
     "translations": [
@@ -4782,9 +4699,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -4796,7 +4711,7 @@
   },
   {
     "entry": {
-      "id": 171,
+      "id": 172,
       "form": "dibee"
     },
     "translations": [
@@ -4826,7 +4741,7 @@
   },
   {
     "entry": {
-      "id": 172,
+      "id": 173,
       "form": "dili"
     },
     "translations": [
@@ -4849,7 +4764,7 @@
   },
   {
     "entry": {
-      "id": 173,
+      "id": 174,
       "form": "dipai"
     },
     "translations": [
@@ -4878,7 +4793,7 @@
   },
   {
     "entry": {
-      "id": 174,
+      "id": 175,
       "form": "dipe"
     },
     "translations": [
@@ -4896,7 +4811,7 @@
   },
   {
     "entry": {
-      "id": 175,
+      "id": 176,
       "form": "ditanake"
     },
     "translations": [
@@ -4915,7 +4830,7 @@
   },
   {
     "entry": {
-      "id": 176,
+      "id": 177,
       "form": "ditoo"
     },
     "translations": [
@@ -4944,7 +4859,7 @@
   },
   {
     "entry": {
-      "id": 177,
+      "id": 178,
       "form": "doche"
     },
     "translations": [
@@ -4973,7 +4888,7 @@
   },
   {
     "entry": {
-      "id": 178,
+      "id": 179,
       "form": "dop'iai"
     },
     "translations": [
@@ -5002,7 +4917,7 @@
   },
   {
     "entry": {
-      "id": 179,
+      "id": 180,
       "form": "duhai"
     },
     "translations": [
@@ -5014,9 +4929,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5028,7 +4941,7 @@
   },
   {
     "entry": {
-      "id": 180,
+      "id": 181,
       "form": "dukhi"
     },
     "translations": [
@@ -5041,9 +4954,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -5059,7 +4970,7 @@
   },
   {
     "entry": {
-      "id": 181,
+      "id": 182,
       "form": "duqewaa"
     },
     "translations": [
@@ -5070,9 +4981,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5088,7 +4997,7 @@
   },
   {
     "entry": {
-      "id": 182,
+      "id": 183,
       "form": "duxaii"
     },
     "translations": [
@@ -5099,9 +5008,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5113,7 +5020,7 @@
   },
   {
     "entry": {
-      "id": 183,
+      "id": 184,
       "form": "dzacao"
     },
     "translations": [
@@ -5125,9 +5032,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5139,7 +5044,7 @@
   },
   {
     "entry": {
-      "id": 184,
+      "id": 185,
       "form": "dzah^ie"
     },
     "translations": [
@@ -5150,9 +5055,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5168,7 +5071,7 @@
   },
   {
     "entry": {
-      "id": 185,
+      "id": 186,
       "form": "dzecei"
     },
     "translations": [
@@ -5181,9 +5084,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5195,7 +5096,7 @@
   },
   {
     "entry": {
-      "id": 186,
+      "id": 187,
       "form": "dzerua"
     },
     "translations": [
@@ -5206,9 +5107,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5220,7 +5119,7 @@
   },
   {
     "entry": {
-      "id": 187,
+      "id": 188,
       "form": "dzipaiu"
     },
     "translations": [
@@ -5232,9 +5131,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5246,7 +5143,7 @@
   },
   {
     "entry": {
-      "id": 188,
+      "id": 189,
       "form": "dzipuai"
     },
     "translations": [
@@ -5258,9 +5155,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5272,7 +5167,7 @@
   },
   {
     "entry": {
-      "id": 189,
+      "id": 190,
       "form": "dzivaiu"
     },
     "translations": [
@@ -5284,9 +5179,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5298,7 +5191,7 @@
   },
   {
     "entry": {
-      "id": 190,
+      "id": 191,
       "form": "dzoriu"
     },
     "translations": [
@@ -5310,9 +5203,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5324,7 +5215,7 @@
   },
   {
     "entry": {
-      "id": 191,
+      "id": 192,
       "form": "ebu"
     },
     "translations": [
@@ -5336,9 +5227,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -5354,7 +5243,7 @@
   },
   {
     "entry": {
-      "id": 192,
+      "id": 193,
       "form": "ebutuzulu"
     },
     "translations": [
@@ -5365,9 +5254,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5379,7 +5266,7 @@
   },
   {
     "entry": {
-      "id": 193,
+      "id": 194,
       "form": "eipwi"
     },
     "translations": [
@@ -5398,9 +5285,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5412,7 +5297,7 @@
   },
   {
     "entry": {
-      "id": 194,
+      "id": 195,
       "form": "elwafan"
     },
     "translations": [
@@ -5423,9 +5308,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5437,7 +5320,7 @@
   },
   {
     "entry": {
-      "id": 195,
+      "id": 196,
       "form": "ena"
     },
     "translations": [
@@ -5448,9 +5331,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5462,7 +5343,7 @@
   },
   {
     "entry": {
-      "id": 196,
+      "id": 197,
       "form": "epao"
     },
     "translations": [
@@ -5492,7 +5373,7 @@
   },
   {
     "entry": {
-      "id": 197,
+      "id": 198,
       "form": "es^eu"
     },
     "translations": [
@@ -5522,7 +5403,7 @@
   },
   {
     "entry": {
-      "id": 198,
+      "id": 199,
       "form": "etoxapelu"
     },
     "translations": [
@@ -5533,9 +5414,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5547,7 +5426,7 @@
   },
   {
     "entry": {
-      "id": 199,
+      "id": 200,
       "form": "ewai"
     },
     "translations": [
@@ -5576,10 +5455,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "ewair"
-      },
-      {
         "title": "同根語",
         "text": "uai1.pk, eyáúḷ.bt"
       }
@@ -5589,7 +5464,7 @@
   },
   {
     "entry": {
-      "id": 200,
+      "id": 201,
       "form": "eyoi"
     },
     "translations": [
@@ -5597,6 +5472,12 @@
         "title": "名詞",
         "forms": [
           "春"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "春の"
         ]
       },
       {
@@ -5618,31 +5499,7 @@
   },
   {
     "entry": {
-      "id": 201,
-      "form": "eyoi"
-    },
-    "translations": [
-      {
-        "title": "形容詞",
-        "forms": [
-          "春の"
-        ]
-      },
-      {
-        "title": "燐字",
-        "forms": [
-          "春"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [],
-    "variations": [],
-    "relations": []
-  },
-  {
-    "entry": {
-      "id": 202,
+      "id": 203,
       "form": "fabui"
     },
     "translations": [
@@ -5655,9 +5512,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5669,7 +5524,7 @@
   },
   {
     "entry": {
-      "id": 203,
+      "id": 204,
       "form": "fadzio"
     },
     "translations": [
@@ -5681,9 +5536,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5695,7 +5548,7 @@
   },
   {
     "entry": {
-      "id": 204,
+      "id": 205,
       "form": "fafi"
     },
     "translations": [
@@ -5724,7 +5577,7 @@
   },
   {
     "entry": {
-      "id": 205,
+      "id": 206,
       "form": "fah^ua"
     },
     "translations": [
@@ -5756,7 +5609,7 @@
   },
   {
     "entry": {
-      "id": 206,
+      "id": 207,
       "form": "falaa"
     },
     "translations": [
@@ -5785,7 +5638,7 @@
   },
   {
     "entry": {
-      "id": 207,
+      "id": 208,
       "form": "faniu"
     },
     "translations": [
@@ -5810,7 +5663,7 @@
   },
   {
     "entry": {
-      "id": 208,
+      "id": 209,
       "form": "fas^eu"
     },
     "translations": [
@@ -5822,9 +5675,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5836,7 +5687,7 @@
   },
   {
     "entry": {
-      "id": 209,
+      "id": 210,
       "form": "feqoai"
     },
     "translations": [
@@ -5847,9 +5698,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5861,7 +5710,7 @@
   },
   {
     "entry": {
-      "id": 210,
+      "id": 211,
       "form": "figue"
     },
     "translations": [
@@ -5872,9 +5721,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5886,7 +5733,7 @@
   },
   {
     "entry": {
-      "id": 211,
+      "id": 212,
       "form": "fimea"
     },
     "translations": [
@@ -5897,9 +5744,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5911,7 +5756,7 @@
   },
   {
     "entry": {
-      "id": 212,
+      "id": 213,
       "form": "foje"
     },
     "translations": [
@@ -5941,7 +5786,7 @@
   },
   {
     "entry": {
-      "id": 213,
+      "id": 214,
       "form": "foku"
     },
     "translations": [
@@ -5971,7 +5816,7 @@
   },
   {
     "entry": {
-      "id": 214,
+      "id": 215,
       "form": "fongio"
     },
     "translations": [
@@ -5983,9 +5828,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -5997,7 +5840,7 @@
   },
   {
     "entry": {
-      "id": 215,
+      "id": 216,
       "form": "fop'ei"
     },
     "translations": [
@@ -6008,9 +5851,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6022,7 +5863,7 @@
   },
   {
     "entry": {
-      "id": 216,
+      "id": 217,
       "form": "fuk'io"
     },
     "translations": [
@@ -6035,9 +5876,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6049,7 +5888,7 @@
   },
   {
     "entry": {
-      "id": 217,
+      "id": 218,
       "form": "gaa"
     },
     "translations": [
@@ -6068,7 +5907,7 @@
   },
   {
     "entry": {
-      "id": 218,
+      "id": 219,
       "form": "gamuu"
     },
     "translations": [
@@ -6080,9 +5919,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6094,7 +5931,7 @@
   },
   {
     "entry": {
-      "id": 219,
+      "id": 220,
       "form": "ganyo"
     },
     "translations": [
@@ -6113,7 +5950,7 @@
   },
   {
     "entry": {
-      "id": 220,
+      "id": 221,
       "form": "gatu"
     },
     "translations": [
@@ -6143,7 +5980,7 @@
   },
   {
     "entry": {
-      "id": 221,
+      "id": 222,
       "form": "gauble"
     },
     "translations": [
@@ -6155,9 +5992,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6169,7 +6004,7 @@
   },
   {
     "entry": {
-      "id": 222,
+      "id": 223,
       "form": "gauki"
     },
     "translations": [
@@ -6180,9 +6015,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6194,7 +6027,7 @@
   },
   {
     "entry": {
-      "id": 223,
+      "id": 224,
       "form": "gecwe"
     },
     "translations": [
@@ -6206,9 +6039,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6220,7 +6051,7 @@
   },
   {
     "entry": {
-      "id": 224,
+      "id": 225,
       "form": "gecwou"
     },
     "translations": [
@@ -6242,7 +6073,7 @@
   },
   {
     "entry": {
-      "id": 225,
+      "id": 226,
       "form": "gelao"
     },
     "translations": [
@@ -6272,7 +6103,7 @@
   },
   {
     "entry": {
-      "id": 226,
+      "id": 227,
       "form": "genu"
     },
     "translations": [
@@ -6290,7 +6121,7 @@
   },
   {
     "entry": {
-      "id": 227,
+      "id": 228,
       "form": "geqa"
     },
     "translations": [
@@ -6307,9 +6138,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -6325,7 +6154,7 @@
   },
   {
     "entry": {
-      "id": 228,
+      "id": 229,
       "form": "gerue"
     },
     "translations": [
@@ -6336,9 +6165,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6350,7 +6177,7 @@
   },
   {
     "entry": {
-      "id": 229,
+      "id": 230,
       "form": "gio"
     },
     "translations": [
@@ -6370,20 +6197,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "quvoo"
-      },
-      {
         "title": "同根語",
         "text": "kuo1.pk, ghíyo.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 554,
+          "form": "quvoo"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 230,
+      "id": 231,
       "form": "guko"
     },
     "translations": [
@@ -6428,7 +6259,7 @@
   },
   {
     "entry": {
-      "id": 231,
+      "id": 232,
       "form": "guyao"
     },
     "translations": [
@@ -6458,7 +6289,7 @@
   },
   {
     "entry": {
-      "id": 232,
+      "id": 233,
       "form": "h^alaii"
     },
     "translations": [
@@ -6469,9 +6300,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6487,7 +6316,7 @@
   },
   {
     "entry": {
-      "id": 233,
+      "id": 234,
       "form": "h^ecuai"
     },
     "translations": [
@@ -6511,7 +6340,7 @@
   },
   {
     "entry": {
-      "id": 234,
+      "id": 235,
       "form": "h^ikoo"
     },
     "translations": [
@@ -6542,7 +6371,7 @@
   },
   {
     "entry": {
-      "id": 235,
+      "id": 236,
       "form": "h^olou"
     },
     "translations": [
@@ -6553,9 +6382,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6571,7 +6398,7 @@
   },
   {
     "entry": {
-      "id": 236,
+      "id": 237,
       "form": "h^ozao"
     },
     "translations": [
@@ -6582,9 +6409,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6596,7 +6421,7 @@
   },
   {
     "entry": {
-      "id": 237,
+      "id": 238,
       "form": "h^ut^ee"
     },
     "translations": [
@@ -6625,7 +6450,7 @@
   },
   {
     "entry": {
-      "id": 238,
+      "id": 239,
       "form": "hagi"
     },
     "translations": [
@@ -6654,7 +6479,7 @@
   },
   {
     "entry": {
-      "id": 239,
+      "id": 240,
       "form": "hagi"
     },
     "translations": [
@@ -6673,7 +6498,7 @@
   },
   {
     "entry": {
-      "id": 240,
+      "id": 241,
       "form": "hahau"
     },
     "translations": [
@@ -6702,7 +6527,7 @@
   },
   {
     "entry": {
-      "id": 241,
+      "id": 242,
       "form": "haicaai"
     },
     "translations": [
@@ -6714,9 +6539,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6728,7 +6551,7 @@
   },
   {
     "entry": {
-      "id": 242,
+      "id": 243,
       "form": "hainyi"
     },
     "translations": [
@@ -6741,41 +6564,11 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
         "text": "fenire"
-      }
-    ],
-    "variations": [],
-    "relations": []
-  },
-  {
-    "entry": {
-      "id": 243,
-      "form": "haivuu"
-    },
-    "translations": [
-      {
-        "title": "名詞",
-        "forms": [
-          "闇",
-          "暗闇"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "haivuu"
-      },
-      {
-        "title": "同根語",
-        "text": "háju.bt"
       }
     ],
     "variations": [],
@@ -6788,6 +6581,13 @@
     },
     "translations": [
       {
+        "title": "名詞",
+        "forms": [
+          "闇",
+          "暗闇"
+        ]
+      },
+      {
         "title": "形容詞",
         "forms": [
           "暗愚",
@@ -6798,16 +6598,8 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "haivuu"
-      },
-      {
         "title": "同根語",
         "text": "háju.bt"
-      },
-      {
-        "title": "備考",
-        "text": "侮蔑的な言葉"
       }
     ],
     "variations": [],
@@ -6815,7 +6607,7 @@
   },
   {
     "entry": {
-      "id": 245,
+      "id": 246,
       "form": "hanu"
     },
     "translations": [
@@ -6850,7 +6642,7 @@
   },
   {
     "entry": {
-      "id": 246,
+      "id": 247,
       "form": "haroa"
     },
     "translations": [
@@ -6862,9 +6654,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6876,7 +6666,7 @@
   },
   {
     "entry": {
-      "id": 247,
+      "id": 248,
       "form": "haroa"
     },
     "translations": [
@@ -6894,7 +6684,7 @@
   },
   {
     "entry": {
-      "id": 248,
+      "id": 249,
       "form": "haumei"
     },
     "translations": [
@@ -6906,9 +6696,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6920,7 +6708,7 @@
   },
   {
     "entry": {
-      "id": 249,
+      "id": 250,
       "form": "hea"
     },
     "translations": [
@@ -6932,9 +6720,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -6946,7 +6732,7 @@
   },
   {
     "entry": {
-      "id": 250,
+      "id": 251,
       "form": "hema"
     },
     "translations": [
@@ -6975,7 +6761,7 @@
   },
   {
     "entry": {
-      "id": 251,
+      "id": 252,
       "form": "hema"
     },
     "translations": [
@@ -7005,7 +6791,7 @@
   },
   {
     "entry": {
-      "id": 252,
+      "id": 253,
       "form": "hep'iai"
     },
     "translations": [
@@ -7025,20 +6811,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "-hep"
-      },
-      {
         "title": "同根語",
         "text": "huep2.pk, epa.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 2,
+          "form": "-hep"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 253,
+      "id": 254,
       "form": "hewe"
     },
     "translations": [
@@ -7057,9 +6847,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -7079,7 +6867,7 @@
   },
   {
     "entry": {
-      "id": 254,
+      "id": 255,
       "form": "hiki"
     },
     "translations": [
@@ -7103,7 +6891,7 @@
   },
   {
     "entry": {
-      "id": 255,
+      "id": 256,
       "form": "hiya"
     },
     "translations": [
@@ -7132,7 +6920,7 @@
   },
   {
     "entry": {
-      "id": 256,
+      "id": 257,
       "form": "hoduo"
     },
     "translations": [
@@ -7144,9 +6932,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7158,7 +6944,7 @@
   },
   {
     "entry": {
-      "id": 257,
+      "id": 258,
       "form": "hogue"
     },
     "translations": [
@@ -7177,7 +6963,7 @@
   },
   {
     "entry": {
-      "id": 258,
+      "id": 259,
       "form": "hona"
     },
     "translations": [
@@ -7209,7 +6995,7 @@
   },
   {
     "entry": {
-      "id": 259,
+      "id": 260,
       "form": "hotei"
     },
     "translations": [
@@ -7234,7 +7020,7 @@
   },
   {
     "entry": {
-      "id": 260,
+      "id": 261,
       "form": "hovi"
     },
     "translations": [
@@ -7263,7 +7049,7 @@
   },
   {
     "entry": {
-      "id": 261,
+      "id": 262,
       "form": "hoyi"
     },
     "translations": [
@@ -7292,7 +7078,7 @@
   },
   {
     "entry": {
-      "id": 262,
+      "id": 263,
       "form": "huangi"
     },
     "translations": [
@@ -7309,9 +7095,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7323,7 +7107,7 @@
   },
   {
     "entry": {
-      "id": 263,
+      "id": 264,
       "form": "hubwa"
     },
     "translations": [
@@ -7353,7 +7137,7 @@
   },
   {
     "entry": {
-      "id": 264,
+      "id": 265,
       "form": "hungaai"
     },
     "translations": [
@@ -7377,7 +7161,7 @@
   },
   {
     "entry": {
-      "id": 265,
+      "id": 266,
       "form": "hupo"
     },
     "translations": [
@@ -7406,7 +7190,7 @@
   },
   {
     "entry": {
-      "id": 266,
+      "id": 267,
       "form": "huroe"
     },
     "translations": [
@@ -7436,7 +7220,7 @@
   },
   {
     "entry": {
-      "id": 267,
+      "id": 268,
       "form": "huroo"
     },
     "translations": [
@@ -7465,7 +7249,7 @@
   },
   {
     "entry": {
-      "id": 268,
+      "id": 269,
       "form": "i"
     },
     "translations": [
@@ -7489,7 +7273,7 @@
   },
   {
     "entry": {
-      "id": 269,
+      "id": 270,
       "form": "i"
     },
     "translations": [
@@ -7513,7 +7297,7 @@
   },
   {
     "entry": {
-      "id": 270,
+      "id": 271,
       "form": "ia"
     },
     "translations": [
@@ -7548,7 +7332,7 @@
   },
   {
     "entry": {
-      "id": 271,
+      "id": 272,
       "form": "iaki"
     },
     "translations": [
@@ -7560,9 +7344,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7574,7 +7356,7 @@
   },
   {
     "entry": {
-      "id": 272,
+      "id": 273,
       "form": "iama"
     },
     "translations": [
@@ -7610,7 +7392,7 @@
   },
   {
     "entry": {
-      "id": 273,
+      "id": 274,
       "form": "iasi"
     },
     "translations": [
@@ -7630,7 +7412,7 @@
   },
   {
     "entry": {
-      "id": 274,
+      "id": 275,
       "form": "idua"
     },
     "translations": [
@@ -7649,7 +7431,7 @@
   },
   {
     "entry": {
-      "id": 275,
+      "id": 276,
       "form": "iki"
     },
     "translations": [
@@ -7674,7 +7456,7 @@
   },
   {
     "entry": {
-      "id": 276,
+      "id": 277,
       "form": "ikisa"
     },
     "translations": [
@@ -7686,9 +7468,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -7704,7 +7484,7 @@
   },
   {
     "entry": {
-      "id": 277,
+      "id": 278,
       "form": "ikiti"
     },
     "translations": [
@@ -7721,9 +7501,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7735,7 +7513,7 @@
   },
   {
     "entry": {
-      "id": 278,
+      "id": 279,
       "form": "iku"
     },
     "translations": [
@@ -7765,7 +7543,7 @@
   },
   {
     "entry": {
-      "id": 279,
+      "id": 280,
       "form": "ime"
     },
     "translations": [
@@ -7776,9 +7554,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7790,7 +7566,7 @@
   },
   {
     "entry": {
-      "id": 280,
+      "id": 281,
       "form": "imika"
     },
     "translations": [
@@ -7819,7 +7595,7 @@
   },
   {
     "entry": {
-      "id": 281,
+      "id": 282,
       "form": "imisa"
     },
     "translations": [
@@ -7848,7 +7624,7 @@
   },
   {
     "entry": {
-      "id": 282,
+      "id": 283,
       "form": "imitu"
     },
     "translations": [
@@ -7860,9 +7636,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7874,7 +7648,7 @@
   },
   {
     "entry": {
-      "id": 283,
+      "id": 284,
       "form": "imu"
     },
     "translations": [
@@ -7903,7 +7677,7 @@
   },
   {
     "entry": {
-      "id": 284,
+      "id": 285,
       "form": "imuti"
     },
     "translations": [
@@ -7914,9 +7688,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7928,7 +7700,7 @@
   },
   {
     "entry": {
-      "id": 285,
+      "id": 286,
       "form": "inini"
     },
     "translations": [
@@ -7953,11 +7725,19 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 6,
+          "form": "-ni"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 286,
+      "id": 287,
       "form": "inuni"
     },
     "translations": [
@@ -7968,9 +7748,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -7982,7 +7760,7 @@
   },
   {
     "entry": {
-      "id": 287,
+      "id": 288,
       "form": "inusi"
     },
     "translations": [
@@ -8012,7 +7790,7 @@
   },
   {
     "entry": {
-      "id": 288,
+      "id": 289,
       "form": "inutaku"
     },
     "translations": [
@@ -8024,9 +7802,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8038,7 +7814,7 @@
   },
   {
     "entry": {
-      "id": 289,
+      "id": 290,
       "form": "iou"
     },
     "translations": [
@@ -8068,7 +7844,7 @@
   },
   {
     "entry": {
-      "id": 290,
+      "id": 291,
       "form": "iqiu"
     },
     "translations": [
@@ -8099,7 +7875,7 @@
   },
   {
     "entry": {
-      "id": 291,
+      "id": 292,
       "form": "itasi"
     },
     "translations": [
@@ -8111,9 +7887,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8125,7 +7899,7 @@
   },
   {
     "entry": {
-      "id": 292,
+      "id": 293,
       "form": "itua"
     },
     "translations": [
@@ -8154,7 +7928,7 @@
   },
   {
     "entry": {
-      "id": 293,
+      "id": 294,
       "form": "iwa"
     },
     "translations": [
@@ -8183,7 +7957,7 @@
   },
   {
     "entry": {
-      "id": 294,
+      "id": 295,
       "form": "jabuu"
     },
     "translations": [
@@ -8209,7 +7983,7 @@
   },
   {
     "entry": {
-      "id": 295,
+      "id": 296,
       "form": "jaiga"
     },
     "translations": [
@@ -8220,9 +7994,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8234,7 +8006,7 @@
   },
   {
     "entry": {
-      "id": 296,
+      "id": 297,
       "form": "jailuo"
     },
     "translations": [
@@ -8247,9 +8019,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8261,7 +8031,7 @@
   },
   {
     "entry": {
-      "id": 297,
+      "id": 298,
       "form": "jaizi"
     },
     "translations": [
@@ -8282,7 +8052,7 @@
   },
   {
     "entry": {
-      "id": 298,
+      "id": 299,
       "form": "jani"
     },
     "translations": [
@@ -8312,7 +8082,7 @@
   },
   {
     "entry": {
-      "id": 299,
+      "id": 300,
       "form": "jatu"
     },
     "translations": [
@@ -8322,33 +8092,6 @@
           "冬"
         ]
       },
-      {
-        "title": "燐字",
-        "forms": [
-          "冬"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "jatu"
-      },
-      {
-        "title": "同根語",
-        "text": "iat1.pk"
-      }
-    ],
-    "variations": [],
-    "relations": []
-  },
-  {
-    "entry": {
-      "id": 300,
-      "form": "jatu"
-    },
-    "translations": [
       {
         "title": "形容詞",
         "forms": [
@@ -8365,10 +8108,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "jatu"
-      },
-      {
         "title": "同根語",
         "text": "iat1.pk"
       }
@@ -8378,7 +8117,7 @@
   },
   {
     "entry": {
-      "id": 301,
+      "id": 302,
       "form": "jebla"
     },
     "translations": [
@@ -8389,9 +8128,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8403,7 +8140,7 @@
   },
   {
     "entry": {
-      "id": 302,
+      "id": 303,
       "form": "jinei"
     },
     "translations": [
@@ -8440,7 +8177,7 @@
   },
   {
     "entry": {
-      "id": 303,
+      "id": 304,
       "form": "jokhi"
     },
     "translations": [
@@ -8463,7 +8200,7 @@
   },
   {
     "entry": {
-      "id": 304,
+      "id": 305,
       "form": "jomo"
     },
     "translations": [
@@ -8481,7 +8218,7 @@
   },
   {
     "entry": {
-      "id": 305,
+      "id": 306,
       "form": "jooi"
     },
     "translations": [
@@ -8510,7 +8247,7 @@
   },
   {
     "entry": {
-      "id": 306,
+      "id": 307,
       "form": "josu"
     },
     "translations": [
@@ -8528,9 +8265,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8542,7 +8277,7 @@
   },
   {
     "entry": {
-      "id": 307,
+      "id": 308,
       "form": "josua"
     },
     "translations": [
@@ -8567,7 +8302,7 @@
   },
   {
     "entry": {
-      "id": 308,
+      "id": 309,
       "form": "joveo"
     },
     "translations": [
@@ -8591,7 +8326,7 @@
   },
   {
     "entry": {
-      "id": 309,
+      "id": 310,
       "form": "jubuai"
     },
     "translations": [
@@ -8602,9 +8337,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8616,7 +8349,7 @@
   },
   {
     "entry": {
-      "id": 310,
+      "id": 311,
       "form": "juce"
     },
     "translations": [
@@ -8647,7 +8380,7 @@
   },
   {
     "entry": {
-      "id": 311,
+      "id": 312,
       "form": "jukha"
     },
     "translations": [
@@ -8671,7 +8404,7 @@
   },
   {
     "entry": {
-      "id": 312,
+      "id": 313,
       "form": "jukuku"
     },
     "translations": [
@@ -8694,7 +8427,7 @@
   },
   {
     "entry": {
-      "id": 313,
+      "id": 314,
       "form": "juo"
     },
     "translations": [
@@ -8724,7 +8457,7 @@
   },
   {
     "entry": {
-      "id": 314,
+      "id": 315,
       "form": "juo"
     },
     "translations": [
@@ -8743,7 +8476,7 @@
   },
   {
     "entry": {
-      "id": 315,
+      "id": 316,
       "form": "jup'ui"
     },
     "translations": [
@@ -8754,9 +8487,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8772,7 +8503,7 @@
   },
   {
     "entry": {
-      "id": 316,
+      "id": 317,
       "form": "juro"
     },
     "translations": [
@@ -8801,7 +8532,7 @@
   },
   {
     "entry": {
-      "id": 317,
+      "id": 318,
       "form": "jusei"
     },
     "translations": [
@@ -8824,7 +8555,7 @@
   },
   {
     "entry": {
-      "id": 318,
+      "id": 319,
       "form": "k'abaia"
     },
     "translations": [
@@ -8836,9 +8567,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8850,7 +8579,7 @@
   },
   {
     "entry": {
-      "id": 319,
+      "id": 320,
       "form": "k'ebaie"
     },
     "translations": [
@@ -8861,9 +8590,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8879,7 +8606,7 @@
   },
   {
     "entry": {
-      "id": 320,
+      "id": 321,
       "form": "k'es'ia"
     },
     "translations": [
@@ -8891,9 +8618,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -8909,7 +8634,7 @@
   },
   {
     "entry": {
-      "id": 321,
+      "id": 322,
       "form": "k'iwea"
     },
     "translations": [
@@ -8933,7 +8658,7 @@
   },
   {
     "entry": {
-      "id": 322,
+      "id": 323,
       "form": "k'uaa"
     },
     "translations": [
@@ -8969,7 +8694,7 @@
   },
   {
     "entry": {
-      "id": 323,
+      "id": 324,
       "form": "kabu"
     },
     "translations": [
@@ -8988,7 +8713,7 @@
   },
   {
     "entry": {
-      "id": 324,
+      "id": 325,
       "form": "kacei"
     },
     "translations": [
@@ -8999,9 +8724,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9013,7 +8736,7 @@
   },
   {
     "entry": {
-      "id": 325,
+      "id": 326,
       "form": "kaci"
     },
     "translations": [
@@ -9026,9 +8749,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9040,7 +8761,7 @@
   },
   {
     "entry": {
-      "id": 326,
+      "id": 327,
       "form": "kaga"
     },
     "translations": [
@@ -9069,7 +8790,7 @@
   },
   {
     "entry": {
-      "id": 327,
+      "id": 328,
       "form": "kaiga"
     },
     "translations": [
@@ -9087,7 +8808,7 @@
   },
   {
     "entry": {
-      "id": 328,
+      "id": 329,
       "form": "kaika"
     },
     "translations": [
@@ -9124,7 +8845,7 @@
   },
   {
     "entry": {
-      "id": 329,
+      "id": 330,
       "form": "kaisa"
     },
     "translations": [
@@ -9154,7 +8875,7 @@
   },
   {
     "entry": {
-      "id": 330,
+      "id": 331,
       "form": "kakana"
     },
     "translations": [
@@ -9166,9 +8887,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9180,7 +8899,7 @@
   },
   {
     "entry": {
-      "id": 331,
+      "id": 332,
       "form": "kakita"
     },
     "translations": [
@@ -9193,9 +8912,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9207,7 +8924,7 @@
   },
   {
     "entry": {
-      "id": 332,
+      "id": 333,
       "form": "kakusa"
     },
     "translations": [
@@ -9232,7 +8949,7 @@
   },
   {
     "entry": {
-      "id": 333,
+      "id": 334,
       "form": "kami"
     },
     "translations": [
@@ -9244,9 +8961,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9258,7 +8973,7 @@
   },
   {
     "entry": {
-      "id": 334,
+      "id": 335,
       "form": "kanaka"
     },
     "translations": [
@@ -9279,20 +8994,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "kanata"
-      },
-      {
         "title": "同根語",
         "text": "kan1.pk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 336,
+          "form": "kanata"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 335,
+      "id": 336,
       "form": "kanata"
     },
     "translations": [
@@ -9312,20 +9031,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "kanaka"
-      },
-      {
         "title": "同根語",
         "text": "kan1.pk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 335,
+          "form": "kanaka"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 336,
+      "id": 337,
       "form": "kani"
     },
     "translations": [
@@ -9352,10 +9075,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "kanir"
-      },
-      {
         "title": "同根語",
         "text": "kan1.pk, gháni.bt"
       }
@@ -9365,7 +9084,7 @@
   },
   {
     "entry": {
-      "id": 337,
+      "id": 338,
       "form": "kaniti"
     },
     "translations": [
@@ -9383,7 +9102,7 @@
   },
   {
     "entry": {
-      "id": 338,
+      "id": 339,
       "form": "kasi"
     },
     "translations": [
@@ -9393,33 +9112,6 @@
           "秋"
         ]
       },
-      {
-        "title": "燐字",
-        "forms": [
-          "秋"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "kasi"
-      },
-      {
-        "title": "同根語",
-        "text": "kat2.pk"
-      }
-    ],
-    "variations": [],
-    "relations": []
-  },
-  {
-    "entry": {
-      "id": 339,
-      "form": "kasi"
-    },
-    "translations": [
       {
         "title": "形容詞",
         "forms": [
@@ -9436,10 +9128,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "kasi"
-      },
-      {
         "title": "同根語",
         "text": "kat2.pk"
       }
@@ -9449,7 +9137,7 @@
   },
   {
     "entry": {
-      "id": 340,
+      "id": 341,
       "form": "kasui"
     },
     "translations": [
@@ -9469,20 +9157,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "khaicwi"
-      },
-      {
         "title": "同根語",
         "text": "kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 352,
+          "form": "khaicwi"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 341,
+      "id": 342,
       "form": "kasumu"
     },
     "translations": [
@@ -9495,9 +9187,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9509,7 +9199,7 @@
   },
   {
     "entry": {
-      "id": 342,
+      "id": 343,
       "form": "kat^oe"
     },
     "translations": [
@@ -9527,7 +9217,7 @@
   },
   {
     "entry": {
-      "id": 343,
+      "id": 344,
       "form": "kat^oe"
     },
     "translations": [
@@ -9539,9 +9229,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9557,7 +9245,7 @@
   },
   {
     "entry": {
-      "id": 344,
+      "id": 345,
       "form": "katu"
     },
     "translations": [
@@ -9587,7 +9275,7 @@
   },
   {
     "entry": {
-      "id": 345,
+      "id": 346,
       "form": "kaunyou"
     },
     "translations": [
@@ -9599,9 +9287,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9613,7 +9299,7 @@
   },
   {
     "entry": {
-      "id": 346,
+      "id": 347,
       "form": "kausu"
     },
     "translations": [
@@ -9624,9 +9310,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9638,7 +9322,7 @@
   },
   {
     "entry": {
-      "id": 347,
+      "id": 348,
       "form": "kawi"
     },
     "translations": [
@@ -9661,7 +9345,7 @@
   },
   {
     "entry": {
-      "id": 348,
+      "id": 349,
       "form": "keicwou"
     },
     "translations": [
@@ -9684,7 +9368,7 @@
   },
   {
     "entry": {
-      "id": 349,
+      "id": 350,
       "form": "ket'eo"
     },
     "translations": [
@@ -9714,7 +9398,7 @@
   },
   {
     "entry": {
-      "id": 350,
+      "id": 351,
       "form": "khabu"
     },
     "translations": [
@@ -9749,7 +9433,7 @@
   },
   {
     "entry": {
-      "id": 351,
+      "id": 352,
       "form": "khaicwi"
     },
     "translations": [
@@ -9763,20 +9447,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "kasui"
-      },
-      {
         "title": "同根語",
         "text": "kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 341,
+          "form": "kasui"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 352,
+      "id": 353,
       "form": "khazu"
     },
     "translations": [
@@ -9797,7 +9485,7 @@
   },
   {
     "entry": {
-      "id": 353,
+      "id": 354,
       "form": "khobau"
     },
     "translations": [
@@ -9828,7 +9516,7 @@
   },
   {
     "entry": {
-      "id": 354,
+      "id": 355,
       "form": "khuthe"
     },
     "translations": [
@@ -9840,9 +9528,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9854,7 +9540,7 @@
   },
   {
     "entry": {
-      "id": 355,
+      "id": 356,
       "form": "ki"
     },
     "translations": [
@@ -9879,7 +9565,7 @@
   },
   {
     "entry": {
-      "id": 356,
+      "id": 357,
       "form": "kiki"
     },
     "translations": [
@@ -9898,9 +9584,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -9916,7 +9600,7 @@
   },
   {
     "entry": {
-      "id": 357,
+      "id": 358,
       "form": "kikita"
     },
     "translations": [
@@ -9927,9 +9611,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9941,7 +9623,7 @@
   },
   {
     "entry": {
-      "id": 358,
+      "id": 359,
       "form": "kimiku"
     },
     "translations": [
@@ -9952,9 +9634,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9966,7 +9646,7 @@
   },
   {
     "entry": {
-      "id": 359,
+      "id": 360,
       "form": "kimou"
     },
     "translations": [
@@ -9978,9 +9658,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -9992,7 +9670,7 @@
   },
   {
     "entry": {
-      "id": 360,
+      "id": 361,
       "form": "kinia"
     },
     "translations": [
@@ -10021,7 +9699,7 @@
   },
   {
     "entry": {
-      "id": 361,
+      "id": 362,
       "form": "kinuka"
     },
     "translations": [
@@ -10050,7 +9728,7 @@
   },
   {
     "entry": {
-      "id": 362,
+      "id": 363,
       "form": "kisamu"
     },
     "translations": [
@@ -10073,7 +9751,7 @@
   },
   {
     "entry": {
-      "id": 363,
+      "id": 364,
       "form": "kisi"
     },
     "translations": [
@@ -10102,7 +9780,7 @@
   },
   {
     "entry": {
-      "id": 364,
+      "id": 365,
       "form": "kisu"
     },
     "translations": [
@@ -10132,7 +9810,7 @@
   },
   {
     "entry": {
-      "id": 365,
+      "id": 366,
       "form": "kita"
     },
     "translations": [
@@ -10162,7 +9840,7 @@
   },
   {
     "entry": {
-      "id": 366,
+      "id": 367,
       "form": "kitu"
     },
     "translations": [
@@ -10191,7 +9869,7 @@
   },
   {
     "entry": {
-      "id": 367,
+      "id": 368,
       "form": "koli"
     },
     "translations": [
@@ -10220,7 +9898,7 @@
   },
   {
     "entry": {
-      "id": 368,
+      "id": 369,
       "form": "kotu"
     },
     "translations": [
@@ -10249,7 +9927,7 @@
   },
   {
     "entry": {
-      "id": 369,
+      "id": 370,
       "form": "kouai"
     },
     "translations": [
@@ -10287,7 +9965,7 @@
   },
   {
     "entry": {
-      "id": 370,
+      "id": 371,
       "form": "koxua"
     },
     "translations": [
@@ -10299,9 +9977,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -10313,7 +9989,7 @@
   },
   {
     "entry": {
-      "id": 371,
+      "id": 372,
       "form": "kuaka"
     },
     "translations": [
@@ -10342,7 +10018,7 @@
   },
   {
     "entry": {
-      "id": 372,
+      "id": 373,
       "form": "kunge"
     },
     "translations": [
@@ -10383,7 +10059,7 @@
   },
   {
     "entry": {
-      "id": 373,
+      "id": 374,
       "form": "kuniki"
     },
     "translations": [
@@ -10394,9 +10070,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -10408,7 +10082,7 @@
   },
   {
     "entry": {
-      "id": 374,
+      "id": 375,
       "form": "ky'esiri"
     },
     "translations": [
@@ -10419,9 +10093,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -10433,7 +10105,7 @@
   },
   {
     "entry": {
-      "id": 375,
+      "id": 376,
       "form": "laitai"
     },
     "translations": [
@@ -10457,7 +10129,7 @@
   },
   {
     "entry": {
-      "id": 376,
+      "id": 377,
       "form": "lanau"
     },
     "translations": [
@@ -10487,7 +10159,7 @@
   },
   {
     "entry": {
-      "id": 377,
+      "id": 378,
       "form": "laupwau"
     },
     "translations": [
@@ -10505,7 +10177,7 @@
   },
   {
     "entry": {
-      "id": 378,
+      "id": 379,
       "form": "leaa"
     },
     "translations": [
@@ -10536,7 +10208,7 @@
   },
   {
     "entry": {
-      "id": 379,
+      "id": 380,
       "form": "lebi"
     },
     "translations": [
@@ -10554,7 +10226,7 @@
   },
   {
     "entry": {
-      "id": 380,
+      "id": 381,
       "form": "leitau"
     },
     "translations": [
@@ -10566,9 +10238,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -10580,7 +10250,7 @@
   },
   {
     "entry": {
-      "id": 381,
+      "id": 382,
       "form": "leka"
     },
     "translations": [
@@ -10610,7 +10280,7 @@
   },
   {
     "entry": {
-      "id": 382,
+      "id": 383,
       "form": "lexai"
     },
     "translations": [
@@ -10622,9 +10292,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -10636,7 +10304,7 @@
   },
   {
     "entry": {
-      "id": 383,
+      "id": 384,
       "form": "libwa"
     },
     "translations": [
@@ -10669,7 +10337,7 @@
   },
   {
     "entry": {
-      "id": 384,
+      "id": 385,
       "form": "lihuo"
     },
     "translations": [
@@ -10694,7 +10362,7 @@
   },
   {
     "entry": {
-      "id": 385,
+      "id": 386,
       "form": "linaesto olus"
     },
     "translations": [
@@ -10712,7 +10380,7 @@
   },
   {
     "entry": {
-      "id": 386,
+      "id": 387,
       "form": "lingei"
     },
     "translations": [
@@ -10742,7 +10410,7 @@
   },
   {
     "entry": {
-      "id": 387,
+      "id": 388,
       "form": "lisua"
     },
     "translations": [
@@ -10772,7 +10440,7 @@
   },
   {
     "entry": {
-      "id": 388,
+      "id": 389,
       "form": "liwo"
     },
     "translations": [
@@ -10803,7 +10471,7 @@
   },
   {
     "entry": {
-      "id": 389,
+      "id": 390,
       "form": "lodu"
     },
     "translations": [
@@ -10833,7 +10501,7 @@
   },
   {
     "entry": {
-      "id": 390,
+      "id": 391,
       "form": "lohu"
     },
     "translations": [
@@ -10864,7 +10532,7 @@
   },
   {
     "entry": {
-      "id": 391,
+      "id": 392,
       "form": "loka"
     },
     "translations": [
@@ -10895,7 +10563,7 @@
   },
   {
     "entry": {
-      "id": 392,
+      "id": 393,
       "form": "lokemyuda"
     },
     "translations": [
@@ -10906,9 +10574,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -10920,7 +10586,7 @@
   },
   {
     "entry": {
-      "id": 393,
+      "id": 394,
       "form": "lorua"
     },
     "translations": [
@@ -10956,7 +10622,7 @@
   },
   {
     "entry": {
-      "id": 394,
+      "id": 395,
       "form": "losu"
     },
     "translations": [
@@ -10986,7 +10652,7 @@
   },
   {
     "entry": {
-      "id": 395,
+      "id": 396,
       "form": "lubu"
     },
     "translations": [
@@ -11016,7 +10682,7 @@
   },
   {
     "entry": {
-      "id": 396,
+      "id": 397,
       "form": "lugea"
     },
     "translations": [
@@ -11040,7 +10706,7 @@
   },
   {
     "entry": {
-      "id": 397,
+      "id": 398,
       "form": "luhai"
     },
     "translations": [
@@ -11051,9 +10717,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11065,7 +10729,7 @@
   },
   {
     "entry": {
-      "id": 398,
+      "id": 399,
       "form": "lupe"
     },
     "translations": [
@@ -11084,9 +10748,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11098,7 +10760,7 @@
   },
   {
     "entry": {
-      "id": 399,
+      "id": 400,
       "form": "lutwu"
     },
     "translations": [
@@ -11129,7 +10791,7 @@
   },
   {
     "entry": {
-      "id": 400,
+      "id": 401,
       "form": "lutwu"
     },
     "translations": [
@@ -11148,7 +10810,7 @@
   },
   {
     "entry": {
-      "id": 401,
+      "id": 402,
       "form": "maadyiti"
     },
     "translations": [
@@ -11159,9 +10821,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11173,7 +10833,7 @@
   },
   {
     "entry": {
-      "id": 402,
+      "id": 403,
       "form": "macwe"
     },
     "translations": [
@@ -11187,20 +10847,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "masuni"
-      },
-      {
         "title": "同根語",
         "text": "bacú.bt, bácujúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 424,
+          "form": "masuni"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 403,
+      "id": 404,
       "form": "maiblo"
     },
     "translations": [
@@ -11218,9 +10882,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11232,7 +10894,7 @@
   },
   {
     "entry": {
-      "id": 404,
+      "id": 405,
       "form": "maikau"
     },
     "translations": [
@@ -11261,7 +10923,7 @@
   },
   {
     "entry": {
-      "id": 405,
+      "id": 406,
       "form": "maixaai"
     },
     "translations": [
@@ -11272,9 +10934,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11286,7 +10946,7 @@
   },
   {
     "entry": {
-      "id": 406,
+      "id": 407,
       "form": "maka"
     },
     "translations": [
@@ -11315,7 +10975,7 @@
   },
   {
     "entry": {
-      "id": 407,
+      "id": 408,
       "form": "makana"
     },
     "translations": [
@@ -11326,9 +10986,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11340,7 +10998,7 @@
   },
   {
     "entry": {
-      "id": 408,
+      "id": 409,
       "form": "makasu"
     },
     "translations": [
@@ -11369,7 +11027,7 @@
   },
   {
     "entry": {
-      "id": 409,
+      "id": 410,
       "form": "makati"
     },
     "translations": [
@@ -11389,7 +11047,7 @@
   },
   {
     "entry": {
-      "id": 410,
+      "id": 411,
       "form": "makina"
     },
     "translations": [
@@ -11412,7 +11070,7 @@
   },
   {
     "entry": {
-      "id": 411,
+      "id": 412,
       "form": "makutu"
     },
     "translations": [
@@ -11435,7 +11093,7 @@
   },
   {
     "entry": {
-      "id": 412,
+      "id": 413,
       "form": "mamau"
     },
     "translations": [
@@ -11449,20 +11107,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "manana"
-      },
-      {
         "title": "同根語",
         "text": "mam1.pk, banáman.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 416,
+          "form": "manana"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 413,
+      "id": 414,
       "form": "mammake"
     },
     "translations": [
@@ -11473,9 +11135,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11487,7 +11147,7 @@
   },
   {
     "entry": {
-      "id": 414,
+      "id": 415,
       "form": "mamu"
     },
     "translations": [
@@ -11499,9 +11159,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11513,14 +11171,14 @@
   },
   {
     "entry": {
-      "id": 415,
+      "id": 416,
       "form": "manana"
     },
     "translations": [
       {
         "title": "名詞",
         "forms": [
-          "母",
+          "（古語）母",
           "母親"
         ]
       },
@@ -11540,20 +11198,28 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "mamau"
-      },
-      {
         "title": "同根語",
         "text": "mam1.pk, banáman.bt, manmana.pmcp"
+      },
+      {
+        "title": "備考",
+        "text": "現代では「母」の意味ではmamauを使う。"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 413,
+          "form": "mamau"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 416,
+      "id": 417,
       "form": "mani"
     },
     "translations": [
@@ -11583,7 +11249,7 @@
   },
   {
     "entry": {
-      "id": 417,
+      "id": 418,
       "form": "maniku"
     },
     "translations": [
@@ -11594,9 +11260,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11608,7 +11272,7 @@
   },
   {
     "entry": {
-      "id": 418,
+      "id": 419,
       "form": "mapwu"
     },
     "translations": [
@@ -11626,9 +11290,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11640,7 +11302,7 @@
   },
   {
     "entry": {
-      "id": 419,
+      "id": 420,
       "form": "maqui"
     },
     "translations": [
@@ -11676,7 +11338,7 @@
   },
   {
     "entry": {
-      "id": 420,
+      "id": 421,
       "form": "masa"
     },
     "translations": [
@@ -11687,9 +11349,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11701,7 +11361,7 @@
   },
   {
     "entry": {
-      "id": 421,
+      "id": 422,
       "form": "masou"
     },
     "translations": [
@@ -11732,7 +11392,7 @@
   },
   {
     "entry": {
-      "id": 422,
+      "id": 423,
       "form": "masu"
     },
     "translations": [
@@ -11750,7 +11410,7 @@
   },
   {
     "entry": {
-      "id": 423,
+      "id": 424,
       "form": "masuni"
     },
     "translations": [
@@ -11764,20 +11424,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "macwe"
-      },
-      {
         "title": "同根語",
         "text": "bacú.bt, bácujúḷ.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 403,
+          "form": "macwe"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 424,
+      "id": 425,
       "form": "matutu"
     },
     "translations": [
@@ -11809,7 +11473,7 @@
   },
   {
     "entry": {
-      "id": 425,
+      "id": 426,
       "form": "maube"
     },
     "translations": [
@@ -11820,9 +11484,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11834,7 +11496,7 @@
   },
   {
     "entry": {
-      "id": 426,
+      "id": 427,
       "form": "mauna"
     },
     "translations": [
@@ -11863,7 +11525,7 @@
   },
   {
     "entry": {
-      "id": 427,
+      "id": 428,
       "form": "mauphu"
     },
     "translations": [
@@ -11875,9 +11537,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11889,7 +11549,7 @@
   },
   {
     "entry": {
-      "id": 428,
+      "id": 429,
       "form": "mefoai"
     },
     "translations": [
@@ -11900,9 +11560,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11914,7 +11572,7 @@
   },
   {
     "entry": {
-      "id": 429,
+      "id": 430,
       "form": "mexi"
     },
     "translations": [
@@ -11938,7 +11596,7 @@
   },
   {
     "entry": {
-      "id": 430,
+      "id": 431,
       "form": "minu"
     },
     "translations": [
@@ -11949,9 +11607,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11963,7 +11619,7 @@
   },
   {
     "entry": {
-      "id": 431,
+      "id": 432,
       "form": "mis^eo"
     },
     "translations": [
@@ -11976,9 +11632,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -11994,7 +11648,7 @@
   },
   {
     "entry": {
-      "id": 432,
+      "id": 433,
       "form": "misa"
     },
     "translations": [
@@ -12019,7 +11673,7 @@
   },
   {
     "entry": {
-      "id": 433,
+      "id": 434,
       "form": "misu"
     },
     "translations": [
@@ -12030,9 +11684,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12044,7 +11696,7 @@
   },
   {
     "entry": {
-      "id": 434,
+      "id": 435,
       "form": "mita"
     },
     "translations": [
@@ -12069,7 +11721,7 @@
   },
   {
     "entry": {
-      "id": 435,
+      "id": 436,
       "form": "mitiku"
     },
     "translations": [
@@ -12098,7 +11750,7 @@
   },
   {
     "entry": {
-      "id": 436,
+      "id": 437,
       "form": "miwou"
     },
     "translations": [
@@ -12110,9 +11762,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12124,7 +11774,7 @@
   },
   {
     "entry": {
-      "id": 437,
+      "id": 438,
       "form": "modo"
     },
     "translations": [
@@ -12154,7 +11804,7 @@
   },
   {
     "entry": {
-      "id": 438,
+      "id": 439,
       "form": "moho"
     },
     "translations": [
@@ -12184,7 +11834,7 @@
   },
   {
     "entry": {
-      "id": 439,
+      "id": 440,
       "form": "moloa"
     },
     "translations": [
@@ -12196,9 +11846,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -12214,7 +11862,7 @@
   },
   {
     "entry": {
-      "id": 440,
+      "id": 441,
       "form": "mono"
     },
     "translations": [
@@ -12226,9 +11874,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12240,7 +11886,7 @@
   },
   {
     "entry": {
-      "id": 441,
+      "id": 442,
       "form": "mova"
     },
     "translations": [
@@ -12269,7 +11915,7 @@
   },
   {
     "entry": {
-      "id": 442,
+      "id": 443,
       "form": "mukutu"
     },
     "translations": [
@@ -12287,7 +11933,7 @@
   },
   {
     "entry": {
-      "id": 443,
+      "id": 444,
       "form": "mukutu"
     },
     "translations": [
@@ -12317,7 +11963,7 @@
   },
   {
     "entry": {
-      "id": 444,
+      "id": 445,
       "form": "mungeai"
     },
     "translations": [
@@ -12341,7 +11987,7 @@
   },
   {
     "entry": {
-      "id": 445,
+      "id": 446,
       "form": "muo"
     },
     "translations": [
@@ -12370,7 +12016,7 @@
   },
   {
     "entry": {
-      "id": 446,
+      "id": 447,
       "form": "muohep"
     },
     "translations": [
@@ -12394,7 +12040,7 @@
   },
   {
     "entry": {
-      "id": 447,
+      "id": 448,
       "form": "muta"
     },
     "translations": [
@@ -12423,7 +12069,7 @@
   },
   {
     "entry": {
-      "id": 448,
+      "id": 449,
       "form": "mutua"
     },
     "translations": [
@@ -12452,7 +12098,7 @@
   },
   {
     "entry": {
-      "id": 449,
+      "id": 450,
       "form": "naho"
     },
     "translations": [
@@ -12482,7 +12128,7 @@
   },
   {
     "entry": {
-      "id": 450,
+      "id": 451,
       "form": "naipei"
     },
     "translations": [
@@ -12512,7 +12158,7 @@
   },
   {
     "entry": {
-      "id": 451,
+      "id": 452,
       "form": "naita"
     },
     "translations": [
@@ -12529,9 +12175,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12543,7 +12187,7 @@
   },
   {
     "entry": {
-      "id": 452,
+      "id": 453,
       "form": "naiwou"
     },
     "translations": [
@@ -12573,7 +12217,7 @@
   },
   {
     "entry": {
-      "id": 453,
+      "id": 454,
       "form": "naki"
     },
     "translations": [
@@ -12585,9 +12229,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12599,7 +12241,7 @@
   },
   {
     "entry": {
-      "id": 454,
+      "id": 455,
       "form": "naku"
     },
     "translations": [
@@ -12629,7 +12271,7 @@
   },
   {
     "entry": {
-      "id": 455,
+      "id": 456,
       "form": "nalua"
     },
     "translations": [
@@ -12641,9 +12283,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -12659,7 +12299,7 @@
   },
   {
     "entry": {
-      "id": 456,
+      "id": 457,
       "form": "name"
     },
     "translations": [
@@ -12689,7 +12329,7 @@
   },
   {
     "entry": {
-      "id": 457,
+      "id": 458,
       "form": "nami"
     },
     "translations": [
@@ -12719,7 +12359,7 @@
   },
   {
     "entry": {
-      "id": 458,
+      "id": 459,
       "form": "nanisu"
     },
     "translations": [
@@ -12730,9 +12370,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12744,7 +12382,7 @@
   },
   {
     "entry": {
-      "id": 459,
+      "id": 460,
       "form": "nanu"
     },
     "translations": [
@@ -12774,7 +12412,7 @@
   },
   {
     "entry": {
-      "id": 460,
+      "id": 461,
       "form": "nas^aiai"
     },
     "translations": [
@@ -12785,9 +12423,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12799,7 +12435,7 @@
   },
   {
     "entry": {
-      "id": 461,
+      "id": 462,
       "form": "nau"
     },
     "translations": [
@@ -12810,9 +12446,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -12828,7 +12462,7 @@
   },
   {
     "entry": {
-      "id": 462,
+      "id": 463,
       "form": "naublau"
     },
     "translations": [
@@ -12851,7 +12485,7 @@
   },
   {
     "entry": {
-      "id": 463,
+      "id": 464,
       "form": "nauke"
     },
     "translations": [
@@ -12876,7 +12510,7 @@
   },
   {
     "entry": {
-      "id": 464,
+      "id": 465,
       "form": "navou"
     },
     "translations": [
@@ -12888,9 +12522,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12902,7 +12534,7 @@
   },
   {
     "entry": {
-      "id": 465,
+      "id": 466,
       "form": "nelua"
     },
     "translations": [
@@ -12937,7 +12569,7 @@
   },
   {
     "entry": {
-      "id": 466,
+      "id": 467,
       "form": "nepha"
     },
     "translations": [
@@ -12948,9 +12580,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12962,7 +12592,7 @@
   },
   {
     "entry": {
-      "id": 467,
+      "id": 468,
       "form": "ngaci"
     },
     "translations": [
@@ -12973,9 +12603,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -12987,7 +12615,7 @@
   },
   {
     "entry": {
-      "id": 468,
+      "id": 469,
       "form": "ngaitwa"
     },
     "translations": [
@@ -13010,7 +12638,7 @@
   },
   {
     "entry": {
-      "id": 469,
+      "id": 470,
       "form": "ngaiweo"
     },
     "translations": [
@@ -13035,7 +12663,7 @@
   },
   {
     "entry": {
-      "id": 470,
+      "id": 471,
       "form": "ngakha"
     },
     "translations": [
@@ -13064,7 +12692,7 @@
   },
   {
     "entry": {
-      "id": 471,
+      "id": 472,
       "form": "ngas'aa"
     },
     "translations": [
@@ -13091,7 +12719,7 @@
   },
   {
     "entry": {
-      "id": 472,
+      "id": 473,
       "form": "ngeipu"
     },
     "translations": [
@@ -13120,7 +12748,7 @@
   },
   {
     "entry": {
-      "id": 473,
+      "id": 474,
       "form": "ngodi"
     },
     "translations": [
@@ -13131,9 +12759,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13145,7 +12771,7 @@
   },
   {
     "entry": {
-      "id": 474,
+      "id": 475,
       "form": "ngongau"
     },
     "translations": [
@@ -13176,7 +12802,7 @@
   },
   {
     "entry": {
-      "id": 475,
+      "id": 476,
       "form": "ngui"
     },
     "translations": [
@@ -13205,7 +12831,7 @@
   },
   {
     "entry": {
-      "id": 476,
+      "id": 477,
       "form": "nguwa"
     },
     "translations": [
@@ -13232,10 +12858,6 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "nguwa"
-      },
-      {
         "title": "同根語",
         "text": "gua2.pk, ghá.bt"
       }
@@ -13245,7 +12867,7 @@
   },
   {
     "entry": {
-      "id": 477,
+      "id": 478,
       "form": "nicuu"
     },
     "translations": [
@@ -13257,9 +12879,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13271,7 +12891,7 @@
   },
   {
     "entry": {
-      "id": 478,
+      "id": 479,
       "form": "niku"
     },
     "translations": [
@@ -13296,7 +12916,7 @@
   },
   {
     "entry": {
-      "id": 479,
+      "id": 480,
       "form": "nilua"
     },
     "translations": [
@@ -13326,7 +12946,7 @@
   },
   {
     "entry": {
-      "id": 480,
+      "id": 481,
       "form": "nimutu"
     },
     "translations": [
@@ -13355,7 +12975,7 @@
   },
   {
     "entry": {
-      "id": 481,
+      "id": 482,
       "form": "ninu"
     },
     "translations": [
@@ -13384,7 +13004,7 @@
   },
   {
     "entry": {
-      "id": 482,
+      "id": 483,
       "form": "nisisa"
     },
     "translations": [
@@ -13396,9 +13016,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13410,7 +13028,7 @@
   },
   {
     "entry": {
-      "id": 483,
+      "id": 484,
       "form": "nisiu"
     },
     "translations": [
@@ -13439,7 +13057,7 @@
   },
   {
     "entry": {
-      "id": 484,
+      "id": 485,
       "form": "nisu"
     },
     "translations": [
@@ -13450,9 +13068,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13464,7 +13080,7 @@
   },
   {
     "entry": {
-      "id": 485,
+      "id": 486,
       "form": "niuni"
     },
     "translations": [
@@ -13475,9 +13091,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13489,7 +13103,7 @@
   },
   {
     "entry": {
-      "id": 486,
+      "id": 487,
       "form": "nonu"
     },
     "translations": [
@@ -13518,7 +13132,7 @@
   },
   {
     "entry": {
-      "id": 487,
+      "id": 488,
       "form": "noqo"
     },
     "translations": [
@@ -13529,9 +13143,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13547,7 +13159,7 @@
   },
   {
     "entry": {
-      "id": 488,
+      "id": 489,
       "form": "noxai"
     },
     "translations": [
@@ -13558,9 +13170,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13572,7 +13182,7 @@
   },
   {
     "entry": {
-      "id": 489,
+      "id": 490,
       "form": "noyaii"
     },
     "translations": [
@@ -13596,7 +13206,7 @@
   },
   {
     "entry": {
-      "id": 490,
+      "id": 491,
       "form": "noyhep"
     },
     "translations": [
@@ -13623,7 +13233,7 @@
   },
   {
     "entry": {
-      "id": 491,
+      "id": 492,
       "form": "noytuiku"
     },
     "translations": [
@@ -13646,7 +13256,7 @@
   },
   {
     "entry": {
-      "id": 492,
+      "id": 493,
       "form": "nua"
     },
     "translations": [
@@ -13675,7 +13285,7 @@
   },
   {
     "entry": {
-      "id": 493,
+      "id": 494,
       "form": "nuisu"
     },
     "translations": [
@@ -13692,9 +13302,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -13710,7 +13318,7 @@
   },
   {
     "entry": {
-      "id": 494,
+      "id": 495,
       "form": "nukina"
     },
     "translations": [
@@ -13721,9 +13329,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13735,7 +13341,7 @@
   },
   {
     "entry": {
-      "id": 495,
+      "id": 496,
       "form": "numa"
     },
     "translations": [
@@ -13764,7 +13370,7 @@
   },
   {
     "entry": {
-      "id": 496,
+      "id": 497,
       "form": "numiu"
     },
     "translations": [
@@ -13787,7 +13393,7 @@
   },
   {
     "entry": {
-      "id": 497,
+      "id": 498,
       "form": "nup'iu"
     },
     "translations": [
@@ -13798,9 +13404,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13816,7 +13420,7 @@
   },
   {
     "entry": {
-      "id": 498,
+      "id": 499,
       "form": "nuta"
     },
     "translations": [
@@ -13839,7 +13443,7 @@
   },
   {
     "entry": {
-      "id": 499,
+      "id": 500,
       "form": "nutha"
     },
     "translations": [
@@ -13852,9 +13456,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -13870,7 +13472,7 @@
   },
   {
     "entry": {
-      "id": 500,
+      "id": 501,
       "form": "nyalu"
     },
     "translations": [
@@ -13881,9 +13483,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13895,7 +13495,7 @@
   },
   {
     "entry": {
-      "id": 501,
+      "id": 502,
       "form": "nyaunei"
     },
     "translations": [
@@ -13919,7 +13519,7 @@
   },
   {
     "entry": {
-      "id": 502,
+      "id": 503,
       "form": "nyauphi"
     },
     "translations": [
@@ -13931,9 +13531,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -13945,7 +13543,7 @@
   },
   {
     "entry": {
-      "id": 503,
+      "id": 504,
       "form": "nyautu"
     },
     "translations": [
@@ -13962,9 +13560,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -13980,7 +13576,7 @@
   },
   {
     "entry": {
-      "id": 504,
+      "id": 505,
       "form": "nyeka"
     },
     "translations": [
@@ -14010,7 +13606,7 @@
   },
   {
     "entry": {
-      "id": 505,
+      "id": 506,
       "form": "nyitwei"
     },
     "translations": [
@@ -14029,7 +13625,7 @@
   },
   {
     "entry": {
-      "id": 506,
+      "id": 507,
       "form": "nyouhai"
     },
     "translations": [
@@ -14042,9 +13638,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14056,25 +13650,23 @@
   },
   {
     "entry": {
-      "id": 507,
+      "id": 508,
       "form": "o"
     },
-    "translations": [
+    "translations": [],
+    "tags": [],
+    "contents": [
       {
-        "title": "",
-        "forms": [
-          "分離詞"
-        ]
+        "title": "備考",
+        "text": "用法不明"
       }
     ],
-    "tags": [],
-    "contents": [],
     "variations": [],
     "relations": []
   },
   {
     "entry": {
-      "id": 508,
+      "id": 509,
       "form": "ocou"
     },
     "translations": [
@@ -14103,7 +13695,7 @@
   },
   {
     "entry": {
-      "id": 509,
+      "id": 510,
       "form": "odui"
     },
     "translations": [
@@ -14133,7 +13725,7 @@
   },
   {
     "entry": {
-      "id": 510,
+      "id": 511,
       "form": "ohi"
     },
     "translations": [
@@ -14162,7 +13754,7 @@
   },
   {
     "entry": {
-      "id": 511,
+      "id": 512,
       "form": "oqaiu"
     },
     "translations": [
@@ -14185,7 +13777,7 @@
   },
   {
     "entry": {
-      "id": 512,
+      "id": 513,
       "form": "owifizu"
     },
     "translations": [
@@ -14196,9 +13788,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14210,7 +13800,7 @@
   },
   {
     "entry": {
-      "id": 513,
+      "id": 514,
       "form": "owu"
     },
     "translations": [
@@ -14240,7 +13830,7 @@
   },
   {
     "entry": {
-      "id": 514,
+      "id": 515,
       "form": "p'afaiu"
     },
     "translations": [
@@ -14251,9 +13841,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14265,7 +13853,7 @@
   },
   {
     "entry": {
-      "id": 515,
+      "id": 516,
       "form": "p'aibaia"
     },
     "translations": [
@@ -14289,7 +13877,7 @@
   },
   {
     "entry": {
-      "id": 516,
+      "id": 517,
       "form": "paxo"
     },
     "translations": [
@@ -14309,20 +13897,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "phaxo"
-      },
-      {
         "title": "同根語",
         "text": "pa2.pk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同義語",
+        "entry": {
+          "id": 526,
+          "form": "phaxo"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 517,
+      "id": 518,
       "form": "pechu"
     },
     "translations": [
@@ -14333,9 +13925,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14347,7 +13937,7 @@
   },
   {
     "entry": {
-      "id": 518,
+      "id": 519,
       "form": "peixe"
     },
     "translations": [
@@ -14377,7 +13967,7 @@
   },
   {
     "entry": {
-      "id": 519,
+      "id": 520,
       "form": "peki"
     },
     "translations": [
@@ -14406,7 +13996,7 @@
   },
   {
     "entry": {
-      "id": 520,
+      "id": 521,
       "form": "pelu"
     },
     "translations": [
@@ -14417,9 +14007,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14431,7 +14019,7 @@
   },
   {
     "entry": {
-      "id": 521,
+      "id": 522,
       "form": "perao"
     },
     "translations": [
@@ -14460,7 +14048,7 @@
   },
   {
     "entry": {
-      "id": 522,
+      "id": 523,
       "form": "pet^ii"
     },
     "translations": [
@@ -14489,7 +14077,7 @@
   },
   {
     "entry": {
-      "id": 523,
+      "id": 524,
       "form": "phadi"
     },
     "translations": [
@@ -14500,9 +14088,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14514,7 +14100,7 @@
   },
   {
     "entry": {
-      "id": 524,
+      "id": 525,
       "form": "phaungo"
     },
     "translations": [
@@ -14525,9 +14111,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14539,7 +14123,7 @@
   },
   {
     "entry": {
-      "id": 525,
+      "id": 526,
       "form": "phaxo"
     },
     "translations": [
@@ -14559,20 +14143,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "paxo"
-      },
-      {
         "title": "同根語",
         "text": "pa2.pk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同義語",
+        "entry": {
+          "id": 517,
+          "form": "paxo"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 526,
+      "id": 527,
       "form": "phedu"
     },
     "translations": [
@@ -14602,7 +14190,7 @@
   },
   {
     "entry": {
-      "id": 527,
+      "id": 528,
       "form": "pheini"
     },
     "translations": [
@@ -14622,9 +14210,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14636,7 +14222,7 @@
   },
   {
     "entry": {
-      "id": 528,
+      "id": 529,
       "form": "phengua"
     },
     "translations": [
@@ -14647,9 +14233,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14661,7 +14245,7 @@
   },
   {
     "entry": {
-      "id": 529,
+      "id": 530,
       "form": "pheou"
     },
     "translations": [
@@ -14674,9 +14258,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14688,7 +14270,7 @@
   },
   {
     "entry": {
-      "id": 530,
+      "id": 531,
       "form": "phidi"
     },
     "translations": [
@@ -14718,7 +14300,7 @@
   },
   {
     "entry": {
-      "id": 531,
+      "id": 532,
       "form": "phobo"
     },
     "translations": [
@@ -14747,7 +14329,7 @@
   },
   {
     "entry": {
-      "id": 532,
+      "id": 533,
       "form": "phouzou"
     },
     "translations": [
@@ -14759,9 +14341,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14773,7 +14353,7 @@
   },
   {
     "entry": {
-      "id": 533,
+      "id": 534,
       "form": "pirai"
     },
     "translations": [
@@ -14786,9 +14366,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14800,7 +14378,7 @@
   },
   {
     "entry": {
-      "id": 534,
+      "id": 535,
       "form": "piu"
     },
     "translations": [
@@ -14829,7 +14407,7 @@
   },
   {
     "entry": {
-      "id": 535,
+      "id": 536,
       "form": "pogau"
     },
     "translations": [
@@ -14852,7 +14430,7 @@
   },
   {
     "entry": {
-      "id": 536,
+      "id": 537,
       "form": "pogie"
     },
     "translations": [
@@ -14878,9 +14456,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14892,7 +14468,7 @@
   },
   {
     "entry": {
-      "id": 537,
+      "id": 538,
       "form": "pogo"
     },
     "translations": [
@@ -14921,7 +14497,7 @@
   },
   {
     "entry": {
-      "id": 538,
+      "id": 539,
       "form": "poi'afe"
     },
     "translations": [
@@ -14933,9 +14509,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -14947,7 +14521,7 @@
   },
   {
     "entry": {
-      "id": 539,
+      "id": 540,
       "form": "pola"
     },
     "translations": [
@@ -14976,7 +14550,7 @@
   },
   {
     "entry": {
-      "id": 540,
+      "id": 541,
       "form": "polaphobo"
     },
     "translations": [
@@ -15005,7 +14579,7 @@
   },
   {
     "entry": {
-      "id": 541,
+      "id": 542,
       "form": "pouje"
     },
     "translations": [
@@ -15034,7 +14608,7 @@
   },
   {
     "entry": {
-      "id": 542,
+      "id": 543,
       "form": "puatu"
     },
     "translations": [
@@ -15073,7 +14647,7 @@
   },
   {
     "entry": {
-      "id": 543,
+      "id": 544,
       "form": "pura"
     },
     "translations": [
@@ -15109,7 +14683,7 @@
   },
   {
     "entry": {
-      "id": 544,
+      "id": 545,
       "form": "puto"
     },
     "translations": [
@@ -15139,7 +14713,7 @@
   },
   {
     "entry": {
-      "id": 545,
+      "id": 546,
       "form": "pwiche"
     },
     "translations": [
@@ -15158,9 +14732,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15172,7 +14744,7 @@
   },
   {
     "entry": {
-      "id": 546,
+      "id": 547,
       "form": "pwojei"
     },
     "translations": [
@@ -15204,7 +14776,7 @@
   },
   {
     "entry": {
-      "id": 547,
+      "id": 548,
       "form": "pwoutwi"
     },
     "translations": [
@@ -15215,9 +14787,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -15233,7 +14803,7 @@
   },
   {
     "entry": {
-      "id": 548,
+      "id": 549,
       "form": "pwugo"
     },
     "translations": [
@@ -15254,20 +14824,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "bwogo"
-      },
-      {
         "title": "同根語",
         "text": "mug-u.tk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 101,
+          "form": "bwogo"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 549,
+      "id": 550,
       "form": "qaijie"
     },
     "translations": [
@@ -15298,7 +14872,7 @@
   },
   {
     "entry": {
-      "id": 550,
+      "id": 551,
       "form": "qexua"
     },
     "translations": [
@@ -15322,7 +14896,7 @@
   },
   {
     "entry": {
-      "id": 551,
+      "id": 552,
       "form": "qoda"
     },
     "translations": [
@@ -15351,7 +14925,7 @@
   },
   {
     "entry": {
-      "id": 552,
+      "id": 553,
       "form": "qusiai"
     },
     "translations": [
@@ -15362,9 +14936,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15376,7 +14948,7 @@
   },
   {
     "entry": {
-      "id": 553,
+      "id": 554,
       "form": "quvoo"
     },
     "translations": [
@@ -15396,20 +14968,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "gio"
-      },
-      {
         "title": "同根語",
         "text": "kuo1.pk, ghíyo.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 230,
+          "form": "gio"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 554,
+      "id": 555,
       "form": "raijei"
     },
     "translations": [
@@ -15421,9 +14997,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15435,7 +15009,7 @@
   },
   {
     "entry": {
-      "id": 555,
+      "id": 556,
       "form": "raishe"
     },
     "translations": [
@@ -15447,9 +15021,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15461,7 +15033,7 @@
   },
   {
     "entry": {
-      "id": 556,
+      "id": 557,
       "form": "reae"
     },
     "translations": [
@@ -15493,7 +15065,7 @@
   },
   {
     "entry": {
-      "id": 557,
+      "id": 558,
       "form": "requa"
     },
     "translations": [
@@ -15516,7 +15088,7 @@
   },
   {
     "entry": {
-      "id": 558,
+      "id": 559,
       "form": "reto"
     },
     "translations": [
@@ -15545,7 +15117,7 @@
   },
   {
     "entry": {
-      "id": 559,
+      "id": 560,
       "form": "rit'io"
     },
     "translations": [
@@ -15556,9 +15128,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15570,7 +15140,7 @@
   },
   {
     "entry": {
-      "id": 560,
+      "id": 561,
       "form": "rita"
     },
     "translations": [
@@ -15599,7 +15169,7 @@
   },
   {
     "entry": {
-      "id": 561,
+      "id": 562,
       "form": "riwei"
     },
     "translations": [
@@ -15610,9 +15180,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15624,7 +15192,7 @@
   },
   {
     "entry": {
-      "id": 562,
+      "id": 563,
       "form": "rizi"
     },
     "translations": [
@@ -15642,7 +15210,7 @@
   },
   {
     "entry": {
-      "id": 563,
+      "id": 564,
       "form": "roblai"
     },
     "translations": [
@@ -15653,9 +15221,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15667,7 +15233,7 @@
   },
   {
     "entry": {
-      "id": 564,
+      "id": 565,
       "form": "roku"
     },
     "translations": [
@@ -15696,7 +15262,7 @@
   },
   {
     "entry": {
-      "id": 565,
+      "id": 566,
       "form": "rutwu"
     },
     "translations": [
@@ -15725,7 +15291,7 @@
   },
   {
     "entry": {
-      "id": 566,
+      "id": 567,
       "form": "s^esoa"
     },
     "translations": [
@@ -15737,9 +15303,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15755,7 +15319,7 @@
   },
   {
     "entry": {
-      "id": 567,
+      "id": 568,
       "form": "s^ibau"
     },
     "translations": [
@@ -15772,9 +15336,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15790,7 +15352,7 @@
   },
   {
     "entry": {
-      "id": 568,
+      "id": 569,
       "form": "s^odzou"
     },
     "translations": [
@@ -15802,9 +15364,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15820,7 +15380,7 @@
   },
   {
     "entry": {
-      "id": 569,
+      "id": 570,
       "form": "s^udea"
     },
     "translations": [
@@ -15831,9 +15391,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15849,7 +15407,7 @@
   },
   {
     "entry": {
-      "id": 570,
+      "id": 571,
       "form": "s^ut'uu"
     },
     "translations": [
@@ -15861,9 +15419,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15875,7 +15431,7 @@
   },
   {
     "entry": {
-      "id": 571,
+      "id": 572,
       "form": "sahu"
     },
     "translations": [
@@ -15898,7 +15454,7 @@
   },
   {
     "entry": {
-      "id": 572,
+      "id": 573,
       "form": "sahua"
     },
     "translations": [
@@ -15921,7 +15477,7 @@
   },
   {
     "entry": {
-      "id": 573,
+      "id": 574,
       "form": "saiguu"
     },
     "translations": [
@@ -15932,9 +15488,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -15946,7 +15500,7 @@
   },
   {
     "entry": {
-      "id": 574,
+      "id": 575,
       "form": "saingoai"
     },
     "translations": [
@@ -15970,7 +15524,7 @@
   },
   {
     "entry": {
-      "id": 575,
+      "id": 576,
       "form": "sainiu"
     },
     "translations": [
@@ -15995,7 +15549,7 @@
   },
   {
     "entry": {
-      "id": 576,
+      "id": 577,
       "form": "sakika"
     },
     "translations": [
@@ -16024,7 +15578,7 @@
   },
   {
     "entry": {
-      "id": 577,
+      "id": 578,
       "form": "sakitu"
     },
     "translations": [
@@ -16035,9 +15589,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16049,7 +15601,7 @@
   },
   {
     "entry": {
-      "id": 578,
+      "id": 579,
       "form": "sami"
     },
     "translations": [
@@ -16078,7 +15630,7 @@
   },
   {
     "entry": {
-      "id": 579,
+      "id": 580,
       "form": "samiki"
     },
     "translations": [
@@ -16089,9 +15641,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16103,7 +15653,7 @@
   },
   {
     "entry": {
-      "id": 580,
+      "id": 581,
       "form": "sap'ea"
     },
     "translations": [
@@ -16114,9 +15664,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16128,7 +15676,7 @@
   },
   {
     "entry": {
-      "id": 581,
+      "id": 582,
       "form": "sasia"
     },
     "translations": [
@@ -16139,9 +15687,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16153,7 +15699,7 @@
   },
   {
     "entry": {
-      "id": 582,
+      "id": 583,
       "form": "sati"
     },
     "translations": [
@@ -16184,7 +15730,7 @@
   },
   {
     "entry": {
-      "id": 583,
+      "id": 584,
       "form": "sau"
     },
     "translations": [
@@ -16213,7 +15759,7 @@
   },
   {
     "entry": {
-      "id": 584,
+      "id": 585,
       "form": "saupu"
     },
     "translations": [
@@ -16243,7 +15789,7 @@
   },
   {
     "entry": {
-      "id": 585,
+      "id": 586,
       "form": "sauta"
     },
     "translations": [
@@ -16266,7 +15812,7 @@
   },
   {
     "entry": {
-      "id": 586,
+      "id": 587,
       "form": "seai"
     },
     "translations": [
@@ -16286,7 +15832,7 @@
   },
   {
     "entry": {
-      "id": 587,
+      "id": 588,
       "form": "seloo"
     },
     "translations": [
@@ -16297,9 +15843,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16311,7 +15855,7 @@
   },
   {
     "entry": {
-      "id": 588,
+      "id": 589,
       "form": "sephu"
     },
     "translations": [
@@ -16340,7 +15884,7 @@
   },
   {
     "entry": {
-      "id": 589,
+      "id": 590,
       "form": "shaimai"
     },
     "translations": [
@@ -16363,7 +15907,7 @@
   },
   {
     "entry": {
-      "id": 590,
+      "id": 591,
       "form": "shaute"
     },
     "translations": [
@@ -16374,9 +15918,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16388,7 +15930,7 @@
   },
   {
     "entry": {
-      "id": 591,
+      "id": 592,
       "form": "sheau"
     },
     "translations": [
@@ -16418,7 +15960,7 @@
   },
   {
     "entry": {
-      "id": 592,
+      "id": 593,
       "form": "shoke"
     },
     "translations": [
@@ -16430,9 +15972,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16444,7 +15984,7 @@
   },
   {
     "entry": {
-      "id": 593,
+      "id": 594,
       "form": "shomu"
     },
     "translations": [
@@ -16469,11 +16009,19 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 595,
+          "form": "shomukhazu"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 594,
+      "id": 595,
       "form": "shomukhazu"
     },
     "translations": [
@@ -16491,18 +16039,28 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "関連語",
-        "text": "shomu, khazu"
-      }
-    ],
+    "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 594,
+          "form": "shomu"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 353,
+          "form": "khazu"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 595,
+      "id": 596,
       "form": "shousa"
     },
     "translations": [
@@ -16532,7 +16090,7 @@
   },
   {
     "entry": {
-      "id": 596,
+      "id": 597,
       "form": "sikina"
     },
     "translations": [
@@ -16544,9 +16102,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16558,7 +16114,7 @@
   },
   {
     "entry": {
-      "id": 597,
+      "id": 598,
       "form": "sinisa"
     },
     "translations": [
@@ -16587,7 +16143,7 @@
   },
   {
     "entry": {
-      "id": 598,
+      "id": 599,
       "form": "sinu"
     },
     "translations": [
@@ -16598,9 +16154,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16612,7 +16166,7 @@
   },
   {
     "entry": {
-      "id": 599,
+      "id": 600,
       "form": "sip'ui"
     },
     "translations": [
@@ -16643,7 +16197,7 @@
   },
   {
     "entry": {
-      "id": 600,
+      "id": 601,
       "form": "sisata"
     },
     "translations": [
@@ -16654,9 +16208,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16668,7 +16220,7 @@
   },
   {
     "entry": {
-      "id": 601,
+      "id": 602,
       "form": "sitana"
     },
     "translations": [
@@ -16679,9 +16231,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16693,7 +16243,7 @@
   },
   {
     "entry": {
-      "id": 602,
+      "id": 603,
       "form": "sitika"
     },
     "translations": [
@@ -16723,7 +16273,7 @@
   },
   {
     "entry": {
-      "id": 603,
+      "id": 604,
       "form": "situsu"
     },
     "translations": [
@@ -16740,9 +16290,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -16758,7 +16306,7 @@
   },
   {
     "entry": {
-      "id": 604,
+      "id": 605,
       "form": "situu"
     },
     "translations": [
@@ -16789,7 +16337,7 @@
   },
   {
     "entry": {
-      "id": 605,
+      "id": 606,
       "form": "siusa"
     },
     "translations": [
@@ -16820,7 +16368,7 @@
   },
   {
     "entry": {
-      "id": 606,
+      "id": 607,
       "form": "sono"
     },
     "translations": [
@@ -16849,7 +16397,7 @@
   },
   {
     "entry": {
-      "id": 607,
+      "id": 608,
       "form": "soqoai"
     },
     "translations": [
@@ -16860,9 +16408,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16874,7 +16420,7 @@
   },
   {
     "entry": {
-      "id": 608,
+      "id": 609,
       "form": "su"
     },
     "translations": [
@@ -16891,9 +16437,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -16909,7 +16453,7 @@
   },
   {
     "entry": {
-      "id": 609,
+      "id": 610,
       "form": "sua"
     },
     "translations": [
@@ -16933,7 +16477,7 @@
   },
   {
     "entry": {
-      "id": 610,
+      "id": 611,
       "form": "suaki"
     },
     "translations": [
@@ -16944,9 +16488,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16958,7 +16500,7 @@
   },
   {
     "entry": {
-      "id": 611,
+      "id": 612,
       "form": "suama"
     },
     "translations": [
@@ -16970,9 +16512,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -16984,7 +16524,7 @@
   },
   {
     "entry": {
-      "id": 612,
+      "id": 613,
       "form": "sui"
     },
     "translations": [
@@ -17013,7 +16553,7 @@
   },
   {
     "entry": {
-      "id": 613,
+      "id": 614,
       "form": "suisamia"
     },
     "translations": [
@@ -17024,9 +16564,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17038,7 +16576,7 @@
   },
   {
     "entry": {
-      "id": 614,
+      "id": 615,
       "form": "suka"
     },
     "translations": [
@@ -17061,7 +16599,7 @@
   },
   {
     "entry": {
-      "id": 615,
+      "id": 616,
       "form": "suki"
     },
     "translations": [
@@ -17072,9 +16610,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17086,7 +16622,7 @@
   },
   {
     "entry": {
-      "id": 616,
+      "id": 617,
       "form": "sukisu"
     },
     "translations": [
@@ -17098,9 +16634,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17112,7 +16646,7 @@
   },
   {
     "entry": {
-      "id": 617,
+      "id": 618,
       "form": "sulou"
     },
     "translations": [
@@ -17136,7 +16670,7 @@
   },
   {
     "entry": {
-      "id": 618,
+      "id": 619,
       "form": "suna"
     },
     "translations": [
@@ -17166,7 +16700,7 @@
   },
   {
     "entry": {
-      "id": 619,
+      "id": 620,
       "form": "sunama"
     },
     "translations": [
@@ -17177,9 +16711,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17191,7 +16723,7 @@
   },
   {
     "entry": {
-      "id": 620,
+      "id": 621,
       "form": "suqui"
     },
     "translations": [
@@ -17203,9 +16735,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17217,7 +16747,7 @@
   },
   {
     "entry": {
-      "id": 621,
+      "id": 622,
       "form": "susi"
     },
     "translations": [
@@ -17246,7 +16776,7 @@
   },
   {
     "entry": {
-      "id": 622,
+      "id": 623,
       "form": "sutiki"
     },
     "translations": [
@@ -17257,9 +16787,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17271,7 +16799,7 @@
   },
   {
     "entry": {
-      "id": 623,
+      "id": 624,
       "form": "suvoo"
     },
     "translations": [
@@ -17298,7 +16826,7 @@
   },
   {
     "entry": {
-      "id": 624,
+      "id": 625,
       "form": "t'aitaiu"
     },
     "translations": [
@@ -17327,7 +16855,7 @@
   },
   {
     "entry": {
-      "id": 625,
+      "id": 626,
       "form": "t'edzou"
     },
     "translations": [
@@ -17338,9 +16866,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17356,7 +16882,7 @@
   },
   {
     "entry": {
-      "id": 626,
+      "id": 627,
       "form": "t^ebaia"
     },
     "translations": [
@@ -17368,9 +16894,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17386,7 +16910,7 @@
   },
   {
     "entry": {
-      "id": 627,
+      "id": 628,
       "form": "t^enuai"
     },
     "translations": [
@@ -17404,7 +16928,7 @@
   },
   {
     "entry": {
-      "id": 628,
+      "id": 629,
       "form": "t^es'aiai"
     },
     "translations": [
@@ -17421,9 +16945,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17435,7 +16957,7 @@
   },
   {
     "entry": {
-      "id": 629,
+      "id": 630,
       "form": "tacoa"
     },
     "translations": [
@@ -17459,7 +16981,7 @@
   },
   {
     "entry": {
-      "id": 630,
+      "id": 631,
       "form": "tadui"
     },
     "translations": [
@@ -17470,9 +16992,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17484,7 +17004,7 @@
   },
   {
     "entry": {
-      "id": 631,
+      "id": 632,
       "form": "tai"
     },
     "translations": [
@@ -17496,9 +17016,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17510,7 +17028,7 @@
   },
   {
     "entry": {
-      "id": 632,
+      "id": 633,
       "form": "taide"
     },
     "translations": [
@@ -17540,7 +17058,7 @@
   },
   {
     "entry": {
-      "id": 633,
+      "id": 634,
       "form": "taik'eo"
     },
     "translations": [
@@ -17551,9 +17069,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17565,7 +17081,7 @@
   },
   {
     "entry": {
-      "id": 634,
+      "id": 635,
       "form": "taishei"
     },
     "translations": [
@@ -17576,9 +17092,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17590,7 +17104,7 @@
   },
   {
     "entry": {
-      "id": 635,
+      "id": 636,
       "form": "taku"
     },
     "translations": [
@@ -17619,7 +17133,7 @@
   },
   {
     "entry": {
-      "id": 636,
+      "id": 637,
       "form": "tana"
     },
     "translations": [
@@ -17648,7 +17162,7 @@
   },
   {
     "entry": {
-      "id": 637,
+      "id": 638,
       "form": "tananu"
     },
     "translations": [
@@ -17666,7 +17180,7 @@
   },
   {
     "entry": {
-      "id": 638,
+      "id": 639,
       "form": "tanu"
     },
     "translations": [
@@ -17689,7 +17203,7 @@
   },
   {
     "entry": {
-      "id": 639,
+      "id": 640,
       "form": "taoe"
     },
     "translations": [
@@ -17700,9 +17214,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17714,7 +17226,7 @@
   },
   {
     "entry": {
-      "id": 640,
+      "id": 641,
       "form": "taseai"
     },
     "translations": [
@@ -17725,9 +17237,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17739,7 +17249,7 @@
   },
   {
     "entry": {
-      "id": 641,
+      "id": 642,
       "form": "tasiku"
     },
     "translations": [
@@ -17762,7 +17272,7 @@
   },
   {
     "entry": {
-      "id": 642,
+      "id": 643,
       "form": "tata"
     },
     "translations": [
@@ -17791,7 +17301,7 @@
   },
   {
     "entry": {
-      "id": 643,
+      "id": 644,
       "form": "tatami"
     },
     "translations": [
@@ -17821,7 +17331,7 @@
   },
   {
     "entry": {
-      "id": 644,
+      "id": 645,
       "form": "tatiu"
     },
     "translations": [
@@ -17832,9 +17342,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17846,7 +17354,7 @@
   },
   {
     "entry": {
-      "id": 645,
+      "id": 646,
       "form": "tatusa"
     },
     "translations": [
@@ -17870,7 +17378,7 @@
   },
   {
     "entry": {
-      "id": 646,
+      "id": 647,
       "form": "tauhi"
     },
     "translations": [
@@ -17901,7 +17409,7 @@
   },
   {
     "entry": {
-      "id": 647,
+      "id": 648,
       "form": "taupwo"
     },
     "translations": [
@@ -17933,7 +17441,7 @@
   },
   {
     "entry": {
-      "id": 648,
+      "id": 649,
       "form": "tedzii"
     },
     "translations": [
@@ -17944,9 +17452,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17958,7 +17464,7 @@
   },
   {
     "entry": {
-      "id": 649,
+      "id": 650,
       "form": "teire"
     },
     "translations": [
@@ -17969,9 +17475,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -17983,7 +17487,7 @@
   },
   {
     "entry": {
-      "id": 650,
+      "id": 651,
       "form": "tenye"
     },
     "translations": [
@@ -18013,7 +17517,7 @@
   },
   {
     "entry": {
-      "id": 651,
+      "id": 652,
       "form": "thaise"
     },
     "translations": [
@@ -18037,7 +17541,7 @@
   },
   {
     "entry": {
-      "id": 652,
+      "id": 653,
       "form": "thana"
     },
     "translations": [
@@ -18048,9 +17552,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18062,7 +17564,7 @@
   },
   {
     "entry": {
-      "id": 653,
+      "id": 654,
       "form": "theicho"
     },
     "translations": [
@@ -18085,7 +17587,7 @@
   },
   {
     "entry": {
-      "id": 654,
+      "id": 655,
       "form": "thiblei"
     },
     "translations": [
@@ -18096,9 +17598,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18110,7 +17610,7 @@
   },
   {
     "entry": {
-      "id": 655,
+      "id": 656,
       "form": "tibaie"
     },
     "translations": [
@@ -18133,7 +17633,7 @@
   },
   {
     "entry": {
-      "id": 656,
+      "id": 657,
       "form": "timini"
     },
     "translations": [
@@ -18151,7 +17651,7 @@
   },
   {
     "entry": {
-      "id": 657,
+      "id": 658,
       "form": "timiu"
     },
     "translations": [
@@ -18162,9 +17662,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18176,7 +17674,7 @@
   },
   {
     "entry": {
-      "id": 658,
+      "id": 659,
       "form": "tinanu"
     },
     "translations": [
@@ -18187,9 +17685,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18201,7 +17697,7 @@
   },
   {
     "entry": {
-      "id": 659,
+      "id": 660,
       "form": "tiniki"
     },
     "translations": [
@@ -18213,9 +17709,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18227,7 +17721,7 @@
   },
   {
     "entry": {
-      "id": 660,
+      "id": 661,
       "form": "tisi"
     },
     "translations": [
@@ -18247,20 +17741,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "chesi"
-      },
-      {
         "title": "同根語",
         "text": "ti.tk, dí.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同義語",
+        "entry": {
+          "id": 130,
+          "form": "chesi"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 661,
+      "id": 662,
       "form": "tisia"
     },
     "translations": [
@@ -18289,7 +17787,7 @@
   },
   {
     "entry": {
-      "id": 662,
+      "id": 663,
       "form": "titati"
     },
     "translations": [
@@ -18307,7 +17805,7 @@
   },
   {
     "entry": {
-      "id": 663,
+      "id": 664,
       "form": "titimu"
     },
     "translations": [
@@ -18336,7 +17834,7 @@
   },
   {
     "entry": {
-      "id": 664,
+      "id": 665,
       "form": "titu"
     },
     "translations": [
@@ -18365,7 +17863,7 @@
   },
   {
     "entry": {
-      "id": 665,
+      "id": 666,
       "form": "titusu"
     },
     "translations": [
@@ -18376,9 +17874,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18390,7 +17886,7 @@
   },
   {
     "entry": {
-      "id": 666,
+      "id": 667,
       "form": "tiu"
     },
     "translations": [
@@ -18419,7 +17915,7 @@
   },
   {
     "entry": {
-      "id": 667,
+      "id": 668,
       "form": "tiua"
     },
     "translations": [
@@ -18448,7 +17944,7 @@
   },
   {
     "entry": {
-      "id": 668,
+      "id": 669,
       "form": "tiuna"
     },
     "translations": [
@@ -18477,7 +17973,7 @@
   },
   {
     "entry": {
-      "id": 669,
+      "id": 670,
       "form": "tixuo"
     },
     "translations": [
@@ -18513,7 +18009,7 @@
   },
   {
     "entry": {
-      "id": 670,
+      "id": 671,
       "form": "tobai"
     },
     "translations": [
@@ -18532,7 +18028,7 @@
   },
   {
     "entry": {
-      "id": 671,
+      "id": 672,
       "form": "tobwu"
     },
     "translations": [
@@ -18561,7 +18057,7 @@
   },
   {
     "entry": {
-      "id": 672,
+      "id": 673,
       "form": "toca"
     },
     "translations": [
@@ -18584,7 +18080,7 @@
   },
   {
     "entry": {
-      "id": 673,
+      "id": 674,
       "form": "topo"
     },
     "translations": [
@@ -18602,7 +18098,7 @@
   },
   {
     "entry": {
-      "id": 674,
+      "id": 675,
       "form": "tubi"
     },
     "translations": [
@@ -18625,7 +18121,7 @@
   },
   {
     "entry": {
-      "id": 675,
+      "id": 676,
       "form": "tui"
     },
     "translations": [
@@ -18655,7 +18151,7 @@
   },
   {
     "entry": {
-      "id": 676,
+      "id": 677,
       "form": "tukaie"
     },
     "translations": [
@@ -18685,7 +18181,7 @@
   },
   {
     "entry": {
-      "id": 677,
+      "id": 678,
       "form": "tukumuku"
     },
     "translations": [
@@ -18708,7 +18204,7 @@
   },
   {
     "entry": {
-      "id": 678,
+      "id": 679,
       "form": "tuma"
     },
     "translations": [
@@ -18731,7 +18227,7 @@
   },
   {
     "entry": {
-      "id": 679,
+      "id": 680,
       "form": "tuma-na"
     },
     "translations": [
@@ -18754,7 +18250,7 @@
   },
   {
     "entry": {
-      "id": 680,
+      "id": 681,
       "form": "tumi"
     },
     "translations": [
@@ -18783,7 +18279,7 @@
   },
   {
     "entry": {
-      "id": 681,
+      "id": 682,
       "form": "tumiti"
     },
     "translations": [
@@ -18794,9 +18290,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -18808,7 +18302,7 @@
   },
   {
     "entry": {
-      "id": 682,
+      "id": 683,
       "form": "tunii"
     },
     "translations": [
@@ -18831,7 +18325,7 @@
   },
   {
     "entry": {
-      "id": 683,
+      "id": 684,
       "form": "tunu"
     },
     "translations": [
@@ -18860,7 +18354,7 @@
   },
   {
     "entry": {
-      "id": 684,
+      "id": 685,
       "form": "tunuki"
     },
     "translations": [
@@ -18878,7 +18372,7 @@
   },
   {
     "entry": {
-      "id": 685,
+      "id": 686,
       "form": "tut^oe"
     },
     "translations": [
@@ -18907,7 +18401,7 @@
   },
   {
     "entry": {
-      "id": 686,
+      "id": 687,
       "form": "twaji"
     },
     "translations": [
@@ -18937,7 +18431,7 @@
   },
   {
     "entry": {
-      "id": 687,
+      "id": 688,
       "form": "twikei"
     },
     "translations": [
@@ -18969,7 +18463,7 @@
   },
   {
     "entry": {
-      "id": 688,
+      "id": 689,
       "form": "twouno"
     },
     "translations": [
@@ -18992,7 +18486,7 @@
   },
   {
     "entry": {
-      "id": 689,
+      "id": 690,
       "form": "twuphu"
     },
     "translations": [
@@ -19003,9 +18497,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19017,7 +18509,7 @@
   },
   {
     "entry": {
-      "id": 690,
+      "id": 691,
       "form": "ugurief"
     },
     "translations": [
@@ -19028,9 +18520,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19042,7 +18532,7 @@
   },
   {
     "entry": {
-      "id": 691,
+      "id": 692,
       "form": "uki"
     },
     "translations": [
@@ -19067,11 +18557,19 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 3,
+          "form": "-ki"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 692,
+      "id": 693,
       "form": "uku"
     },
     "translations": [
@@ -19092,20 +18590,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "-ku"
-      },
-      {
         "title": "同根語",
         "text": "ku.pk, k.bt"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 4,
+          "form": "-ku"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 693,
+      "id": 694,
       "form": "umi"
     },
     "translations": [
@@ -19134,7 +18636,7 @@
   },
   {
     "entry": {
-      "id": 694,
+      "id": 695,
       "form": "umu"
     },
     "translations": [
@@ -19163,7 +18665,7 @@
   },
   {
     "entry": {
-      "id": 695,
+      "id": 696,
       "form": "umumu"
     },
     "translations": [
@@ -19174,9 +18676,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19188,7 +18688,7 @@
   },
   {
     "entry": {
-      "id": 696,
+      "id": 697,
       "form": "usa"
     },
     "translations": [
@@ -19208,20 +18708,24 @@
     "tags": [],
     "contents": [
       {
-        "title": "関連語",
-        "text": "-sa"
-      },
-      {
         "title": "同根語",
         "text": "sa1.pk, sá.bt, ca.tk"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 7,
+          "form": "-sa"
+        }
+      }
+    ]
   },
   {
     "entry": {
-      "id": 697,
+      "id": 698,
       "form": "utata"
     },
     "translations": [
@@ -19232,9 +18736,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19246,7 +18748,7 @@
   },
   {
     "entry": {
-      "id": 698,
+      "id": 699,
       "form": "utiku"
     },
     "translations": [
@@ -19257,9 +18759,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -19275,7 +18775,7 @@
   },
   {
     "entry": {
-      "id": 699,
+      "id": 700,
       "form": "utu"
     },
     "translations": [
@@ -19304,7 +18804,7 @@
   },
   {
     "entry": {
-      "id": 700,
+      "id": 701,
       "form": "utui"
     },
     "translations": [
@@ -19333,7 +18833,7 @@
   },
   {
     "entry": {
-      "id": 701,
+      "id": 702,
       "form": "utuka"
     },
     "translations": [
@@ -19356,7 +18856,7 @@
   },
   {
     "entry": {
-      "id": 702,
+      "id": 703,
       "form": "vas^iai"
     },
     "translations": [
@@ -19369,9 +18869,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19383,7 +18881,7 @@
   },
   {
     "entry": {
-      "id": 703,
+      "id": 704,
       "form": "vedii"
     },
     "translations": [
@@ -19400,9 +18898,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19414,7 +18910,7 @@
   },
   {
     "entry": {
-      "id": 704,
+      "id": 705,
       "form": "vefica"
     },
     "translations": [
@@ -19432,7 +18928,7 @@
   },
   {
     "entry": {
-      "id": 705,
+      "id": 706,
       "form": "vezoe"
     },
     "translations": [
@@ -19468,7 +18964,7 @@
   },
   {
     "entry": {
-      "id": 706,
+      "id": 707,
       "form": "vililizi"
     },
     "translations": [
@@ -19480,9 +18976,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19494,7 +18988,7 @@
   },
   {
     "entry": {
-      "id": 707,
+      "id": 708,
       "form": "webwei"
     },
     "translations": [
@@ -19512,7 +19006,7 @@
   },
   {
     "entry": {
-      "id": 708,
+      "id": 709,
       "form": "wechu"
     },
     "translations": [
@@ -19529,9 +19023,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19543,7 +19035,7 @@
   },
   {
     "entry": {
-      "id": 709,
+      "id": 710,
       "form": "weikhou"
     },
     "translations": [
@@ -19567,7 +19059,7 @@
   },
   {
     "entry": {
-      "id": 710,
+      "id": 711,
       "form": "wequu"
     },
     "translations": [
@@ -19590,7 +19082,7 @@
   },
   {
     "entry": {
-      "id": 711,
+      "id": 712,
       "form": "wesi"
     },
     "translations": [
@@ -19619,7 +19111,7 @@
   },
   {
     "entry": {
-      "id": 712,
+      "id": 713,
       "form": "witeai"
     },
     "translations": [
@@ -19632,9 +19124,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19646,7 +19136,7 @@
   },
   {
     "entry": {
-      "id": 713,
+      "id": 714,
       "form": "wuaxu"
     },
     "translations": [
@@ -19675,7 +19165,7 @@
   },
   {
     "entry": {
-      "id": 714,
+      "id": 715,
       "form": "wuo"
     },
     "translations": [
@@ -19712,7 +19202,7 @@
   },
   {
     "entry": {
-      "id": 715,
+      "id": 716,
       "form": "wupwei"
     },
     "translations": [
@@ -19742,7 +19232,7 @@
   },
   {
     "entry": {
-      "id": 716,
+      "id": 717,
       "form": "wutwa"
     },
     "translations": [
@@ -19753,9 +19243,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19767,7 +19255,7 @@
   },
   {
     "entry": {
-      "id": 717,
+      "id": 718,
       "form": "xadoo"
     },
     "translations": [
@@ -19779,9 +19267,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19793,7 +19279,7 @@
   },
   {
     "entry": {
-      "id": 718,
+      "id": 719,
       "form": "xaigue"
     },
     "translations": [
@@ -19814,9 +19300,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19828,7 +19312,7 @@
   },
   {
     "entry": {
-      "id": 719,
+      "id": 720,
       "form": "xaingau"
     },
     "translations": [
@@ -19840,9 +19324,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19854,7 +19336,7 @@
   },
   {
     "entry": {
-      "id": 720,
+      "id": 721,
       "form": "xangei"
     },
     "translations": [
@@ -19866,9 +19348,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19880,7 +19360,7 @@
   },
   {
     "entry": {
-      "id": 721,
+      "id": 722,
       "form": "xatwa"
     },
     "translations": [
@@ -19892,9 +19372,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19906,7 +19384,7 @@
   },
   {
     "entry": {
-      "id": 722,
+      "id": 723,
       "form": "xauau"
     },
     "translations": [
@@ -19943,7 +19421,7 @@
   },
   {
     "entry": {
-      "id": 723,
+      "id": 724,
       "form": "xaunge"
     },
     "translations": [
@@ -19954,9 +19432,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -19972,7 +19448,7 @@
   },
   {
     "entry": {
-      "id": 724,
+      "id": 725,
       "form": "xefoo"
     },
     "translations": [
@@ -20016,7 +19492,7 @@
   },
   {
     "entry": {
-      "id": 725,
+      "id": 726,
       "form": "xeh^eu"
     },
     "translations": [
@@ -20051,7 +19527,7 @@
   },
   {
     "entry": {
-      "id": 726,
+      "id": 727,
       "form": "xemo"
     },
     "translations": [
@@ -20080,7 +19556,7 @@
   },
   {
     "entry": {
-      "id": 727,
+      "id": 728,
       "form": "xepee"
     },
     "translations": [
@@ -20091,9 +19567,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -20109,7 +19583,7 @@
   },
   {
     "entry": {
-      "id": 728,
+      "id": 729,
       "form": "xidi"
     },
     "translations": [
@@ -20147,7 +19621,7 @@
   },
   {
     "entry": {
-      "id": 729,
+      "id": 730,
       "form": "xisa"
     },
     "translations": [
@@ -20178,7 +19652,7 @@
   },
   {
     "entry": {
-      "id": 730,
+      "id": 731,
       "form": "xiyu"
     },
     "translations": [
@@ -20219,7 +19693,7 @@
   },
   {
     "entry": {
-      "id": 731,
+      "id": 732,
       "form": "xota"
     },
     "translations": [
@@ -20248,7 +19722,7 @@
   },
   {
     "entry": {
-      "id": 732,
+      "id": 733,
       "form": "xoudo"
     },
     "translations": [
@@ -20277,7 +19751,7 @@
   },
   {
     "entry": {
-      "id": 733,
+      "id": 734,
       "form": "xoupwei"
     },
     "translations": [
@@ -20295,7 +19769,7 @@
   },
   {
     "entry": {
-      "id": 734,
+      "id": 735,
       "form": "xufoa"
     },
     "translations": [
@@ -20337,7 +19811,7 @@
   },
   {
     "entry": {
-      "id": 735,
+      "id": 736,
       "form": "yanio"
     },
     "translations": [
@@ -20367,7 +19841,7 @@
   },
   {
     "entry": {
-      "id": 736,
+      "id": 737,
       "form": "yeho"
     },
     "translations": [
@@ -20385,7 +19859,7 @@
   },
   {
     "entry": {
-      "id": 737,
+      "id": 738,
       "form": "yikho"
     },
     "translations": [
@@ -20414,7 +19888,7 @@
   },
   {
     "entry": {
-      "id": 738,
+      "id": 739,
       "form": "yodai"
     },
     "translations": [
@@ -20438,7 +19912,7 @@
   },
   {
     "entry": {
-      "id": 739,
+      "id": 740,
       "form": "yoma"
     },
     "translations": [
@@ -20461,7 +19935,7 @@
   },
   {
     "entry": {
-      "id": 740,
+      "id": 741,
       "form": "yubui"
     },
     "translations": [
@@ -20492,7 +19966,7 @@
   },
   {
     "entry": {
-      "id": 741,
+      "id": 742,
       "form": "yuh^aa"
     },
     "translations": [
@@ -20521,12 +19995,12 @@
   },
   {
     "entry": {
-      "id": 742,
+      "id": 743,
       "form": "yujo"
     },
     "translations": [
       {
-        "title": "",
+        "title": "接続詞",
         "forms": [
           "または"
         ]
@@ -20550,7 +20024,7 @@
   },
   {
     "entry": {
-      "id": 743,
+      "id": 744,
       "form": "yunyu"
     },
     "translations": [
@@ -20581,12 +20055,12 @@
   },
   {
     "entry": {
-      "id": 744,
+      "id": 745,
       "form": "yuwiu"
     },
     "translations": [
       {
-        "title": "",
+        "title": "接続詞",
         "forms": [
           "もし～なら",
           "～である場合"
@@ -20605,20 +20079,18 @@
   },
   {
     "entry": {
-      "id": 745,
+      "id": 746,
       "form": "za"
     },
     "translations": [
       {
-        "title": "",
+        "title": "接尾辞",
         "forms": [
-          "副詞語尾？"
+          "（古語）副詞化語尾"
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20626,7 +20098,7 @@
       },
       {
         "title": "備考",
-        "text": "古語かも"
+        "text": "現代では使用されない。"
       }
     ],
     "variations": [],
@@ -20634,7 +20106,7 @@
   },
   {
     "entry": {
-      "id": 746,
+      "id": 747,
       "form": "zabee"
     },
     "translations": [
@@ -20663,7 +20135,7 @@
   },
   {
     "entry": {
-      "id": 747,
+      "id": 748,
       "form": "zablei"
     },
     "translations": [
@@ -20674,9 +20146,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20688,7 +20158,7 @@
   },
   {
     "entry": {
-      "id": 748,
+      "id": 749,
       "form": "zagoo"
     },
     "translations": [
@@ -20700,9 +20170,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20714,7 +20182,7 @@
   },
   {
     "entry": {
-      "id": 749,
+      "id": 750,
       "form": "zaih^eu"
     },
     "translations": [
@@ -20726,9 +20194,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20740,7 +20206,7 @@
   },
   {
     "entry": {
-      "id": 750,
+      "id": 751,
       "form": "zaiha"
     },
     "translations": [
@@ -20752,9 +20218,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20766,7 +20230,7 @@
   },
   {
     "entry": {
-      "id": 751,
+      "id": 752,
       "form": "zaseo"
     },
     "translations": [
@@ -20778,9 +20242,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20792,7 +20254,7 @@
   },
   {
     "entry": {
-      "id": 752,
+      "id": 753,
       "form": "zenge"
     },
     "translations": [
@@ -20803,9 +20265,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20817,7 +20277,7 @@
   },
   {
     "entry": {
-      "id": 753,
+      "id": 754,
       "form": "zieo"
     },
     "translations": [
@@ -20847,7 +20307,7 @@
   },
   {
     "entry": {
-      "id": 754,
+      "id": 755,
       "form": "ziphei"
     },
     "translations": [
@@ -20865,9 +20325,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "同根語",
@@ -20883,7 +20341,7 @@
   },
   {
     "entry": {
-      "id": 755,
+      "id": 756,
       "form": "zisho"
     },
     "translations": [
@@ -20902,7 +20360,7 @@
   },
   {
     "entry": {
-      "id": 756,
+      "id": 757,
       "form": "zugatie"
     },
     "translations": [
@@ -20925,7 +20383,7 @@
   },
   {
     "entry": {
-      "id": 757,
+      "id": 758,
       "form": "zugihasu"
     },
     "translations": [
@@ -20936,9 +20394,7 @@
         ]
       }
     ],
-    "tags": [
-      "リパライン語ソース"
-    ],
+    "tags": [],
     "contents": [
       {
         "title": "派生した理語",
@@ -20950,7 +20406,7 @@
   },
   {
     "entry": {
-      "id": 758,
+      "id": 759,
       "form": "zuhiacuka"
     },
     "translations": [
@@ -20970,7 +20426,7 @@
   },
   {
     "entry": {
-      "id": 759,
+      "id": 760,
       "form": "zuhio"
     },
     "translations": [
@@ -20986,6 +20442,77 @@
     "contents": [],
     "variations": [],
     "relations": []
+  },
+  {
+    "entry": {
+      "id": 761,
+      "form": "zunaii"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "論理",
+          "論証",
+          "推論"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "論"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "zui1.pk, cun.tk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 762,
+      "form": "atamuja zunaii"
+    },
+    "translations": [
+      {
+        "title": "意味",
+        "forms": [
+          "皇論",
+          "タムツイ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "皇論"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 52,
+          "form": "atamu"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 761,
+          "form": "zunaii"
+        }
+      }
+    ]
   }
 ],
   "zpdic" : {
