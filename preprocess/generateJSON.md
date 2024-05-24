@@ -1,5 +1,5 @@
 # generationJSON.jsの挙動まとめ
-[https://docs.google.com/spreadsheets/d/1Han8vd6RHVaT0CV6svMh840AgeAiqi7ieY2kbuBbfEk/edit](アイル語辞書スプレッドシート)から tsv 形式で wget したデータをパースし、ail.json として OTM-JSON 形式で出力する。
+[アイル語辞書スプレッドシート](https://docs.google.com/spreadsheets/d/1Han8vd6RHVaT0CV6svMh840AgeAiqi7ieY2kbuBbfEk/edit)から tsv 形式で wget したデータをパースし、ail.json として OTM-JSON 形式で出力する。
 
 ## スプレッドシート形式
 ID、語形、品詞、燐字、意味、関連語、関連語ID、関連語タグ、同根語、派生した理語、用例の存在、例文、備考の計13カラムを持つ。
