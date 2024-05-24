@@ -13216,13 +13216,6 @@
           "id": 491,
           "form": "noyhep"
         }
-      },
-      {
-        "title": "派生関係",
-        "entry": {
-          "id": 492,
-          "form": "noytuiku"
-        }
       }
     ]
   },
@@ -13264,44 +13257,6 @@
         "entry": {
           "id": 2,
           "form": "-hep"
-        }
-      }
-    ]
-  },
-  {
-    "entry": {
-      "id": 492,
-      "form": "noytuiku"
-    },
-    "translations": [
-      {
-        "title": "名詞",
-        "forms": [
-          "先生"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [
-      {
-        "title": "備考",
-        "text": "パイグ語の影響による語と思われる【学与人】"
-      }
-    ],
-    "variations": [],
-    "relations": [
-      {
-        "title": "派生関係",
-        "entry": {
-          "id": 490,
-          "form": "noyaii"
-        }
-      },
-      {
-        "title": "同義語",
-        "entry": {
-          "id": 759,
-          "form": "zuhiasuka"
         }
       }
     ]
@@ -20132,7 +20087,7 @@
   {
     "entry": {
       "id": 746,
-      "form": "za"
+      "form": "-za"
     },
     "translations": [
       {

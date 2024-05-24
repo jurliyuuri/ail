@@ -482,9 +482,8 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 487	nonu	形容詞	悪	憎い				non1.pk, nonúḷ.bt, non.bt				
 488	noqo	名詞		靴					firganqerw			理語辞書ではnoqoę
 489	noxai	名詞		酸					nox			
-490	noyaii	名詞；動詞		学問、勉強；学ぶ、勉強する	noyhep, noytuiku	491, 492	派生関係；派生関係	nui2.pk				
+490	noyaii	名詞；動詞		学問、勉強；学ぶ、勉強する	noyhep	491	派生関係	nui2.pk				
 491	noyhep	名詞		学校	noyaii, -hep	490, 2	派生関係；派生関係	nui2 hue.pk				< noyaii + -hep
-492	noytuiku	名詞		先生	noyaii, zuhiasuka	490, 759	派生関係；同義語			TRUE		パイグ語の影響による語と思われる【学与人】
 493	nua	名詞	水	水				nua2.pk, nutta.bt, na.tk				
 494	nuisu	名詞	軍	軍				núsu.bt	naanwis			
 495	nukina	名詞		制度					niukirna			
@@ -738,7 +737,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 743	yujo	接続詞	亦	または				y.pk, jo.bt, o.tk				
 744	yunyu	名詞	官	政府、自治体、当局				y1.pk, joṇu.bt				
 745	yuwiu	接続詞		もし～なら、～である場合				hemijoya.bt, joya.bt				
-746	za	接尾辞		（古語）副詞化語尾					xauternazなど多数			現代では使用されない。
+746	-za	接尾辞		（古語）副詞化語尾					xauternazなど多数			現代では使用されない。
 747	zabee	名詞	全	全部				be1.pk, bhá-.bt				
 748	zablei	名詞		網膜					cablei			
 749	zagoo	名詞		ソース、液体の調味料					cardza			

@@ -6,10 +6,15 @@ ID、語形、品詞、燐字、意味、関連語、関連語ID、関連語タ�
 
 このうち ID、語形の2つは埋まっている必要がある。
 
+区切り文字は、
+ - 品詞、意味、関連語タグ: `；`（全角セミコロン）  
+ - 関連語、関連語ID、同根語、派生した理語: `, `（コンマ + 半角スペース）  
+となっている
+
 ## ERROR
-### entry is ill-formed
 JSON 生成を中断しているもの
 
+### entry is ill-formed
 #### ${entryForm}'s ID and/or entryForm is empty
 ID か語形に空文字がある。
 
@@ -36,7 +41,7 @@ relations プロパティの挙動にかかわるため ERROR 扱い。
 ## WARNING
 意図した挙動でない場合は解決すべきもの
 
-### {entryForm} has an empty property
+#### ${entryForm} has an empty property
 品詞・意味・関連語タグのどれかに空文字列がある。
 
 あえて空文字列で仮置きしておきたいエントリが存在することはあるため、WARNING として通知はするものの JSON 生成はそのまま行う。
