@@ -2,7 +2,7 @@
 const fs = require('fs')
 
 /*
-lines = {
+type WordEntry = {
   entryForm: string; // 語形
   ID: number; // ID
   wordClasses: string[]; // 品詞
@@ -20,6 +20,39 @@ lines = {
 }
 */
 
+function wordParser(word) {
+  const [
+    id,
+    entryForm,
+    rawWordClasses,
+    linzi,
+    rawMeanings,
+    rawRelatives,
+    rawRelIDs,
+    rawRelTags,
+    doublets,
+    relativeLip,
+    isUsed,
+    example,
+    comment
+  ] = word.split('\t');
+  return [
+    Number(id),
+    entryForm,
+    rawWordClasses.split("；"),
+    linzi,
+    rawMeanings.split("；"),
+    rawRelatives.split(", "),
+    rawRelIDs.split(", ").map(e => Number(e)),
+    rawRelTags.split("；"),
+    doublets,
+    relativeLip,
+    isUsed,
+    example,
+    comment
+  ]
+}
+
 const wordsWithError = [];
 const wordsWithWarning = [];
 
@@ -36,28 +69,28 @@ const words = lines.map(word => {
     relTags,
     doublets,
     relativeLip,
-    ifLipSource,
     isUsed,
     example,
     comment
-  ] = word.split('\t');
+  ] = wordParser(word);
 
   const entry = {
-    "id": Number(id),
+    "id": id,
     "form": entryForm
   }
-  const wordClass = wordClasses.split('；');
-  const meaning = meanings.split('；');
+  if (id <= 0 || entryForm === "") {
+    wordsWithError.push(`| ERROR: ${entryForm}'s ID and/or entryForm is empty\n| ${id} ${entryForm}`);
+  }
   const translations = [];
-  if (wordClass.length !== meaning.length) {
-    wordsWithError.push(`| ERROR: ${entryForm}'s length not match (meaning)\n| ${wordClass}, ${meaning}`);
-  } else if (wordClass.some(e => e === "") || meaning.some(e => e === "")) {
-    wordsWithWarning.push(`| WARNING: ${entryForm}'s wordClass is empty\n| ${wordClass}, ${meaning}`);
+  if (wordClasses.length !== meanings.length) {
+    wordsWithError.push(`| ERROR: ${entryForm}'s meanings are ill-formed\n| [${wordClasses}] [${meanings}]`);
+  } else if (wordClasses.some(e => e === "") || meanings.some(e => e === "")) {
+    wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${wordClasses}] [${meanings}]`);
   } else {
-    for (let i = 0; i < wordClass.length; i++) {
+    for (let i = 0; i < wordClasses.length; i++) {
       translations.push({
-        "title": wordClass[i],
-        "forms": meaning[i].split('、')
+        "title": wordClasses[i],
+        "forms": meanings[i].split("、")
       })
     }
   }
@@ -98,22 +131,21 @@ const words = lines.map(word => {
   }
 
   const relations = [];
-  if (relatives !== "") {
-    const relative = relatives.split(", ");
-    const relID = relIDs.split(", ");
-    const relTag = relTags.split("；");
+  if (relatives[0] !== "") {
     if (
-      relative.length !== relID.length || relID.length !== relTag.length ||
-      relative.some(e => e === "") || relID.some(e => e === "") || relTag.some(e => e === "")
+      relatives.length !== relIDs.length || relIDs.length !== relTags.length ||
+      relatives.some(e => e === "") || relIDs.some(e => e === "")
     ) {
-      wordsWithError.push(`| ERROR: ${entryForm}'s length not match (relations)\n| ${relative}, ${relID}, ${relTag}`);
-    } else {
-      for (let i = 0; i < relative.length; i++) {
+      wordsWithError.push(`| ERROR: ${entryForm}'s relations are ill-formed\n| [${relatives}] [${relIDs}] [${relTags}]`);
+    } else if (relTags.some(e => e === "")) {
+      wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${relatives}] [${relIDs}] [${relTags}]`)
+    }else {
+      for (let i = 0; i < relatives.length; i++) {
         relations.push({
-          "title": relTag[i],
+          "title": relTags[i],
           "entry": {
-            "id": Number(relID[i]),
-            "form": relative[i]
+            "id": relIDs[i],
+            "form": relatives[i]
           }
         })
       }

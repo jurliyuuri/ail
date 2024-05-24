@@ -13192,6 +13192,13 @@
           "学問",
           "勉強"
         ]
+      },
+      {
+        "title": "動詞",
+        "forms": [
+          "学ぶ",
+          "勉強する"
+        ]
       }
     ],
     "tags": [],
@@ -13202,7 +13209,22 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 491,
+          "form": "noyhep"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 492,
+          "form": "noytuiku"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -13229,7 +13251,22 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 490,
+          "form": "noyaii"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 2,
+          "form": "-hep"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -13252,7 +13289,22 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 490,
+          "form": "noyaii"
+        }
+      },
+      {
+        "title": "同義語",
+        "entry": {
+          "id": 759,
+          "form": "zuhiasuka"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -20407,7 +20459,7 @@
   {
     "entry": {
       "id": 759,
-      "form": "zuhiacuka"
+      "form": "zuhiasuka"
     },
     "translations": [
       {
@@ -20473,46 +20525,6 @@
     ],
     "variations": [],
     "relations": []
-  },
-  {
-    "entry": {
-      "id": 762,
-      "form": "atamuja zunaii"
-    },
-    "translations": [
-      {
-        "title": "意味",
-        "forms": [
-          "皇論",
-          "タムツイ"
-        ]
-      },
-      {
-        "title": "燐字",
-        "forms": [
-          "皇論"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [],
-    "variations": [],
-    "relations": [
-      {
-        "title": "派生関係",
-        "entry": {
-          "id": 52,
-          "form": "atamu"
-        }
-      },
-      {
-        "title": "派生関係",
-        "entry": {
-          "id": 761,
-          "form": "zunaii"
-        }
-      }
-    ]
   }
 ],
   "zpdic" : {
