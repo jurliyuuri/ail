@@ -110,7 +110,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 110	capau	形容詞		食べられる、食用の					capaudex			
 111	capi	動詞；動詞		発生する、起こる、生じる；[生物]発生する						TRUE		
 112	casa	名詞；名詞		蘭、ラン；茶番				caca.pmcp	casarmanugarki			
-113	cauyau	後置詞；副詞		～とともに、と～一緒に；一緒に				cájau.bt				
+113	cauyau	後置詞；副詞		～とともに、～と一緒に；一緒に				cájau.bt				
 114	caxou	形容詞	恒	永遠に、いつまでも、ずっと				cac-u.tk				
 115	cee	動詞	巻	渦巻く、旋回する				ze2.pk, zeúḷ.bt, zekáta.bt				
 116	ceinyo	名詞		丘、小山、丘陵					ceiny			
@@ -129,7 +129,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 129	chepo	名詞；動詞	言	言語；話す				zep1.pk, zepha.bt, cepatepa.bt, cema-lu.tk				
 130	chesi	名詞	其	それ	chesim, tisi	131, 661	派生関係；同義語	ze1.pk				
 131	chesim	間投詞		ああ、なるほど	chesi	130	派生関係			TRUE		
-132	chexu	動詞		足踏みする					tjerx			
+132	chexu	動詞		絡める、（腕や足を）組む					tjerx			
 133	chigo	形容詞		規則的な、系統的な、組織的な、整然とした				zíghúḷ.bt				
 134	chisha	名詞	質	性質				zit1.pk				
 135	chixu	名詞		時計				zíghíṣ,bt				
@@ -152,7 +152,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 152	cubotu'i	名詞		象牙色、クリーム色					cpatirt			
 153	cunya	接続詞		しかし、だが				ṣiṇṇa.bt				
 154	curau	動詞		切り刻む					cauxange, cauxarnekorxa			
-155	cwaho	動詞		捕まえる、とらえる、つかむ	cahu	106	同根語	cahúḷ.bt	sarcvakh			
+155	cwaho	後置詞；形容詞		～とともに、～と一緒に；一緒に	cahu	106	同根語	cahúḷ.bt	sarcvakh			
 156	cwairo	名詞	形	形、形式、作法、姿				cuau2.pk				
 157	cwauyi	動詞；動詞		～のせいにする；～を計算に入れる						TRUE		
 158	cweio	名詞；形容詞	或	あるもの、なにか；ある、どれかの				cue1.pk				
@@ -264,7 +264,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 267	huroe	形容詞	少	少しの、わずかの				hue1.pk				
 268	huroo	名詞	墨	墨（固形物）				huo2.pk, horabát.bt				
 269	i	後置詞		～ら、～達				i.tk				
-270	i	前置否定詞		～ではない、～ない						TRUE		前置否定詞である
+270	i	前置否定詞		～ではない、～ない				i2.pk		TRUE		前置否定詞である
 271	ia	後置詞；後置詞	於	～に；～から				ie.pk, hína.bt				
 272	iaki	名詞		ルビー、紅玉					jarke			
 273	iama	名詞；動詞	口	口；食べる、飲む				iam1.pk				
@@ -327,7 +327,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 331	kakana	名詞		身代わり、生贄					karnaxerge			
 332	kakita	動詞		割る、わる、分ける					kakites			
 333	kakusa	動詞	筆	書く、描く						FALSE		
-334	kami	名詞		神社、お宮					kemie			
+334	kami	名詞		神社、お宮					kemie		kami a makati 「マカティ神社」	
 335	kanaka	動詞	躍	跳ねる、ジャンプする	kanata	336	同根語	kan1.pk				
 336	kanata	動詞	躍	走る	kanaka	335	同根語	kan1.pk				
 337	kani	名詞；動詞	火	火、炎；燃える				kan1.pk, gháni.bt				
@@ -397,7 +397,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 402	maadyiti	動詞		つやを出す					madyrti			
 403	macwe	動詞		（燃料を足して）火を燃やし続ける	masuni	424	同根語	bacú.bt, bácujúḷ.bt				
 404	maiblo	名詞；名詞		ファルセット、裏声；爬虫類					meblo			
-405	maikau	形容詞	茲	これ				me.tk				
+405	maikau	名詞；形容詞	茲	これ；この				me.tk				
 406	maixaai	名詞		モグラ					xuspiramexaj			
 407	maka	名詞	値	数				mak2.pk, bágha.bt, maka.tk				
 408	makana	名詞		海					durfemark			
@@ -548,7 +548,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 554	quvoo	動詞	塩	塩漬けにする	gio	230	関連語	kuo1.pk, ghíyo.bt				
 555	raijei	名詞		貴かんらん石、クリソライト					dacrarje			
 556	raishe	動詞		格闘する、闘う					rerx			
-557	reae	名詞	軸	軸、茎、棒、(グラスの)脚				la1.pk				
+557	reae	名詞	軸	軸、茎、棒、(グラスの)脚				la1.pk, e.bt				
 558	requa	名詞		泥				rek.bt				
 559	reto	名詞	雪	雪				let1.pk				
 560	rit'io	名詞		コウモリ					riti'a			
@@ -691,7 +691,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 697	usa	名詞	女	女	-sa	7	派生関係	sa1.pk, sá.bt, ca.tk				
 698	utata	名詞		話					ytarta			
 699	utiku	名詞		自分				untik.pmcp	untirk			
-700	utu	名詞	下	下				ut2.pk				
+700	utu	名詞	下	下	uttuja	763	派生関係	ut2.pk				
 701	utui	動詞	遊	遊ぶ				tu2.pk, rúṣ.bt				
 702	utuka	動詞		降りる						TRUE		utuとの関連は不明
 703	vas^iai	名詞		氏族、クラン、派閥					farxaj			
@@ -750,6 +750,14 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 756	zisho	副詞		さらに、続けて								
 757	zugatie	動詞		まとめる					sgati'ar	TRUE		
 758	zugihasu	動詞		水を撒く					zgias			
-759	zuhiasuka	名詞		先生、教師、教授						TRUE		
+759	zuhiasuka	名詞		先生、教師、教授	zuhio, asuka	760, 50	派生関係；派生関係			TRUE		
 760	zuhio	名詞		動機付け、理由付け						TRUE		
 761	zunaii	名詞	論	論理、論証、推論				zui1.pk, cun.tk				
+762	kaisa akia	間投詞	善日	こんにちは				kait kia1.pk		TRUE		
+763	uttuja	形容詞		下賤な、低俗な、卑しい	utu	700	派生関係					
+764	phokhou	動詞	増	増える						TRUE		
+765	simua	動詞		減る								
+766	sawasuka	名詞	上人	偉人、地位のある人、立派な人	sau, asuka	584, 50	派生関係；派生関係	sau2 cuk2.pk		TRUE		
+767	mahe	動詞		作る、～（他格）に変化させる						TRUE		
+768	kinuti	名詞		鍋						TRUE		kinuti < kin + *uti 説が唱えられており、金属製の鍋に限定されるかもしれない
+767	ahou	形容詞；形容詞	軟	軟らかい；簡単な				ho.pk		TRUE		

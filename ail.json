@@ -3083,7 +3083,7 @@
         "title": "後置詞",
         "forms": [
           "～とともに",
-          "と～一緒に"
+          "～と一緒に"
         ]
       },
       {
@@ -3638,7 +3638,8 @@
       {
         "title": "動詞",
         "forms": [
-          "足踏みする"
+          "絡める",
+          "（腕や足を）組む"
         ]
       }
     ],
@@ -4249,11 +4250,16 @@
     },
     "translations": [
       {
-        "title": "動詞",
+        "title": "後置詞",
         "forms": [
-          "捕まえる",
-          "とらえる",
-          "つかむ"
+          "～とともに",
+          "～と一緒に"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "一緒に"
         ]
       }
     ],
@@ -7288,6 +7294,10 @@
     "tags": [],
     "contents": [
       {
+        "title": "同根語",
+        "text": "i2.pk"
+      },
+      {
         "title": "備考",
         "text": "前置否定詞である"
       }
@@ -8966,6 +8976,10 @@
       {
         "title": "派生した理語",
         "text": "kemie"
+      },
+      {
+        "title": "例文",
+        "text": "kami a makati 「マカティ神社」"
       }
     ],
     "variations": [],
@@ -10899,9 +10913,15 @@
     },
     "translations": [
       {
-        "title": "形容詞",
+        "title": "名詞",
         "forms": [
           "これ"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "この"
         ]
       },
       {
@@ -15064,7 +15084,7 @@
     "contents": [
       {
         "title": "同根語",
-        "text": "la1.pk"
+        "text": "la1.pk, e.bt"
       }
     ],
     "variations": [],
@@ -18807,7 +18827,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 763,
+          "form": "uttuja"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -20429,7 +20457,22 @@
     "tags": [],
     "contents": [],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 760,
+          "form": "zuhio"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 50,
+          "form": "asuka"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -20476,6 +20519,228 @@
       {
         "title": "同根語",
         "text": "zui1.pk, cun.tk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 762,
+      "form": "kaisa akia"
+    },
+    "translations": [
+      {
+        "title": "間投詞",
+        "forms": [
+          "こんにちは"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "善日"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "kait kia1.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 763,
+      "form": "uttuja"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "下賤な",
+          "低俗な",
+          "卑しい"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 700,
+          "form": "utu"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 764,
+      "form": "phokhou"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "増える"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "増"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 765,
+      "form": "simua"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "減る"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 766,
+      "form": "sawasuka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "偉人",
+          "地位のある人",
+          "立派な人"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "上人"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "sau2 cuk2.pk"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 584,
+          "form": "sau"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 50,
+          "form": "asuka"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 767,
+      "form": "mahe"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "作る",
+          "～（他格）に変化させる"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 768,
+      "form": "kinuti"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "鍋"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "kinuti < kin + *uti 説が唱えられており、金属製の鍋に限定されるかもしれない"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 767,
+      "form": "ahou"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "軟らかい"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "簡単な"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "軟"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "ho.pk"
       }
     ],
     "variations": [],
