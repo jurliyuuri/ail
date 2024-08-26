@@ -6,7 +6,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 6	-ni	接尾辞	小	小さい	inini	286	派生関係			TRUE		
 7	-sa	接尾辞	女	女、おんな	usa	697	派生関係			TRUE		
 8	a	間投詞	噫	あ				a.pek, há.bt, a.tk				
-9	a	助詞	之	～の、～と、～かつ、と、かつ				a.pk, a.tk, -án.bt			A a B「BのA」	古くは他のラネーメ言語と同様にA a Bで「AのB」であったため、理語などにはその語形で入っていることも多い
+9	a	助詞	之	～の、～と、～かつ、と、かつ				a.pk, a.tk, -án.bt				
 10	abudijey	名詞		汚染防止					abdijery			
 11	acau	動詞	能	～する能力がある、～することができる				c-u.tk, ácahúl.bt				
 12	acii	動詞	辿	道をたどる				aci-lu.tk, accúl.bt				
