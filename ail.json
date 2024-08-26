@@ -29,6 +29,13 @@
           "id": 253,
           "form": "hep'iai"
         }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 792,
+          "form": "hepu"
+        }
       }
     ]
   },
@@ -398,7 +405,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 33,
+          "form": "akui"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -573,6 +588,12 @@
         "forms": [
           "～のような",
           "～のごとく"
+        ]
+      },
+      {
+        "title": "動詞",
+        "forms": [
+          "～のようである"
         ]
       },
       {
@@ -931,7 +952,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 14,
+          "form": "age"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -1263,9 +1292,15 @@
     },
     "translations": [
       {
-        "title": "名詞",
+        "title": "形容詞",
         "forms": [
-          "全て"
+          "全ての"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "全"
         ]
       }
     ],
@@ -1273,11 +1308,19 @@
     "contents": [
       {
         "title": "同根語",
-        "text": "nau.bt, nau1.az"
+        "text": "nau.bt, ano.tk, nau1.az"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 747,
+          "form": "zabee"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -1314,6 +1357,13 @@
           "いち",
           "一",
           "1"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "一つの",
+          "ひとつの"
         ]
       },
       {
@@ -1798,7 +1848,8 @@
       {
         "title": "形容詞",
         "forms": [
-          "遅刻した"
+          "遅い",
+          "遅れた"
         ]
       },
       {
@@ -2569,6 +2620,10 @@
       {
         "title": "同根語",
         "text": "ka1.pk?"
+      },
+      {
+        "title": "備考",
+        "text": "くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。"
       }
     ],
     "variations": [],
@@ -2590,7 +2645,7 @@
       {
         "title": "燐字",
         "forms": [
-          "鼓"
+          "鼓？"
         ]
       }
     ],
@@ -2599,10 +2654,6 @@
       {
         "title": "同根語",
         "text": "bum1.pk?"
-      },
-      {
-        "title": "派生した理語",
-        "text": "pqu"
       }
     ],
     "variations": [],
@@ -3816,6 +3867,12 @@
         ]
       },
       {
+        "title": "名詞",
+        "forms": [
+          "（ゲームの）駒"
+        ]
+      },
+      {
         "title": "燐字",
         "forms": [
           "片"
@@ -4250,16 +4307,10 @@
     },
     "translations": [
       {
-        "title": "後置詞",
+        "title": "動詞",
         "forms": [
-          "～とともに",
-          "～と一緒に"
-        ]
-      },
-      {
-        "title": "形容詞",
-        "forms": [
-          "一緒に"
+          "捕まえる",
+          "とらえる"
         ]
       }
     ],
@@ -4684,6 +4735,10 @@
     ],
     "tags": [],
     "contents": [
+      {
+        "title": "同根語",
+        "text": "det2.pk"
+      },
       {
         "title": "派生した理語",
         "text": "banerdex, capaudex, cuscadex, desxupse"
@@ -6261,7 +6316,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 787,
+          "form": "pusho"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -6434,7 +6497,8 @@
       {
         "title": "動詞",
         "forms": [
-          "始まる"
+          "始まる",
+          "始める"
         ]
       },
       {
@@ -6804,7 +6868,7 @@
       {
         "title": "名詞",
         "forms": [
-          "山岳地方"
+          "地方"
         ]
       },
       {
@@ -6828,6 +6892,13 @@
         "entry": {
           "id": 2,
           "form": "-hep"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 792,
+          "form": "hepu"
         }
       }
     ]
@@ -7091,6 +7162,7 @@
       {
         "title": "名詞",
         "forms": [
+          "麦",
           "小麦"
         ]
       },
@@ -7109,7 +7181,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 797,
+          "form": "huagei"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -7251,7 +7331,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 800,
+          "form": "huroja"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -7453,6 +7541,12 @@
         ]
       },
       {
+        "title": "形容詞",
+        "forms": [
+          "八つの"
+        ]
+      },
+      {
         "title": "燐字",
         "forms": [
           "八"
@@ -7532,6 +7626,12 @@
         "forms": [
           "二",
           "2"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "二つの"
         ]
       },
       {
@@ -7916,7 +8016,8 @@
       {
         "title": "名詞",
         "forms": [
-          "くだもの,クダモノ,果物"
+          "くだもの",
+          "果物"
         ]
       },
       {
@@ -8070,7 +8171,14 @@
         "title": "動詞",
         "forms": [
           "生じる",
-          "生まれ出る"
+          "生まれ出る",
+          "生ずる"
+        ]
+      },
+      {
+        "title": "動詞",
+        "forms": [
+          "生む"
         ]
       },
       {
@@ -8202,7 +8310,7 @@
     "contents": [
       {
         "title": "同根語",
-        "text": "jog"
+        "text": "jog.bt"
       }
     ],
     "variations": [],
@@ -9094,7 +9202,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 798,
+          "form": "kanide"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -9241,6 +9357,12 @@
           "いっぱいになる",
           "満ちる"
         ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "満"
+        ]
       }
     ],
     "tags": [],
@@ -9255,7 +9377,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "対義語",
+        "entry": {
+          "id": 784,
+          "form": "h^ibao"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -9364,7 +9494,7 @@
     },
     "translations": [
       {
-        "title": "副詞",
+        "title": "間投詞",
         "forms": [
           "例えば"
         ]
@@ -9667,8 +9797,7 @@
       {
         "title": "形容詞",
         "forms": [
-          "早い",
-          "はじめの"
+          "早い"
         ]
       }
     ],
@@ -9833,6 +9962,12 @@
         "forms": [
           "百",
           "100"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "百の"
         ]
       },
       {
@@ -10039,7 +10174,8 @@
       {
         "title": "動詞",
         "forms": [
-          "付ける"
+          "付ける",
+          "置く"
         ]
       },
       {
@@ -10936,6 +11072,10 @@
       {
         "title": "同根語",
         "text": "me.tk"
+      },
+      {
+        "title": "備考",
+        "text": "くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。"
       }
     ],
     "variations": [],
@@ -10973,7 +11113,15 @@
       {
         "title": "名詞",
         "forms": [
-          "数"
+          "数",
+          "数字"
+        ]
+      },
+      {
+        "title": "名詞",
+        "forms": [
+          "点",
+          "得点"
         ]
       },
       {
@@ -10988,6 +11136,10 @@
       {
         "title": "同根語",
         "text": "mak2.pk, bágha.bt, maka.tk"
+      },
+      {
+        "title": "備考",
+        "text": "量としての「数」はtaunyuroeを用いる。"
       }
     ],
     "variations": [],
@@ -11036,12 +11188,7 @@
       }
     ],
     "tags": [],
-    "contents": [
-      {
-        "title": "同根語",
-        "text": "auk2.pk"
-      }
-    ],
+    "contents": [],
     "variations": [],
     "relations": []
   },
@@ -11680,6 +11827,12 @@
         ]
       },
       {
+        "title": "形容詞",
+        "forms": [
+          "七つの"
+        ]
+      },
+      {
         "title": "燐字",
         "forms": [
           "七"
@@ -11725,6 +11878,12 @@
         "forms": [
           "十",
           "10"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "十の"
         ]
       },
       {
@@ -12273,6 +12432,12 @@
         ]
       },
       {
+        "title": "形容詞",
+        "forms": [
+          "九つの"
+        ]
+      },
+      {
         "title": "燐字",
         "forms": [
           "九"
@@ -12358,6 +12523,12 @@
         "forms": [
           "四",
           "4"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "四つの"
         ]
       },
       {
@@ -12920,6 +13091,12 @@
         "forms": [
           "六",
           "6"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "六つの"
         ]
       },
       {
@@ -13539,6 +13716,10 @@
       {
         "title": "同根語",
         "text": "nauṇaghúḷ.bt, naunijúḷ.bt"
+      },
+      {
+        "title": "備考",
+        "text": "バートnauṇaghúḷ, naunijúḷにおける強調の語素として見ることができる。"
       }
     ],
     "variations": [],
@@ -13612,6 +13793,13 @@
         "forms": [
           "連続した",
           "つながった"
+        ]
+      },
+      {
+        "title": "名詞",
+        "forms": [
+          "つながり",
+          "連番"
         ]
       },
       {
@@ -13756,6 +13944,12 @@
       "form": "ohi"
     },
     "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "友"
+        ]
+      },
       {
         "title": "形容詞",
         "forms": [
@@ -14812,6 +15006,12 @@
         "forms": [
           "海の"
         ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "海"
+        ]
       }
     ],
     "tags": [],
@@ -15474,6 +15674,10 @@
       {
         "title": "同根語",
         "text": "ṣahe.bt?, ṣe.bt?"
+      },
+      {
+        "title": "備考",
+        "text": "sahuaと同根か。"
       }
     ],
     "variations": [],
@@ -15497,6 +15701,10 @@
       {
         "title": "同根語",
         "text": "ṣahe.bt?, ṣe.bt?"
+      },
+      {
+        "title": "備考",
+        "text": "sahuと同根か。"
       }
     ],
     "variations": [],
@@ -15907,7 +16115,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 809,
+          "form": "sepai"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -15941,7 +16157,8 @@
       {
         "title": "形容詞",
         "forms": [
-          "初めに"
+          "最初の",
+          "初めの"
         ]
       }
     ],
@@ -16454,7 +16671,8 @@
       {
         "title": "名詞",
         "forms": [
-          "金"
+          "金",
+          "ズー"
         ]
       },
       {
@@ -17142,6 +17360,12 @@
         ]
       },
       {
+        "title": "名詞",
+        "forms": [
+          "（ゲームの）盤"
+        ]
+      },
+      {
         "title": "燐字",
         "forms": [
           "衣"
@@ -17307,6 +17531,13 @@
         "title": "副詞",
         "forms": [
           "ただ"
+        ]
+      },
+      {
+        "title": "後置詞",
+        "forms": [
+          "～のみ",
+          "だけ"
         ]
       },
       {
@@ -17738,6 +17969,10 @@
     ],
     "tags": [],
     "contents": [
+      {
+        "title": "同根語",
+        "text": "díghi.bt"
+      },
       {
         "title": "派生した理語",
         "text": "tenierk"
@@ -18215,6 +18450,7 @@
       {
         "title": "名詞",
         "forms": [
+          "陸橋",
           "歩道橋"
         ]
       }
@@ -18641,7 +18877,14 @@
       {
         "title": "名詞",
         "forms": [
-          "三"
+          "三",
+          "3"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "三つの"
         ]
       },
       {
@@ -18671,6 +18914,12 @@
         "title": "名詞",
         "forms": [
           "千"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "千の"
         ]
       },
       {
@@ -18782,7 +19031,9 @@
       {
         "title": "名詞",
         "forms": [
-          "自分"
+          "自分",
+          "自己",
+          "自我"
         ]
       }
     ],
@@ -18795,10 +19046,22 @@
       {
         "title": "派生した理語",
         "text": "untirk"
+      },
+      {
+        "title": "備考",
+        "text": "学問的なニュアンスが強い語である。一般的な再帰の意味ではもっぱらtinaを用いる。"
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 700,
+          "form": "tina"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -19128,6 +19391,12 @@
         ]
       },
       {
+        "title": "形容詞",
+        "forms": [
+          "一万の"
+        ]
+      },
+      {
         "title": "燐字",
         "forms": [
           "万"
@@ -19216,6 +19485,13 @@
         "forms": [
           "本当の",
           "本物の"
+        ]
+      },
+      {
+        "title": "名詞",
+        "forms": [
+          "ものごと",
+          "案件"
         ]
       },
       {
@@ -19698,6 +19974,12 @@
         ]
       },
       {
+        "title": "名詞",
+        "forms": [
+          "（ゲームの）投げ棒"
+        ]
+      },
+      {
         "title": "動詞",
         "forms": [
           "裁く",
@@ -20107,6 +20389,10 @@
       {
         "title": "同根語",
         "text": "hemijoya.bt, joya.bt"
+      },
+      {
+        "title": "備考",
+        "text": "現代ではhubwaに役割を奪われており、ほぼ使われない。"
       }
     ],
     "variations": [],
@@ -20133,7 +20419,7 @@
       },
       {
         "title": "備考",
-        "text": "現代では使用されない。"
+        "text": "現代では生産性を失っており、痕跡的にしか残っていない。"
       }
     ],
     "variations": [],
@@ -20166,7 +20452,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 45,
+          "form": "anau"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -20743,6 +21037,1590 @@
         "text": "ho.pk"
       }
     ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 768,
+      "form": "takina"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "与える"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "dákínúḷ.bt"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 769,
+      "form": "mimi"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "引く"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "引"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "mi2.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 770,
+      "form": "tina"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "自分",
+          "おのれ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "己"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "tin1.pk, dína.bt, tina.tk"
+      },
+      {
+        "title": "備考",
+        "text": "学問的な自我としての自分自身の意味にはutikuが用いられる。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 699,
+          "form": "utiku"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 771,
+      "form": "nyoupi"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "賢い",
+          "利口な"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "賢"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 772,
+      "form": "twoshou"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "うめく",
+          "うなる",
+          "嘆く"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "呻"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 773,
+      "form": "k'ewo"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "クレオス"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "クレオスの"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "呉"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "kot2.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 774,
+      "form": "tiyaai"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "反対の"
+        ]
+      },
+      {
+        "title": "副詞",
+        "forms": [
+          "反対に"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "反"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 775,
+      "form": "soshi"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "逆さの"
+        ]
+      },
+      {
+        "title": "動詞",
+        "forms": [
+          "逆さにする",
+          "ひっくり返す"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "逆"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 776,
+      "form": "soshi"
+    },
+    "translations": [
+      {
+        "title": "接続詞",
+        "forms": [
+          "逆に"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "逆道"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "主客が入れ替わるようなときにしか使えず、対照を示すような場合には使えない。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 777,
+      "form": "sania"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "顔"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "顔"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "san1.pk"
+      },
+      {
+        "title": "備考",
+        "text": "sono【前】との関連が疑われている"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 778,
+      "form": "cwouphima"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（人名）"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 161,
+          "form": "cwouphi"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 779,
+      "form": "pochu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "竹"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "竹"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 780,
+      "form": "tegu"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "（時間が）経過する"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 781,
+      "form": "satamu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "スズ",
+          "錫"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 782,
+      "form": "chauna"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "銀"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 783,
+      "form": "ceecimu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "セーシム"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "穀物の粉で作った生地を焼いて、肉や野菜など好きな具を包んで食べる料理。アイルの家庭料理であるが、上手に生地を焼くのには技量が要求されるため、屋台で食べられることも多い。同様の料理はラネーメに広く知られる。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 784,
+      "form": "h^ibao"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "空腹な",
+          "飢えている"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "飢"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "対義語",
+        "entry": {
+          "id": 344,
+          "form": "kat^oe"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 785,
+      "form": "sishu"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "負ける",
+          "敗北する"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 786,
+      "form": "h^ibao tejanuma tunupokunu sishur"
+    },
+    "translations": [
+      {
+        "title": "熟語",
+        "forms": [
+          "飢える叮生神赤に敗る",
+          "「腹が減っては戦はできぬ」"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "無口叮生行下神赤"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 787,
+      "form": "pusho"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "取る",
+          "手に入れる",
+          "持ち上げる",
+          "選ぶ"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "gukoに比べると積極性、意志性が強い語である。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 231,
+          "form": "guko"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 788,
+      "form": "cwatu"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "捨てる"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "斥"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "cuat.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 789,
+      "form": "titiu"
+    },
+    "translations": [
+      {
+        "title": "副詞",
+        "forms": [
+          "繰り返して",
+          "何度も"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "再再"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 790,
+      "form": "taunyuroe"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "数（の大きさ）",
+          "多寡"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "多少"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "taun1 hue1.pk"
+      },
+      {
+        "title": "備考",
+        "text": "多いか少ないかに着目して数を見るときの語。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 407,
+          "form": "maka"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 791,
+      "form": "aniu"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "触れる",
+          "接触する"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 792,
+      "form": "hepu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "場所"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "処"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "hue.pk, epa.bt"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 2,
+          "form": "-hep"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 253,
+          "form": "hep'iai"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 793,
+      "form": "naipicho"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "はたらく",
+          "頑張る",
+          "働く"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "労"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 451,
+          "form": "naipei"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 794,
+      "form": "sauxiyu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "準備",
+          "事前の用意",
+          "根回し"
+        ]
+      },
+      {
+        "title": "動詞",
+        "forms": [
+          "準備する",
+          "事前に用意する"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "上裁"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "sau2 xy1.pk"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 584,
+          "form": "sau"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 731,
+          "form": "xiyu"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 794,
+      "form": "bupuchuwo"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "ワイルドカード",
+          "（トランプの）ジョーカー"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "歪片"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "bup1 zuo1.pk"
+      },
+      {
+        "title": "備考",
+        "text": "パイグ語からの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 139,
+          "form": "chuwo"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 795,
+      "form": "ba"
+    },
+    "translations": [
+      {
+        "title": "接続詞",
+        "forms": [
+          "～と"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "加"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 796,
+      "form": "xelukani"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "無視する",
+          "黙殺する",
+          "放置する"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "リパライン語xelnkanからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 797,
+      "form": "chuwaku"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（単位としての）時間",
+          "ツオ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "片、片時、（まれに）時片"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "zuo1 kak.pk"
+      },
+      {
+        "title": "備考",
+        "text": "一日を百等分したうちの一。リパラオネでいう1080stususnであり、現世で言うと15分弱。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 139,
+          "form": "chuwo"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 798,
+      "form": "kuwasuka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "事務官"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "筆"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "kua2 cuk2.pk"
+      },
+      {
+        "title": "備考",
+        "text": "アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 796,
+      "form": "kaikasuka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "実働官"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "兵"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "kaik cuk2.pk, kekacuka.tk"
+      },
+      {
+        "title": "備考",
+        "text": "アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 797,
+      "form": "huagei"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "黄色"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "黄色い"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "黄"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 263,
+          "form": "huangi"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 798,
+      "form": "kanide"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "赤"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "赤い"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "赤"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 337,
+          "form": "kani"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 799,
+      "form": "deiphe"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "青"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "青い"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "青"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 800,
+      "form": "huroja"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "黒"
+        ]
+      },
+      {
+        "title": "形容詞",
+        "forms": [
+          "黒い"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "黒"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 268,
+          "form": "huroo"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 801,
+      "form": "ohinyeka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "組み合わせ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "友連"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 511,
+          "form": "ohi"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 505,
+          "form": "nyeka"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 802,
+      "form": "niukina"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "ルール",
+          "規則"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "律"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "リパライン語niukirnaからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 803,
+      "form": "p'ujae"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "包囲する",
+          "取り囲む"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "囲"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 804,
+      "form": "p'ija"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（図や盤における）マス目"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "囲"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "パイグ語からの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 805,
+      "form": "mun"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "ゼロ",
+          "（ゲームにおける）「無」",
+          "「0」"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "無"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "パイグ語からの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 806,
+      "form": "susitu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "中央",
+          "中心"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "リパライン語sysitからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 807,
+      "form": "shomamaka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "合計値"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "積値"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 594,
+          "form": "shomu"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 407,
+          "form": "maka"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 808,
+      "form": "imiku"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "考え",
+          "思い"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "思"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 281,
+          "form": "imika"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 809,
+      "form": "sepai"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "収穫する",
+          "刈り入れる",
+          "採取する"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "享"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "sep.pk"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 589,
+          "form": "sephu"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 810,
+      "form": "wakaja"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "特殊な",
+          "特別な",
+          "普通でない"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "妙"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 811,
+      "form": "docuna"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "返す",
+          "戻す",
+          "返却する"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "リパライン語dosnaからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 812,
+      "form": "reasuka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（ゲームの）親"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "軸人"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "la1 cuk2.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 813,
+      "form": "aikachuwo"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（ゲームの）光駒",
+          "ドラ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "光片"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "aik2 zuo1.pk"
+      },
+      {
+        "title": "備考",
+        "text": "パイグ語からの翻訳借用。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 139,
+          "form": "chuwo"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 814,
+      "form": "tasami"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "多い"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "多"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 815,
+      "form": "aupwau"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "銅"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
     "variations": [],
     "relations": []
   }
