@@ -7,7 +7,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 7	-sa	接尾辞	女	女、おんな	usa	697	派生関係			TRUE		
 8	a	間投詞	噫	あ				a.pek, há.bt, a.tk				
 9	a	助詞	之	～の、～と、～かつ、と、かつ				a.pk, a.tk, -án.bt				
-10	abudijey	名詞		汚染防止					abdijery			
+10	abudijei	名詞		汚染防止					abdijery			
 11	acau	動詞	能	～する能力がある、～することができる				c-u.tk, ácahúl.bt				
 12	acii	動詞	辿	道をたどる				aci-lu.tk, accúl.bt				
 13	adwirede	名詞		人肉食					adwirdurta			
@@ -54,7 +54,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 54	atini	名詞		浜、浜辺、はま				ádhín.bt				
 55	aube	動詞		推薦する、推奨する、勧める、紹介する					aubes			
 56	aumi	名詞	傾	坂				aum2.pk, aumúḷ.bt				
-57	avii	名詞		事態、局面、情勢					avir			
+57	avii	名詞		事態、局面、情勢					avir			リパライン語avirからの借用。
 58	aybajis	名詞		文字					arvifit			
 59	ayua	後置詞		は				ja.tk?				
 60	bachau	形容詞	白	白い、しろい				bházahúḷ.bt				
@@ -71,18 +71,18 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 71	bihuo	後置詞		～のそばに						TRUE		
 72	biwuu	動詞	訴	口説く、言い寄る				u1.pk				
 73	bladai	名詞		農奴					blard			
-74	blecwa	動詞		委託、委任、任せる					blesva			
+74	blecwa	動詞		委託、委任、任せる					blesva			リパライン語blesvaからの借用。
 75	blekhau	名詞		スモモ、李、プラム					blerkh			
 76	blibwau	名詞		鳩、ハト					blirba			
 77	blimou	名詞		灯台					blim			
 78	blohai	名詞		独裁、絶対的権力				bhoḷog.bt, bhoheáḷ.bt, bhoḷorúḷ.bt	blofeziphera			
 79	blokhei	形容詞		砂の、砂でできた					bleiformajera			
-80	blouka	形容詞		中性の、どちらでもない					blowka			
+80	blouka	形容詞		中性の、中立な、第三者の					blowka			リパライン語blowkaからの借用。
 81	bloulu	形容詞	夢	想像できる				olu?.tk				
 82	bloungu	名詞		干しブドウ					bloung			
 83	blouxai	名詞		軌道、弾道、跡					aplauxme			
 84	blubla	形容詞；形容詞	歪	曲がった、歪んだ；傾いた、遠回りの				bup2.pk, ula.tk				
-85	blujau	名詞		天啓、神の声、素晴らしい美声					blurja			
+85	bluuja	名詞		天啓、神の声、素晴らしい美声					blurja			リパライン語blurjaからの借用。
 86	bohai	動詞		交換する				bhoheúḷ.bt				
 87	bokua	名詞	我	私、わたし						TRUE		
 88	bongiai	名詞		雑談					bong'ia			
@@ -211,7 +211,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 213	foje	名詞	龍	龍、竜				hui2.pk				
 214	foku	名詞	輩	兄弟、姉妹				huok1.pk, fokjut.ln, woghit.bt, moku.tk				
 215	fongio	動詞		同意する、意見が一致する					foni'a			
-216	fop'ei	名詞		薄暗い森					aporie			
+216	fopooei	名詞		薄暗い森					aporie			
 217	fuk'io	名詞		混沌、カオス、無秩序					feti'a			
 218	gaa	動詞		言う、説明する						TRUE		
 219	gamuu	名詞		共和国、共和政					gamuuceiti			
@@ -303,7 +303,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 307	josu	名詞	健	大作、傑作					jos			
 308	josua	名詞	健	決定的な、最終的な						FALSE		
 309	joveo	名詞	僚	国家公務員						FALSE		
-310	jubuai	副詞		一言で言えば					arve			
+310	jubuai	接続詞		つまり					arve			
 311	juce	名詞	輪	輪、環、指輪				yt2.pk				
 312	jukha	形容詞		老衰している、がたがたになっている				rúkasa.bt				
 313	jukuku	名詞		ユーゴック				jurkukku.li				
@@ -399,7 +399,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 404	maiblo	名詞；名詞		ファルセット、裏声；爬虫類					meblo			
 405	maikau	名詞；形容詞	茲	これ；この				me.tk				くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。
 406	maixaai	名詞		モグラ					xuspiramexaj			
-407	maka	名詞；名詞	値	数、数字；点、得点	taunyuroe	790		mak2.pk, bágha.bt, maka.tk				量としての「数」はtaunyuroeを用いる。
+407	maka	名詞；名詞	値	数、数字；点、得点	taunyuroe	790	関連語	mak2.pk, bágha.bt, maka.tk				量としての「数」はtaunyuroeを用いる。
 408	makana	名詞		海					durfemark			
 409	makasu	形容詞	長	長い								
 410	makati	名詞		マカティ、天神、アイル共和国の首都						TRUE		
@@ -577,7 +577,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 583	sati	名詞	素	もと、素、原料				sat1.pk				
 584	sau	名詞	上	上				sau2.pk, co-lu.tk				
 585	saupu	名詞	獣	獣、けだもの				saup1.pk				
-586	sauta	動詞		乗る						TRUE		sauとの関連は不明
+586	sauta	動詞		乗る						TRUE		sauとの関連が疑われている。
 587	seai	名詞		厄介ごと、もめごと、問題						TRUE		
 588	seloo	動詞		聞き違える					axorlaselar			
 589	sephu	動詞	享	借りる	sepai	809	同根語	sep.pk				
@@ -693,7 +693,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 699	utiku	名詞		自分、自己、自我	tina	700	関連語	untik.pmcp	untirk			学問的なニュアンスが強い語である。一般的な再帰の意味ではもっぱらtinaを用いる。
 700	utu	名詞	下	下	uttuja	763	派生関係	ut2.pk				
 701	utui	動詞	遊	遊ぶ				tu2.pk, rúṣ.bt				
-702	utuka	動詞		降りる						TRUE		utuとの関連は不明
+702	utuka	動詞		降りる						TRUE		utuとの関連が疑われている。
 703	vas^iai	名詞		氏族、クラン、派閥					farxaj			
 704	vedii	名詞；動詞		テレパシー；頭の中で話す					vedir			
 705	vefica	名詞		ヴェフィス						TRUE		
@@ -813,3 +813,11 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 813	aikachuwo	名詞	光片	（ゲームの）光駒、ドラ	chuwo	139	派生関係	aik2 zuo1.pk				パイグ語からの翻訳借用。
 814	tasami	形容詞	多	多い								
 815	aupwau	名詞		銅								
+816	aibledu	動詞		軽蔑する、侮蔑する					ayplerd			リパライン語ayplerdからの借用。
+817	cepu	名詞	集	（アイル共和国の）郡、集								東島通商語CEPからの借用。
+818	sooh^a	名詞；動詞	上行	勝利；勝つ								sauとの関連が疑われている。
+819	tweikou	動詞	残	残る				tuek.pk				
+820	k'uwai	名詞	翰	（人名）				kuai1.pk				
+821	al	後置詞		（形容詞の後について比較級を表す）								
+822	leinu	名詞	銭軸	会社、企業								リパライン語lerynからの借用。
+823	twaupei	動詞		飼い馴らす							amuamo lutwu leinunu tobai twaupei gukor? 新しい会社にはもう慣れた？	

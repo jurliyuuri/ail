@@ -268,7 +268,7 @@
   {
     "entry": {
       "id": 10,
-      "form": "abudijey"
+      "form": "abudijei"
     },
     "translations": [
       {
@@ -1660,6 +1660,10 @@
       {
         "title": "派生した理語",
         "text": "avir"
+      },
+      {
+        "title": "備考",
+        "text": "リパライン語avirからの借用。"
       }
     ],
     "variations": [],
@@ -2097,6 +2101,10 @@
       {
         "title": "派生した理語",
         "text": "blesva"
+      },
+      {
+        "title": "備考",
+        "text": "リパライン語blesvaからの借用。"
       }
     ],
     "variations": [],
@@ -2236,7 +2244,8 @@
         "title": "形容詞",
         "forms": [
           "中性の",
-          "どちらでもない"
+          "中立な",
+          "第三者の"
         ]
       }
     ],
@@ -2245,6 +2254,10 @@
       {
         "title": "派生した理語",
         "text": "blowka"
+      },
+      {
+        "title": "備考",
+        "text": "リパライン語blowkaからの借用。"
       }
     ],
     "variations": [],
@@ -2367,7 +2380,7 @@
   {
     "entry": {
       "id": 85,
-      "form": "blujau"
+      "form": "bluuja"
     },
     "translations": [
       {
@@ -2384,6 +2397,10 @@
       {
         "title": "派生した理語",
         "text": "blurja"
+      },
+      {
+        "title": "備考",
+        "text": "リパライン語blurjaからの借用。"
       }
     ],
     "variations": [],
@@ -5894,7 +5911,7 @@
   {
     "entry": {
       "id": 216,
-      "form": "fop'ei"
+      "form": "fopooei"
     },
     "translations": [
       {
@@ -8441,9 +8458,9 @@
     },
     "translations": [
       {
-        "title": "副詞",
+        "title": "接続詞",
         "forms": [
-          "一言で言えば"
+          "つまり"
         ]
       }
     ],
@@ -11135,7 +11152,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 790,
+          "form": "taunyuroe"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -16031,7 +16056,7 @@
     "contents": [
       {
         "title": "備考",
-        "text": "sauとの関連は不明"
+        "text": "sauとの関連が疑われている。"
       }
     ],
     "variations": [],
@@ -19138,7 +19163,7 @@
     "contents": [
       {
         "title": "備考",
-        "text": "utuとの関連は不明"
+        "text": "utuとの関連が疑われている。"
       }
     ],
     "variations": [],
@@ -22613,6 +22638,228 @@
     ],
     "tags": [],
     "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 816,
+      "form": "aibledu"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "軽蔑する",
+          "侮蔑する"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "派生した理語",
+        "text": "ayplerd"
+      },
+      {
+        "title": "備考",
+        "text": "リパライン語ayplerdからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 817,
+      "form": "cepu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（アイル共和国の）郡",
+          "集"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "集"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "東島通商語CEPからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 818,
+      "form": "sooh^a"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "勝利"
+        ]
+      },
+      {
+        "title": "動詞",
+        "forms": [
+          "勝つ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "上行"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "sauとの関連が疑われている。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 819,
+      "form": "tweikou"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "残る"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "残"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "tuek.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 820,
+      "form": "k'uwai"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（人名）"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "翰"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "kuai1.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 821,
+      "form": "al"
+    },
+    "translations": [
+      {
+        "title": "後置詞",
+        "forms": [
+          "（形容詞の後について比較級を表す）"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 822,
+      "form": "leinu"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "会社",
+          "企業"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "銭軸"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "リパライン語lerynからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 823,
+      "form": "twaupei"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "飼い馴らす"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "例文",
+        "text": "amuamo lutwu leinunu tobai twaupei gukor? 新しい会社にはもう慣れた？"
+      }
+    ],
     "variations": [],
     "relations": []
   }
