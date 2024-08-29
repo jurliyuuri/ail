@@ -642,7 +642,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 648	taupwo	名詞	端	縁、へり、辺境、外れ				tau2.pk, daupha.bt, dáp.bt				
 649	tedzii	名詞		長い間					texlis			
 650	teire	名詞		日に灼けた					terre			
-651	tenye	動詞	混	かき混ぜる、かき回す				ten1.pk				
+651	tenye	動詞	混	かき混ぜる、かき回す	tenden	827	関連語	ten1.pk				
 652	thaise	動詞		聞く、聞こえる				dheseúḷ.bt				
 653	thana	名詞		のこぎり					thana			
 654	theicho	名詞		(新しい)発見				dhezáúḷ.bt				
@@ -758,7 +758,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 764	phokhou	動詞	増	増える						TRUE		
 765	simua	動詞		減る								
 766	sawasuka	名詞	上人	偉人、地位のある人、立派な人	sau, asuka	584, 50	派生関係；派生関係	sau2 cuk2.pk		TRUE		
-767	mahe	動詞		作る、～（他格）に変化させる						TRUE		
+767	mahe	動詞		作る、～へと変化させる						TRUE		
 768	kinuti	名詞		鍋						TRUE		kinuti < kin + *uti 説が唱えられており、金属製の鍋に限定されるかもしれない
 767	ahou	形容詞；形容詞	軟	軟らかい；簡単な				ho.pk		TRUE		
 768	takina	動詞		与える				dákínúḷ.bt		TRUE		
@@ -778,7 +778,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 782	chauna	名詞		銀								
 783	ceecimu	名詞		セーシム								穀物の粉で作った生地を焼いて、肉や野菜など好きな具を包んで食べる料理。アイルの家庭料理であるが、上手に生地を焼くのには技量が要求されるため、屋台で食べられることも多い。同様の料理はラネーメに広く知られる。
 784	h^ibao	形容詞	飢	空腹な、飢えている	kat^oe	344	対義語					
-785	sishu	動詞		負ける、敗北する								
+785	sishu	動詞	下行	負ける、敗北する								
 786	h^ibao tejanuma tunupokunu sishur	熟語	無口叮生行下神赤	飢える叮生神赤に敗る、「腹が減っては戦はできぬ」								
 787	pusho	動詞		取る、手に入れる、持ち上げる、選ぶ	guko	231	関連語					gukoに比べると積極性、意志性が強い語である。
 788	cwatu	動詞	斥	捨てる				cuat.pk				
@@ -821,3 +821,8 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 821	al	後置詞		（形容詞の後について比較級を表す）								
 822	leinu	名詞	銭軸	会社、企業								リパライン語lerynからの借用。
 823	twaupei	動詞		飼い馴らす							amuamo lutwu leinunu tobai twaupei gukor? 新しい会社にはもう慣れた？	
+824	guaqa	名詞	眉	眉毛								
+825	lafimete	名詞		専門家								リパライン語lafirmeterからの借用。
+826	matuka	動詞		盗む								
+827	tenden	形容詞；間投詞	混混	ぐちゃぐちゃである、滅茶苦茶である；グツグツ	tenye	651	関連語	ten1 ten1.pk				オノマトペからの派生と思われる
+828	mohohep	名詞		目的地、目標、ゴール	moho, -hep	439, 2	派生関係；派生関係					

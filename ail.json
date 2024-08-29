@@ -17788,7 +17788,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 827,
+          "form": "tenden"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -20990,7 +20998,7 @@
         "title": "動詞",
         "forms": [
           "作る",
-          "～（他格）に変化させる"
+          "～へと変化させる"
         ]
       }
     ],
@@ -21532,6 +21540,12 @@
         "forms": [
           "負ける",
           "敗北する"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "下行"
         ]
       }
     ],
@@ -22862,6 +22876,154 @@
     ],
     "variations": [],
     "relations": []
+  },
+  {
+    "entry": {
+      "id": 824,
+      "form": "guaqa"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "眉毛"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "眉"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 825,
+      "form": "lafimete"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "専門家"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "リパライン語lafirmeterからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 826,
+      "form": "matuka"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "盗む"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 827,
+      "form": "tenden"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "ぐちゃぐちゃである",
+          "滅茶苦茶である"
+        ]
+      },
+      {
+        "title": "間投詞",
+        "forms": [
+          "グツグツ"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "混混"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "ten1 ten1.pk"
+      },
+      {
+        "title": "備考",
+        "text": "オノマトペからの派生と思われる"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "関連語",
+        "entry": {
+          "id": 651,
+          "form": "tenye"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 828,
+      "form": "mohohep"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "目的地",
+          "目標",
+          "ゴール"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 439,
+          "form": "moho"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 2,
+          "form": "-hep"
+        }
+      }
+    ]
   }
 ],
   "zpdic" : {
