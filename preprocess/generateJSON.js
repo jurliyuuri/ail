@@ -12,9 +12,7 @@ type WordEntry = {
   relIDs: number[]; // 関連語ID
   relTags: string[]; // 関連語タグ
   doublets: string[]; // 同根語
-  relativeLip: string[]; // 派生した理語
-  ifLipSource: string; // リパライン語ソース
-  ifUsed: string; // 用例の存在
+  relativeLip: string[]; // 関連する理語
   examples: string; // 例文
   comment: string; // 備考
 }
@@ -32,7 +30,6 @@ function wordParser(word) {
     rawRelTags,
     doublets,
     relativeLip,
-    isUsed,
     example,
     comment
   ] = word.split('\t');
@@ -47,7 +44,6 @@ function wordParser(word) {
     rawRelTags.split("；"),
     doublets,
     relativeLip,
-    isUsed,
     example,
     comment
   ]
@@ -69,7 +65,6 @@ const words = lines.map(word => {
     relTags,
     doublets,
     relativeLip,
-    isUsed,
     example,
     comment
   ] = wordParser(word);
@@ -113,7 +108,7 @@ const words = lines.map(word => {
   }
   if (relativeLip !== "") {
     contents.push({
-      "title": "派生した理語",
+      "title": "関連する理語",
       "text": relativeLip
     })
   }
