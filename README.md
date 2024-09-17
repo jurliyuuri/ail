@@ -7,3 +7,4 @@
   - [アイル語真理辞書(txt)](http://jurliyuuri.com/ail/dict.txt)
 - [Air Stale Dict](http://jurliyuuri.com/ail/ail-stale-json/dict/index.html)
   - [Staleの最小表示](http://jurliyuuri.com/ail/ail-stale-json/stale.txt)
+  - [Stale検索ページ](http://jurliyuuri.com/ail/ail-stale-json/search.html)
