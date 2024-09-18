@@ -16,17 +16,19 @@
 <body>
   <a href="../">トップへ戻る</a><br>
   <input type="text" name="searchKey" id="input" placeholder="type a keyword here"><input type="button" value="search" onclick="search()">
+  <input type="checkbox" name="isRegex" id="isRegex"><label for="isRegex">Use Regex</label>
   <p id="result"></p>
   <ol id="output"></ol>
 
   <script>
     const worker = new Worker("./filter.js");
-    const input = document.getElementById("input")
+    const input = document.getElementById("input");
+    const isRegex = document.getElementById("isRegex");
     const output = document.getElementById("output");
     const result = document.getElementById("result");
     const search = () => {
       if (input.value !== "") {
-        worker.postMessage(input.value);
+        worker.postMessage([input.value, isRegex.checked]);
       } else {
         result.innerHTML = "";
         output.innerHTML = "";
