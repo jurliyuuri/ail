@@ -2,6 +2,8 @@
 
 - [アイル語考察ログ](http://jurliyuuri.com/ail/ail.html)
 
+- [アイル語概論](https://docs.google.com/document/d/1iI9IpPaY_nCbdiodAcAjKIwyOA0z37Jacois1UelSQE/edit)
+
 - [アイル語真理辞書](http://jurliyuuri.com/json-reader/?url=http://jurliyuuri.com/ail/ail.json)
   - [アイル語真理辞書(json)](http://jurliyuuri.com/ail/ail.json)
   - [アイル語真理辞書(txt)](http://jurliyuuri.com/ail/dict.txt)

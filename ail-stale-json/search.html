@@ -14,10 +14,10 @@
 </head>
 
 <body>
-  <a href="../">トップへ戻る</a>
+  <a href="../">トップへ戻る</a><br>
   <input type="text" name="searchKey" id="input" placeholder="type a keyword here"><input type="button" value="search" onclick="search()">
   <p id="result"></p>
-  <ul id="output"></ul>
+  <ol id="output"></ol>
 
   <script>
     const worker = new Worker("./filter.js");
