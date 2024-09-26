@@ -45,7 +45,10 @@ const words = lines.slice(1).map(word => {
             });
         }
     }
-    if (linzi.length !== 0) {
+    if (linzi.length > 1 && linzi.includes("")) {
+        wordsWithWarning.push(`| WARNING: ${entryForm} has an empty item in linzi\n| ${linzi}`);
+    }
+    else {
         translations.push({
             "title": "燐字",
             "forms": linzi

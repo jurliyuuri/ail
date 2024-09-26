@@ -137,7 +137,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 137	chogau	名詞		料理、調理					xorga		
 138	choma	副詞		たびたび、なんども							
 139	chuwo	名詞；名詞	片	かけら；（ゲームの）駒				zuo1.pk	chuvo		
-140	cica	名詞	吏、宦	地方公務員							
+140	cica	名詞	吏；宦	地方公務員							
 141	cidoxile	動詞		はさむ					cedoxirle		
 142	cikau	名詞		写真							
 143	cikau	動詞	座	座る	ciwi	147	同根語	cy2.pk, ṣíkahúḷ.bt, cik-u.tk			
@@ -536,7 +536,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 542	pouje	後置詞	通	～を通って				bhán.bt			
 543	puatu	動詞；動詞	奮	怒る、憤慨する、興奮する；起こる、興る、発生する				puat1.pk			
 544	pura	名詞；名詞	風	風；感染症、病気				pua2.pk, bhára.bt, bháro.bt, muka.tk			
-545	puto	形容詞；副詞	真、慥	本当の；本当に、心から				put.pk			
+545	puto	形容詞；副詞	真；慥	本当の；本当に、心から				put.pk			
 546	pwiche	名詞；名詞		調書、記録；条約、議定書					firche		
 547	pwojei	名詞	位	順位、等級、身分、地位				pui1.pk, bhai.bt			
 548	pwoutwi	形容詞	海	海の				bhodi.bt	portvirtax		
@@ -791,7 +791,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 794	bupuchuwo	名詞	歪片	ワイルドカード、（トランプの）ジョーカー	chuwo	139	派生関係	bup1 zuo1.pk			パイグ語からの借用。
 795	ba	接続詞	加	～と							
 796	xelukani	動詞		無視する、黙殺する、放置する							リパライン語xelnkanからの借用。
-797	chuwaku	名詞	片、片時、（まれに）時片	（単位としての）時間、ツオ	chuwo	139	派生関係	zuo1 kak.pk			一日を百等分したうちの一。リパラオネでいう1080stususnであり、現世で言うと15分弱。
+797	chuwaku	名詞	片；片時；時片	（単位としての）時間、ツオ	chuwo	139	派生関係	zuo1 kak.pk			一日を百等分したうちの一。リパラオネでいう1080stususnであり、現世で言うと15分弱。
 798	kuwasuka	名詞	筆	事務官				kua2 cuk2.pk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。
 796	kaikasuka	名詞	兵	実働官				kaik cuk2.pk, kekacuka.tk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。
 797	huagei	名詞；形容詞	黄	黄色；黄色い	huangi	263	関連語				
@@ -830,17 +830,17 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 830	tamuzo	名詞	皇山	（ゲームの）皇山、タムツォ				tam2 zuo1.pk			パイグ語からの借用。
 831	susie	形容詞	孰	どの～でも	susi	622	同根語	cu.tk		susie poggoma pusshomo kaisa. 「どの色を選んでもよい」	英語で言うany, whateverの意味である。
 832	aiki	名詞	光男	（人名）	aika, uki	19, 692	派生関係；派生関係				
-833	sam	副詞		早く、さっさと、急いで	sami	579	派生関係				語源意識によりsamとつづられるが、発音は/zã/である。
+833	sam	副詞	急	早く、さっさと、急いで	sami	579	派生関係				語源意識によりsamとつづられるが、発音は/zã/である。
 834	kaisa hiya	間投詞	心善	ありがとう	kaisa, hiya	330, 256	派生関係；派生関係	hia1 kait.pk		tauhim tuine kaisa hiyar. 「手紙をくれてありがとう」	
 835	vaoa	動詞		祝う、祝福する							
 836	sira ki hiyar iwa lutwu hanu mohor	動詞	心古行新	温故知新、「古きを心いて新しきへ行く」							
 837	sauja	形容詞	上	先の、前回の	sau	584	派生関係				
 838	utuja	形容詞	下	後の、次回の	utu	700	派生関係				
-839	-moo	接尾辞	行	外へ							
-840	-sakka	接尾辞	来	内へ							
+839	-moo	接尾辞	行	外へ、向こう側へ	moho	439	同根語				
+840	-sakka	接尾辞	来	内へ、こちら側へ	sakika	577	同根語				
 841	bliblo	名詞；形容詞	地心	文化；文化的な、文化の							
 842	geda	動詞		歩く							
-843	umua	名詞；動詞	船	船；運ぶ							
+843	umua	名詞；動詞	船	船；運ぶ				muak1.pk			
 844	umuamoo	動詞	船行	送り出す、輸出する	umua, -moo	842, 839	派生関係；派生関係				
 845	umuasakka	動詞	船来	運び入れる、輸入する	umua, -sakka	842, 840	派生関係；派生関係				
 846	kitua	名詞		明かり、たいまつ							

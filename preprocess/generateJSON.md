@@ -50,3 +50,11 @@ relations プロパティの挙動にかかわるため ERROR 扱い。
 | WARNING: noyaii has empty property
 | [名詞,動詞] [学問、勉強,]
 ```
+
+#### ${entryForm} has an empty item in linzi
+燐字のなかに区切り文字`；`があり、かつ区切った後に空文字列`""`が残る。
+
+```
+| WARNING: vaoa has an empty item in linzi
+| ,
+```

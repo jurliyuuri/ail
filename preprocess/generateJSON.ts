@@ -88,7 +88,9 @@ const words = lines.slice(1).map(word => {
       })
     }
   }
-  if (linzi.length !== 0) {
+  if (linzi.length > 1 && linzi.includes("")) {
+    wordsWithWarning.push(`| WARNING: ${entryForm} has an empty item in linzi\n| ${linzi}`)
+  } else {
     translations.push({
       "title": "燐字",
       "forms": linzi
@@ -132,7 +134,7 @@ const words = lines.slice(1).map(word => {
       wordsWithError.push(`| ERROR: ${entryForm}'s relations are ill-formed\n| [${relatives}] [${relIDs}] [${relTags}]`);
     } else if (relTags.some(e => e === "")) {
       wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${relatives}] [${relIDs}] [${relTags}]`)
-    }else {
+    } else {
       for (let i = 0; i < relatives.length; i++) {
         relations.push({
           "title": relTags[i],
