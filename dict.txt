@@ -59,7 +59,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 59	ayua	後置詞		は				ja.tk?			
 60	bachau	形容詞	白	白い、しろい				bházahúḷ.bt			
 61	baeai	名詞	糸	綿糸				bai2.pk			
-62	baibae	形容詞；副詞	同	変わらない、同様な；～も、同じく				bap.pk, bhápúḷ.bt			
+62	baibae	形容詞；形容詞；副詞	同	変わらない、同様な；（処格）と同じである；～も、同じく				bap.pk, bhápúḷ.bt			
 63	baibia	名詞	民	人民、民衆、国民				bia1.pk			
 64	baihaiu	形容詞	遅	遅い、遅れた				baik.pk, bháheúḷ.bt			
 65	baiza	名詞	膠	魚膠				bait.pk			
@@ -211,7 +211,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 213	foje	名詞	龍	龍、竜				hui2.pk			
 214	foku	名詞	輩	兄弟、姉妹				huok1.pk, fokjut.ln, woghit.bt, moku.tk			
 215	fongio	動詞		同意する、意見が一致する					foni'a		
-216	fopooei	名詞		薄暗い森					aporie		
+216	fopoei	名詞		薄暗い森					aporie		
 217	fuk'io	名詞		混沌、カオス、無秩序					feti'a		
 218	gaa	動詞		言う、説明する							
 219	gamuu	名詞		共和国、共和政					gamuuceiti		
@@ -846,3 +846,4 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 846	kitua	名詞		明かり、たいまつ							
 847	-ngau	接尾辞	刀	道具などを表す				gau2.pk			燐字は刀があてられているが、「かたな」とは同音の別語であると考えられている。
 848	utuingau	名詞	遊刀	おもちゃ	utui, -ngau	701, 847	派生関係；派生関係	tu2 gau2.pk			
+849	anawasuka	名詞	全人	皆さん	anau, asuka	45, 50	派生関係；派生関係				

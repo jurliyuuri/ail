@@ -1975,6 +1975,12 @@
         ]
       },
       {
+        "title": "形容詞",
+        "forms": [
+          "（処格）と同じである"
+        ]
+      },
+      {
         "title": "副詞",
         "forms": [
           "～も",
@@ -6739,7 +6745,7 @@
   {
     "entry": {
       "id": 216,
-      "form": "fopooei"
+      "form": "fopoei"
     },
     "translations": [
       {
@@ -26539,6 +26545,45 @@
         "entry": {
           "id": 847,
           "form": "-ngau"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 849,
+      "form": "anawasuka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "皆さん"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "全人"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 45,
+          "form": "anau"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 50,
+          "form": "asuka"
         }
       }
     ]
