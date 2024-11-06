@@ -1,5 +1,6 @@
 "use strict"
-const fs = require('fs')
+import fs from 'node:fs';
+import validateRelID from './validateRelID.ts';
 
 type ParsedWord = [
   number,
@@ -73,13 +74,13 @@ const words = lines.slice(1).map(word => {
     "form": entryForm
   }
   if (id <= 0 || Number.isNaN(id) || entryForm === "") {
-    wordsWithError.push(`| ERROR: ${entryForm}'s ID and/or entryForm is empty\n| ${id} ${entryForm}`);
+    wordsWithError.push(`| ERROR: ${entryForm}'s ID and/or entryForm is empty\n| ${id} ${entryForm}\n`);
   }
   const translations = [];
   if (wordClasses.length !== meanings.length) {
-    wordsWithError.push(`| ERROR: ${entryForm}'s meanings are ill-formed\n| [${wordClasses}] [${meanings}]`);
+    wordsWithError.push(`| ERROR: ${entryForm}'s meanings are ill-formed\n| [${wordClasses}] [${meanings}]\n`);
   } else if (wordClasses.some(e => e === "") || meanings.some(e => e === "")) {
-    wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${wordClasses}] [${meanings}]`);
+    wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${wordClasses}] [${meanings}]\n`);
   } else {
     for (let i = 0; i < wordClasses.length; i++) {
       translations.push({
@@ -89,12 +90,12 @@ const words = lines.slice(1).map(word => {
     }
   }
   if (linzi.length > 1 && linzi.includes("")) {
-    wordsWithWarning.push(`| WARNING: ${entryForm} has an empty item in linzi\n| ${linzi}`)
-  } else {
+    wordsWithWarning.push(`| WARNING: ${entryForm} has an empty item in linzi\n| ${linzi}\n`)
+  } else if (linzi.length === 1 && !linzi.includes("")) {
     translations.push({
       "title": "燐字",
       "forms": linzi
-    })
+    }) 
   }
 
   const tags: string[] = [];
@@ -131,9 +132,9 @@ const words = lines.slice(1).map(word => {
       relatives.length !== relIDs.length || relIDs.length !== relTags.length ||
       relatives.some(e => e === "") || relIDs.some(e => e === 0 || Number.isNaN(e))
     ) {
-      wordsWithError.push(`| ERROR: ${entryForm}'s relations are ill-formed\n| [${relatives}] [${relIDs}] [${relTags}]`);
+      wordsWithError.push(`| ERROR: ${entryForm}'s relations are ill-formed\n| [${relatives}] [${relIDs}] [${relTags}]\n`);
     } else if (relTags.some(e => e === "")) {
-      wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${relatives}] [${relIDs}] [${relTags}]`)
+      wordsWithWarning.push(`| WARNING: ${entryForm} has an empty property\n| [${relatives}] [${relIDs}] [${relTags}]\n`)
     } else {
       for (let i = 0; i < relatives.length; i++) {
         relations.push({
@@ -155,10 +156,12 @@ const words = lines.slice(1).map(word => {
     "relations": relations
   }
 });
+
 if (wordsWithError.length > 0) {
   wordsWithError.forEach(element => console.log(element))
   throw new Error("entry is ill-formed")
 }
+validateRelID(words)
 if (wordsWithWarning.length > 0) {
   wordsWithWarning.forEach(element => console.log(element))
 }

@@ -14,9 +14,18 @@ ID、語形、品詞、燐字、意味、関連語、関連語ID、関連語タ�
 ## ERROR
 JSON 生成を中断しているもの
 
+### There is some duplicated ID
+IDに重複がある。
+
+```
+| ERROR: There is some duplicated ID
+| 2
+| 2
+```
+
 ### entry is ill-formed
 #### ${entryForm}'s ID and/or entryForm is empty
-ID か語形に空文字がある。
+IDか語形に空文字がある。
 
 #### ${entryForm}'s meanings are ill-formed
 品詞と意味の個数が一致しない。
@@ -36,6 +45,17 @@ relations プロパティの挙動にかかわるため ERROR 扱い。
 ```
 | ERROR: noyaii's relations are ill-formed
 | [noyhep,noytuiku] [491,492] [派生関係派生関係]
+```
+
+### wrong RelID
+#### RelID of ${entryForm} (ID: ${id}) is not designated properly
+関連語IDが正しく指定されていない。
+
+これにより検出できるのは語形の不一致があった場合のみであり、指定されたIDに同綴異義語があると ERROR にならないため注意。
+
+```
+| Error: RelID of noyaii (ID: 490) is not designated properly
+| noyhep (designated RelID: 0)
 ```
 
 ## WARNING
