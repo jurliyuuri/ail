@@ -1,8 +1,8 @@
-# generationJSON.jsの挙動まとめ
+# generationJSON.tsの挙動まとめ
 [アイル語辞書スプレッドシート](https://docs.google.com/spreadsheets/d/1Han8vd6RHVaT0CV6svMh840AgeAiqi7ieY2kbuBbfEk/edit)から tsv 形式で wget したデータをパースし、ail.json として OTM-JSON 形式で出力する。
 
 ## スプレッドシート形式
-ID、語形、品詞、燐字、意味、関連語、関連語ID、関連語タグ、同根語、関連する理語、例文、備考の計13カラムを持つ。
+ID、語形、品詞、燐字、意味、関連語、関連語ID、関連語タグ、同根語、関連する理語、例文、備考の計12カラムを持つ。
 
 このうち ID、語形の2つは埋まっている必要がある。
 
@@ -14,16 +14,9 @@ ID、語形、品詞、燐字、意味、関連語、関連語ID、関連語タ�
 ## ERROR
 JSON 生成を中断しているもの
 
-### There is some duplicated ID
-IDに重複がある。
+### entry is ill-formed 
+関連ファイル: `compose.ts`
 
-```
-| ERROR: There is some duplicated ID
-| 2
-| 2
-```
-
-### entry is ill-formed
 #### ${entryForm}'s ID and/or entryForm is empty
 IDか語形に空文字がある。
 
@@ -47,7 +40,9 @@ relations プロパティの挙動にかかわるため ERROR 扱い。
 | [noyhep,noytuiku] [491,492] [派生関係派生関係]
 ```
 
-### wrong RelID
+### wrong RelID 
+関連ファイル: `validateRelID.ts`
+
 #### RelID of ${entryForm} (ID: ${id}) is not designated properly
 関連語IDが正しく指定されていない。
 
@@ -56,6 +51,16 @@ relations プロパティの挙動にかかわるため ERROR 扱い。
 ```
 | Error: RelID of noyaii (ID: 490) is not designated properly
 | noyhep (designated RelID: 0)
+```
+
+### duplicate ID
+関連ファイル: `validateID.ts`
+
+IDに重複がある。
+
+```
+| ERROR: Duplicated IDs found
+| 2
 ```
 
 ## WARNING
@@ -69,6 +74,11 @@ relations プロパティの挙動にかかわるため ERROR 扱い。
 ```
 | WARNING: noyaii has empty property
 | [名詞,動詞] [学問、勉強,]
+```
+
+```
+| WARNING: noyaii has empty property
+| [noyhep] [学校] []
 ```
 
 #### ${entryForm} has an empty item in linzi

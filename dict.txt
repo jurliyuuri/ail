@@ -1,849 +1,849 @@
-ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	関連する理語	例文	備考	799
-2	-hep	接尾辞	処	場所	hep'iai, hepe	253, 794	派生関係；派生関係					
-3	-ki	接尾辞	男	男、おとこ	uki	692	派生関係					
-4	-ku	接尾辞	物	物、もの	uku	693	派生関係					
-5	-ma	接尾辞	大	大きい	amama	39	派生関係					
-6	-ni	接尾辞	小	小さい	inini	286	派生関係					
-7	-sa	接尾辞	女	女、おんな	usa	697	派生関係					
-8	a	間投詞	噫	あ				a.pek, há.bt, a.tk				
-9	a	後置詞；後置詞	之	～の；～である				a.pk, a.tk, -án.bt				
-10	abudijei	名詞		汚染防止					abdijery			
-11	acau	動詞	能	～する能力がある、～することができる				c-u.tk, ácahúl.bt				
-12	acii	動詞	辿	道をたどる				aci-lu.tk, accúl.bt				
-13	adwirede	名詞		人肉食					adwirdurta			
-14	age	形容詞		仮の、臨時の、一時的な	akui	33	同根語	ághai.bt	irxe			
-15	aguvii	形容詞		せっかちな、気が早い					agvir			
-16	aifeu	名詞		子供、こども、(人の)子					fevaiarj, gekarifew			
-17	aihei	名詞	冠	王冠				ai2.pk, ehai.bt				
-18	aihou	間投詞		じゃあ！					aihou			
-19	aika	名詞	光	光、ひかり、光線				aik2.pk, eka-lu.tk				
-20	aima	動詞	在	ある、存在する				aim2.pk				
-21	aimu	後置詞；動詞	如	～のような、～のごとく；～のようである				em.pk, ema.bt, -aim.bt, -waim.bt, mu-lu.tk				
-22	aipa	動詞；動詞	倒	落ちる、落下する、転ぶ；(転じて)滅びる				aip1.pk, ephaúḷ.bt				
-23	aipwau	形容詞；形容詞	乾	乾いた、干からびた、乾燥した；(転じて)そっけない、無味乾燥な				puau1.pk	evoradz			
-24	airaniija	名詞		アイラニーヤ							理語を母語とするアイル人のこと	
-25	airu	名詞	冠	アイル				ai2.pk			理語の影響でai'r、東島通商語の影響でailと綴られることも多い。	
-26	aisaa	名詞		種					sarcvakh			
-27	ait'ee	名詞		牢、監獄、独房					etaj		理語辞書ではaitóee	
-28	akai	名詞	血	血				kai1.pk, ághi.bt				
-29	akata	名詞	書	書物				ak1.pk, aghauṭa.bt, ákúḷ.bt				
-30	ake	名詞		火山弾					mammake			
-31	aki	動詞		～させる、～せる								
-32	akia	名詞	日	太陽、日				kia1.pk, ákíjam.bt, kija.tk				
-33	akui	形容詞		仮、仮の	age	14	同根語	ághai.bt				
-34	akunu	名詞		貴様、きさま、てめえ	amua	41	類義語				カジュアルな会話やモノローグで用いる二人称。	
-35	akuti	名詞		香辛料、スパイス				ághat.bt				
-36	alazama	名詞		魅力、色気					alzarm			
-37	ale	名詞		生体反応					aledzvaju, arcilanwif			
-38	aluai	名詞		祭り				alwe.pmcp	alve			
-39	amama	形容詞	大	大きい	-ma, ami	5, 40	派生関係；関連語	ma1.pk, amáma.bt				
-40	ami	形容詞	御	偉大な、すごい	amama	39	関連語	am.pk, amúḷ.bt				
-41	amua	名詞	汝	あなた、貴方、君	akunu	34	類義語	mua2.pk, ma.tk			akunuよりも丁寧な二人称。フォーマルな場でも、カジュアルな会話でも用いられる。	
-42	amui	名詞	魚	（生き物としての）魚	chaula	128	関連語	mui1.pk, amila.bt			食材や料理としての魚にはchaulaを用いる。	
-43	amunu	動詞	無	ない、存在しない、いない				mun1.pk, ám.bt				
-44	anaa	形容詞	静	静かだ、静かな、そっと、小声で				na1.pk, na-lu.tk				
-45	anau	連体詞	全	全ての	zabee	747	関連語	nau.bt, ano.tk, nau1.az				
-46	apo	形容詞		安い					apo			
-47	asi	名詞；形容詞	一	いち、一、1；一つの、ひとつの				lási.bt, asi.tk			活用の際に長子音化が起こらない。	
-48	asiti	名詞		ハーブ				rásitúḷ.bt	korniusti'e			
-49	asiu	名詞	石	石、岩、岩石				sy2.pk, asíjaúḷ.bt				
-50	asuka	名詞	人	ヒト、人間				suk2.pk, cuka.tk				
-51	ata	名詞；動詞	目	目、眼；見る				ta1.pk, ata.tk				
-52	atamu	名詞	皇	皇、タム、皇帝				tam2.pk, aṭam.bt, takan.tk, takamu.tk				
-53	ateai	動詞	帝	座っている、君臨する				adheṣ.bt, ales.li?				
-54	atini	名詞		浜、浜辺、はま				ádhín.bt				
-55	aube	動詞		推薦する、推奨する、勧める、紹介する					aubes			
-56	aumi	名詞	傾	坂				aum2.pk, aumúḷ.bt				
-57	avii	名詞		事態、局面、情勢					avir		リパライン語avirからの借用。	
-58	aybajis	名詞		文字					arvifit			
-59	ayua	後置詞		は				ja.tk?				
-60	bachau	形容詞	白	白い、しろい				bházahúḷ.bt				
-61	baeai	名詞	糸	綿糸				bai2.pk				
-62	baibae	形容詞；形容詞；副詞	同	変わらない、同様な；（処格）と同じである；～も、同じく				bap.pk, bhápúḷ.bt				
-63	baibia	名詞	民	人民、民衆、国民				bia1.pk				
-64	baihaiu	形容詞	遅	遅い、遅れた				baik.pk, bháheúḷ.bt				
-65	baiza	名詞	膠	魚膠				bait.pk				
-66	bake	名詞		どこ								
-67	bangai	形容詞		食べられない					banerdex			
-68	beca'ymo	名詞		カワウソ					becajm			
-69	bet'aa	名詞	圧	圧縮				bet2.pk				
-70	bexaiai	名詞		連鎖反応					bexe			
-71	bihuo	後置詞		～のそばに								
-72	biwuu	動詞	訴	口説く、言い寄る				u1.pk				
-73	bladai	名詞		農奴					blard			
-74	blecwa	動詞		委託、委任、任せる					blesva		リパライン語blesvaからの借用。	
-75	blekhau	名詞		スモモ、李、プラム					blerkh			
-76	blibwau	名詞		鳩、ハト					blirba			
-77	blimou	名詞		灯台					blim			
-78	blohai	名詞		独裁、絶対的権力				bhoḷog.bt, bhoheáḷ.bt, bhoḷorúḷ.bt	blofeziphera			
-79	blokhei	形容詞		砂の、砂でできた					bleiformajera			
-80	blouka	形容詞		中性の、中立な、第三者の					blowka		リパライン語blowkaからの借用。	
-81	bloulu	形容詞	夢	想像できる				olu?.tk				
-82	bloungu	名詞		干しブドウ					bloung			
-83	blouxai	名詞		軌道、弾道、跡					aplauxme			
-84	blubla	形容詞；形容詞	歪	曲がった、歪んだ；傾いた、遠回りの				bup2.pk, ula.tk				
-85	bluuja	名詞		天啓、神の声、素晴らしい美声					blurja		リパライン語blurjaからの借用。	
-86	bohai	動詞		交換する				bhoheúḷ.bt				
-87	bokua	名詞	我	俺、おれ、あたし	dipai	174	類義語				カジュアルな会話やモノローグで用いる一人称。dipaiよりもややくだけた、あるいは粗野な印象を与える。	
-88	bongiai	名詞		雑談					bong'ia			
-89	bot'oo	名詞	凹	穴、くぼみ、へこみ				bot1.pk				
-90	botwu	形容詞		無意味な、くだらない								
-91	boungau	名詞	筒	円筒、円柱、シリンダー、枠				bon2.pk				
-92	bowa	動詞	満	(潮が)満ちる				bo1.pk, bhoúḷ.bt, mo-lu.bt				
-93	buia	名詞		数字				bhájabáni.bt				
-94	buka	名詞		これ				ka1.pk?			くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。	
-95	bunae	動詞	鼓？	ぶつかり合う、押し合う				bum1.pk?				
-96	buou	名詞	箱	ケース、箱、容器				bu1.pk				
-97	buwo	動詞	包	包む、包装する				bo1.pk				
-98	bwaulu	動詞；動詞	迷	誤る、間違える；道に迷う				bau2.pk				
-99	bwikha	名詞；名詞		肉、肉体；果肉					pheini'avirga			
-100	bwila	動詞		(すき、そり、馬車などに)つなぐ								
-101	bwogo	名詞	獣	駄獣、荷を引かせる家畜	pwugo	549	関連語					
-102	bwoxou	動詞		立ち上がる、起きる				bhoṣahúḷ.bt				
-103	bwuzei	名詞		暗い気分					pzeniatz			
-104	cache	動詞		掘りだす、発掘する				cazúḷ.bt				
-105	cah^iu	動詞		二つに分かれる				ṣahe.bt?, ṣe.bt?				
-106	cahu	動詞		(堤防などで)せき止める	cwaho	155	同根語	cahúḷ.bt				
-107	camou	名詞		料理人					xamor			
-108	canai	動詞	識	認識する、考える				can2.pk, cánajúḷ.bt				
-109	capaiu	名詞		オパール				ṣabhahu.bt				
-110	capau	形容詞		食べられる、食用の					capaudex			
-111	capi	動詞；動詞		発生する、起こる、生じる；[生物]発生する								
-112	casa	名詞；名詞		蘭、ラン；茶番				caca.pmcp	casarmanugarki			
-113	cauyau	後置詞；副詞		～とともに、～と一緒に；一緒に				cájau.bt				
-114	caxou	形容詞	恒	永遠に、いつまでも、ずっと				cac-u.tk				
-115	cee	動詞	巻	渦巻く、旋回する				ze2.pk, zeúḷ.bt, zekáta.bt				
-116	ceinyo	名詞		丘、小山、丘陵					ceiny			
-117	ceiti	名詞		国					gamyrxert			
-118	ceixei	形容詞	近	近い、近接した	ceyuu	121	同根語	cajúḷ.bt				
-119	celo	名詞		学校					demozel			
-120	ceta	名詞	机	机				cet2.pk				
-121	ceyuu	形容詞	周	周囲の、周辺の	ceixei	118	同根語	cei2.pk, cajúḷ.bt, cai.bt				
-122	chaba	名詞	彼	彼、かれ				zap2.pk				
-123	chade	形容詞	怖	こわい、怖い				zat1.pk, zádeúḷ.bt				
-124	chaitau	名詞		カエル、蛙				chaitaus.vef				
-125	chame	形容詞		たのもしい				zámúḷ.bt				
-126	chasu	名詞		セルロース					chas			
-127	chauchu	動詞	為	する、行う				zau.pk, zúḷ.bt				
-128	chaula	名詞		（食材としての）魚	amui, koxua, saiguu	42, 371, 574	関連語；関連語；関連語		xorla		魚から作られた食材全般を指せる言葉であり、切り身や団子、干物や酢漬けといったものまで含む。	
-129	chepo	名詞；動詞	言	言語；話す				zep1.pk, zepha.bt, cepatepa.bt, cema-lu.tk				
-130	chesi	名詞	其	それ	chesim, tisi	131, 661	派生関係；同義語	ze1.pk				
-131	chesim	間投詞		ああ、なるほど	chesi	130	派生関係					
-132	chexu	動詞		絡める、（腕や足を）組む					tjerx			
-133	chigo	形容詞		規則的な、系統的な、組織的な、整然とした				zíghúḷ.bt				
-134	chisha	名詞	質	性質				zit1.pk				
-135	chixu	名詞		時計				zíghíṣ,bt				
-136	chobu	名詞		本								
-137	chogau	名詞		料理、調理					xorga			
-138	choma	副詞		たびたび、なんども								
-139	chuwo	名詞；名詞	片	かけら；（ゲームの）駒				zuo1.pk	chuvo			
-140	cica	名詞	吏；宦	地方公務員								
-141	cidoxile	動詞		はさむ					cedoxirle			
-142	cikau	名詞		写真								
-143	cikau	動詞	座	座る	ciwi	147	同根語	cy2.pk, ṣíkahúḷ.bt, cik-u.tk				
-144	cira	形容詞	古	古い、青銅の				sia2.pk				
-145	citua	動詞；動詞		脅かす、脅迫する；～する恐れがある					xitua		リパライン語xituaからの借用。	
-146	civeo	名詞		制服、ユニフォーム					civior		リパライン語civiorからの借用。	
-147	ciwi	名詞	席	椅子、席、座席	cikau	143	同根語	cy2.pk, ṣíkahúḷ.bt, cik-u.tk				
-148	cizeu	動詞		売れる					ciziur			
-149	coucu	名詞	餅	餅					cuscadex		粉を練って成形した食べ物のうち、麺でないものを指す。	
-150	couyau	名詞	壁	一続きの壁				co1.pk, ṣoya.bt				
-151	cuadu	名詞		手のひら					menaxarde		理語辞典ではcuaduä	
-152	cubotu'i	名詞		象牙色、クリーム色					cpatirt			
-153	cunya	接続詞		しかし、だが				ṣiṇṇa.bt				
-154	curau	動詞		切り刻む					cauxange, cauxarnekorxa			
-155	cwaho	動詞		捕まえる、とらえる	cahu	106	同根語	cahúḷ.bt	sarcvakh			
-156	cwairo	名詞	形	形、形式、作法、姿				cuau2.pk				
-157	cwauyi	動詞；動詞		～のせいにする；～を計算に入れる								
-158	cweio	名詞；形容詞	或	あるもの、なにか；ある、どれかの				cue1.pk				
-160	cwelo	名詞	球	玉、団子				cuet.pk, cuwelo.pmcp				
-161	cwouphi	名詞	声	音				cuop1.pk, codhi.bt				
-162	dace	動詞；動詞		走る、急ぐ、(水などが)流れる；筋の通らない					dacrarje?			
-163	dacha	形容詞		楽しい				dházúḷ.bt				
-164	dado	名詞；名詞；動詞	集	集まり、グループ；（特にアイル共和国の）郡、集；集まる	cepu	823	関連語	dat2.pk, dhárad.bt, tadu.tk	dadorta		地域としての郡はdadoを用いるが、自治体政府としての郡にはcepuを用いる。	
-165	dailaa	名詞		一度、一回								
-166	daimeu	形容詞		第三の					demozel			
-167	daipa	名詞		歯					dervilkov			
-168	daunou	名詞	虎	虎、トラ				dau2.pk, dhauna.bt, dhán.bt				
-169	daute	形容詞	深	深い、ふかい				daut1.pk				
-170	dexu	名詞；名詞	種	ドングリ、樫の身；亀頭				det2.pk	banerdex, capaudex, cuscadex, desxupse			
-171	diai	名詞		インターネット					adi'a			
-172	dibee	名詞	鎖	鎖、チェーン				dhíp.bt				
-173	dili	動詞		刺す				díl.bt, naunilorúḷ.bt, dilit.pmcp				
-174	dipai	名詞	我	私	bokua	87	関連語	pai2.pk			フォーマルな場でも、カジュアルな会話でも用いられる一人称。bokuaよりは丁寧な印象を与えるが、丁寧すぎるほどではない。	
-175	dipe	名詞		歌								
-176	ditanake	動詞		覗く、のぞく								
-177	ditoo	名詞	貝	貝				dit1.pk				
-178	doche	名詞	店	店				ḍáz.bt				
-179	dop'iai	名詞	島	島				dop1.pk, tomu.tk				
-180	duhai	形容詞		浅い、あさい					durfemark			
-181	dukhi	動詞		果実がなる、実る、成果が出る				dhokit.bt	durk			
-182	duqewaa	名詞		蛍光					duqewartax		暗くすると光るもの	
-183	duxaii	名詞		場所					hormarverdzar			
-184	dzacao	名詞		プール、池					dzacar			
-185	dzah^ie	名詞		リン酸					dzarfie		理語辞書ではdzahúie	
-186	dzecei	間投詞		さて、さあ、ところで					dzec			
-187	dzerua	名詞		ポニーテール					xerfa			
-188	dzipaiu	名詞		へこみ、くぼみ					xeparju			
-189	dzipuai	名詞		落雷、電撃					xerp'e			
-190	dzivaiu	動詞		認証する、公認する					aledzvaju			
-191	dzoriu	形容詞		速い、快速な					dzoy			
-192	ebu	名詞		雑穀、穀物				ebu.pmcp	erb			
-193	ebutuzulu	動詞		暴れる					iptzules			
-194	eipwi	名詞；名詞		酢漬け、マリネ；酢漬け液、マリネード					vismoua			
-195	elwafan	名詞		一撃					ilvefan			
-196	ena	動詞		言う					xauternaz			
-197	epao	形容詞	別	別の、異なる				pau1.pk				
-198	es^eu	名詞	祖	先祖、祖先				so1.pk				
-199	etoxapelu	動詞		間をあける					itzapel			
-200	ewai	名詞；動詞	将	命令、指示；命じる、命令する、指示する				uai1.pk, eyáúḷ.bt				
-201	eyoi	名詞；形容詞	春	春；春の				iei2.pk				
-203	fabui	名詞		宴、宴会、どんちゃん騒ぎ					fabi			
-204	fadzio	名詞		セメント、接着剤					fardza			
-205	fafi	動詞	定	定める				huap1.pk				
-206	fah^ua	動詞	挽	挽く、粉にする、砕く、押しつぶす				hua1.pk				
-207	falaa	形容詞	互	互いの				huat.pk, wáḷa.bt				
-208	faniu	動詞；間投詞		仲良くする、関わる；よろしく！								
-209	fas^eu	名詞		職業、仕事					faxeobe			
-210	feqoai	名詞		サングラス					feqai			
-211	figue	名詞		足の裏					firganqerw			
-212	fimea	名詞		水着					fimea			
-213	foje	名詞	龍	龍、竜				hui2.pk				
-214	foku	名詞	輩	兄弟、姉妹				huok1.pk, fokjut.ln, woghit.bt, moku.tk				
-215	fongio	動詞		同意する、意見が一致する					foni'a			
-216	fopoei	名詞		薄暗い森					aporie			
-217	fuk'io	名詞		混沌、カオス、無秩序					feti'a			
-218	gaa	動詞		言う、説明する								
-219	gamuu	名詞		共和国、共和政					gamuuceiti			
-220	ganyo	後置詞		～から、～以後								
-221	gatu	名詞	祭	祭り、儀式				gat2.pk				
-222	gauble	名詞		猪、イノシシ					gable			
-223	gauki	名詞		花火					casarmanugarki			
-224	gecwe	名詞		気候、風土					gesvi'o			
-225	gecwou	名詞		終わり、終止、最後、結末、末端								
-226	gelao	名詞	門	門、扉				giau1.pk				
-227	genu	動詞		読む								
-228	geqa	名詞	肉	にく 肉				gek.pk	gekarifew			
-229	gerue	名詞		（リボンなどの）花結び					fadi'agerve			
-230	gio	名詞	鹵	岩塩坑	quvoo	554	関連語	kuo1.pk, ghíyo.bt				
-231	guko	動詞；動詞；動詞	受	受け取る、もらう、得る；受ける、受け入れる；こうむる、経験する	pusho	789	関連語	guk2.pk				
-232	guyao	動詞	層	重ねる、重ね合せる				gy1.pk				
-233	h^alaii	名詞		耳かき					fealej		理語辞書ではhúalaii	
-234	h^ecuai	動詞		ポケットから出す、懐から出す				recúḷ.bt				
-235	h^ikoo	動詞	認	公認する、認可する、認知する				hio1.pk				
-236	h^olou	名詞		虫歯					feral		理語辞典ではhúolou	
-237	h^ozao	名詞		盲腸					khosao			
-238	h^ut^ee	動詞	始	始まる、始める				hut2.pk, huṭeúḷ.bt				
-239	hagi	名詞	北	北				hak2.pk				
-240	hagi	動詞		灰になる、燃え尽きる								
-241	hahau	動詞	笑	叫び声をあげる				hau2.pk				
-242	haicaai	名詞		汁、ジュース					curibaj			
-243	hainyi	副詞		当然の報いとして、正当に、功罪に応じて					fenire			
-244	haivuu	名詞；形容詞		闇、暗闇；暗愚、蒙昧な				háju.bt				
-246	hanu	後置詞	処	～で、～にて、～において				kan.tk			古い処格の接辞。現代では -ne/nu になっているが、燐文体では今でも用いられる。	
-247	haroa	名詞		柑橘、オレンジ					farva			
-248	haroa	名詞		ノイズ								
-249	haumei	形容詞		山の、山岳の					bleiformajera, hormarverdzar			
-250	hea	副詞		連れだって、組になって					pirfem			
-251	hema	形容詞	美	美しい				hem1.pk, hámúḷ.bt				
-252	hema	名詞；名詞；名詞		根（数学）；根元；語根								
-253	hep'iai	名詞	地	地方	-hep, hepe	2, 794	派生関係；派生関係	huep2.pk, epa.bt				
-254	hewe	名詞；名詞		岩、岩石；岩山、岩礁				eghi.bt	hervianni		【石】で書ける可能性がある	
-255	hiki	名詞	東	ひがし 東								
-256	hiya	名詞	心	こころ 心				hia1.pk, heyáúḷ.bt, híja.bt, ha.bt, rijúḷ.bt, ijalu.tk				
-257	hoduo	名詞		特許、特許証					hoduo			
-258	hogue	名詞		会話、会談								
-259	hona	形容詞	綿	綿羽のような、綿羽でできた、うぶ毛の生えた、綿毛に覆われた				hon1.pk				
-260	hotei	名詞		代用、取換え、代入				otúḷ.bt				
-261	hovi	名詞	骨	骨				ho2.pk				
-262	hoyi	名詞	棚	書棚				hy2.pk				
-263	huangi	名詞	麦	麦、小麦	huagei	803	派生関係		marfakhardz			
-264	hubwa	接続詞	即	すなわち、つまり				hem.pk, -úp.bt, ken.tk				
-265	hungaai	動詞		削り取る、こそげる				kuṇannúḷ.bt?				
-266	hupo	名詞	木	き 木				hup1.pk				
-267	huroe	形容詞	少	少しの、わずかの				hue1.pk				
-268	huroo	名詞	墨	墨（固形物）	huroja	806	派生関係	huo2.pk, horabát.bt				
-269	i	後置詞		～ら、～達				i.tk				
-270	i	小辞		～ではない、～ない				i2.pk			/i:/と長音で読まれる傾向がある。	
-271	ia	後置詞；後置詞	於	～に；～から				ie.pk, hína.bt				
-272	iaki	名詞		ルビー、紅玉					jarke			
-273	iama	名詞；動詞	口	口；食べる、飲む				iam1.pk				
-274	iasi	名詞		兄、姉、年長のきょうだい								
-275	idua	動詞		塩を加える、塩漬けにする								
-276	iki	名詞；形容詞	八	八、8；八つの							活用の際に長子音化が起こらない。	
-277	ikisa	名詞		積み木、つみき				ghikísa.bt	ekcan			
-278	ikiti	名詞	横	横					ektir, netekte			
-279	iku	名詞；形容詞	二	二、2；二つの				ik2.pk, ríka.bt			活用の際に長子音化が起こらない。	
-280	ime	名詞		くき 茎					molojaine			
-281	imika	動詞	思	おもう,思う				imiku.tk				
-282	imisa	形容詞	軽	かるい,軽い				mit2.pk				
-283	imitu	名詞		普通、通常					emert			
-284	imu	名詞	毛	毛				im1.pk				
-285	imuti	名詞		大脳					imyti			
-286	inini	形容詞	小	小さい	-ni	6	派生関係	ni1.pk, inin-u.tk				
-287	inuni	名詞		炭					hervianni			
-288	inusi	名詞	川	川、河川				nut2.pk, inuci.tk				
-289	inutaku	動詞		中断する、途中でやめる					intakk			
-290	iou	名詞	王	王、首相				io.pk				
-291	iqiu	名詞	帯	ひも、テープ、帯				ky2.pk				
-292	itasi	名詞		ウマ、馬					portvirtax			
-293	itua	名詞	果	くだもの、果物				tua1.pk, dhokit.bt				
-294	iwa	接続詞	而	そして				ua.pk, ja.bt, wa.tk				
-295	jabuu	名詞；動詞		造花、ハリボテ；はったりをかける、虚勢を張ってだます								
-296	jaiga	名詞		乳酸					jerga			
-297	jailuo	形容詞		有能な、資格のある、権限のある					jelua			
-298	jaizi	後置詞		～の中から、～から出た、～のうちの、～製の								
-299	jani	動詞；動詞	生	生じる、生まれ出る、生ずる；生む				ian1.pk				
-300	jatu	名詞；形容詞	冬	冬；冬の				iat1.pk				
-302	jebla	名詞		鈍感な耳					ebladz			
-303	jinei	動詞；動詞	閉	閉める、閉じる、閉ざす；終える				in2.pk				
-304	jokhi	名詞		嘘				jog.bt				
-305	jomo	動詞		歌う								
-306	jooi	動詞	直	まっすぐにする,直立させる				io1.pk				
-307	josu	名詞	健	大作、傑作					jos			
-308	josua	名詞	健	決定的な、最終的な								
-309	joveo	名詞	僚	国家公務員								
-310	jubuai	接続詞		つまり					arve			
-311	juce	名詞	輪	輪、環、指輪				yt2.pk				
-312	jukha	形容詞		老衰している、がたがたになっている				rúkasa.bt				
-313	jukuku	名詞		ユーゴック				jurkukku.li				
-314	juo	名詞	牛	ウシ、牛	juro	317	同根語	io2.pk				
-315	juo	動詞		塗装する、メッキする								
-316	jup'ui	形容詞		海の					tasierjupuj		理語辞書ではjupóui	
-317	juro	名詞	牛	乳牛	juo	314	同根語	io2.pk				
-318	jusei	名詞		肉団子				juce.pmcp				
-319	k'abaia	形容詞		そでなしの、ノースリーブの					abea			
-320	k'ebaie	動詞		燻製にする					xorla		理語辞典ではkóebaie	
-321	k'es'ia	名詞		デーツ、ナツメヤシの実					korjzoria		理語辞典ではkóesóia	
-322	k'iwea	接続詞		だから、そこで							用例ではkóiwea	
-323	k'uaa	名詞；動詞	筆	筆づかい、タッチ；後に残す				kua2.pk				
-324	kabu	名詞		二度、二回								
-325	kacei	形容詞		地獄に落ちるべき					kachein			
-326	kaci	名詞		復讐、仇討ち、報復					kaci			
-327	kaga	名詞	時	時間				kak.pk, káṇa.bt				
-328	kaiga	動詞		座る								
-329	kaika	名詞；動詞	戦	戦い、戦闘、試合；戦う				kaik.pk, kaikúḷ.bt				
-330	kaisa	形容詞	善	良い、よい				kait.pk, ket-u.tk				
-331	kakana	名詞		身代わり、生贄					karnaxerge			
-332	kakita	動詞		割る、わる、分ける					kakites			
-333	kakusa	動詞	筆	書く、描く								
-334	kami	名詞		神社、お宮					kemie	kami a makati 「マカティ神社」		
-335	kanaka	動詞	躍	跳ねる、ジャンプする	kanata	336	同根語	kan1.pk				
-336	kanata	動詞	躍	走る	kanaka	335	同根語	kan1.pk				
-337	kani	名詞；動詞	火	火、炎；燃える	kanide	804	派生関係	kan1.pk, gháni.bt				
-338	kaniti	動詞		持つ								
-339	kasi	名詞；形容詞	秋	秋；秋の				kat2.pk				
-341	kasui	名詞	硫俐	硫黄	khaicwi	352	同根語	kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt				
-342	kasumu	名詞		ごはん、ご飯、炊いた穀物					vismoua			
-343	kat^oe	形容詞		おとなしい								
-344	kat^oe	動詞	満	いっぱいになる、満ちる	h^ibao	786	対義語		katuroj		理語辞典ではkatúoe	
-345	katu	名詞	子	子供、子ども				kat1.pk, ghátu.bt				
-346	kaunyou	動詞		嚙む、かみ合う					korniusti'e			
-347	kausu	名詞		分					korsissatit?			
-348	kawi	名詞		口				kághi.bt				
-349	keicwou	間投詞		例えば				keco.pmcp				
-350	ket'eo	副詞	常	常に、いつも				ket.pk				
-351	khabu	名詞；形容詞	辣	トウガラシ；辛い				kháṣí.bt				
-352	khaicwi	形容詞		砂色の（灰色がかった黄色）	kasui, huagei	341, 803	同根語；類義語	kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt				
-353	khazu	名詞		場所、ところ、部分、土地								
-354	khobau	動詞	試	試す、やってみる、検証する				kop1.pk				
-355	khuthe	名詞		砲弾、銃弾					xturkhurte			
-356	ki	後置詞		～へ、～に、～を				ghi.bt, ki.tk				
-357	kiki	名詞	機	機械、マシン、道具				kik1.pk	afikelixekirk			
-358	kikita	間投詞		（青年への呼びかけとしての）兄さん					kirta			
-359	kimiku	名詞		枕					kemerk			
-360	kimou	形容詞		早い					kirma			
-361	kinia	名詞	右	右				ky1.pk				
-362	kinuka	名詞	金	金属				kin2.pk				
-363	kisamu	動詞		伸ばす				kísamúḷ.bt				
-364	kisi	名詞	那	あれ				kí.bt, ki.tk				
-365	kisu	名詞	頬	ほお、頬				kicu.tk				
-366	kita	名詞；形容詞	百	百、100；百の				kit1.pk, kit1.az				
-367	kitu	形容詞	極	とても				kit.pk, kit.bt				
-368	koli	動詞	疲	疲れる				koli.bt, koli-lu.tk				
-369	kotu	名詞	草	草				kot.pk, koṭ.bt				
-370	kouai	動詞；間投詞	謝	謝る、わびる、謝罪する；すみません、ごめんなさい				kuai1.pk				
-371	koxua	名詞		魚料理、魚肉	chaula	128	関連語		vismoua, cauxarnekorxa			
-372	kuaka	名詞	父	父				kuak1.pk, khak.bt				
-373	kunge	動詞；動詞；動詞	付	付ける、置く；入れ墨；入れ墨を入れる				kun2.pk, kug-u.tk				
-374	kuniki	名詞		師団					kynik			
-375	ky'esiri	名詞		角閃石					kyersi			
-376	laitai	名詞	旦	（時間としての）日								
-377	lanau	動詞；動詞		追う、追いかける；(その状態に)追いやる				lánahúḷ.bt				
-378	laupwau	名詞		選択								
-379	leaa	名詞	琴	弦楽器、琴、箏				lia1.pk				
-380	lebi	形容詞		この								
-381	leitau	名詞		群島、列島					larto			
-382	leka	名詞	絵	絵、絵画				lek1.pk, legha.bt, leghúḷ.bt				
-383	lexai	形容詞		口頭での、言葉の					lerxenurtha			
-384	libwa	名詞	虫	虫、むし、昆虫、（クモ・カタツムリ・ダンゴムシなどの）昆虫でなく、細長くない虫				li2.pk				
-385	lihuo	動詞		平たくする、ぺしゃんこにする、潰す				rohúḷ.bt				
-386	linaesto olus	名詞		リナエスト・オルス								
-387	lingei	形容詞	清	よごれのない、しみのない				lin.pk				
-388	lisua	名詞	倉	保管所、倉庫				li1.pk				
-389	liwo	動詞	須	～しなければならない、～にちがいない、～はずである				ly.pk				
-390	lodu	形容詞	短	短い、みじかい				lot2.pk, rodúḷ.bt				
-391	lohu	名詞	煙	煙、けむり、煙たい				lo1.pk				
-392	loka	形容詞	寒	寒い、凍えている、凍っている				lok1.pk				
-393	lokemyuda	名詞		微妙な状況					myrda			
-394	lorua	名詞；動詞	耳	耳、みみ；聞く				lua1.pk				
-395	losu	動詞	立	立つ、たつ				lo1.pk, e loc.pmcp				
-396	lubu	名詞	鳥	鳥、とり				lup1.pk				
-397	lugea	動詞		曇る、雲で覆われる				roṇúḷ.bt				
-398	luhai	名詞		豆腐					lurfe			
-399	lupe	名詞	玉	翡翠、玉、宝石					lurpe			
-400	lutwu	形容詞	新	新しい、生き生きした、若々しい				lu2.pk				
-401	lutwu	名詞		階段、ステップ								
-402	maadyiti	動詞		つやを出す					madyrti			
-403	macwe	動詞		（燃料を足して）火を燃やし続ける	masuni	424	同根語	bacú.bt, bácujúḷ.bt				
-404	maiblo	名詞；名詞		ファルセット、裏声；爬虫類					meblo			
-405	maikau	名詞；形容詞	茲	これ；この				me.tk			くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。	
-406	maixaai	名詞		モグラ					xuspiramexaj			
-407	maka	名詞；名詞	値	数、数字；点、得点	taunyuroe	792	関連語	mak2.pk, bágha.bt, maka.tk			量としての「数」はtaunyuroeを用いる。	
-408	makana	名詞		海					durfemark			
-409	makasu	形容詞	長	長い								
-410	makati	名詞		マカティ、天神、アイル共和国の首都								
-411	makina	名詞		音楽				makina.pmcp				
-412	makutu	形容詞		勇ましい				bákatú.bt, bákatúḷ.bt				
-413	mamau	名詞		母	manana	416	同根語	mam1.pk, banáman.bt				
-414	mammake	名詞		ドラゴンフルーツ					mangmerke			
-415	mamu	動詞		なる、成る					pirfem			
-416	manana	名詞；名詞	母	（古語）母、母親；マンマナ島	mamau	413	同根語	mam1.pk, banáman.bt, manmana.pmcp			現代では「母」の意味ではmamauを使う。	
-417	mani	名詞	字	字、文字				man1.pk, báni.bt, mani.tk				
-418	maniku	名詞		言語					menyrkskir			
-419	mapwu	名詞；動詞		粉；粉にする、挽く					marfakhardz			
-420	maqui	動詞；動詞	抗	抵抗する、反抗する；耐える				mak1.pk, mákúḷ.bt				
-421	masa	動詞		超える					macc-			
-422	masou	名詞；動詞		冒涜的な言葉、罵詈雑言；侮辱する、吐き捨てる				masátu.bt				
-423	masu	後置詞		～のために								
-424	masuni	動詞		塗る	macwe	403	同根語	bacú.bt, bácujúḷ.bt				
-425	matutu	名詞	外	外、外部、他、よそ				bátat.bt				
-426	maube	名詞		きのこ					curibajmorbern			
-427	mauna	名詞	馬	馬				maun1.pk				
-428	mauphu	動詞		迷わせる、惑わす					aplauxme			
-429	mefoai	名詞		同音異義語					mefoaj			
-430	mexi	副詞		全部、すっかり				báṣi.bt				
-431	minu	名詞		頭痛					menaxarde			
-432	mis^eo	名詞		自治、自制、自律					saqermisero		理語辞典ではmisúeo	
-433	misa	名詞；形容詞	七	七、7；七つの								
-434	misu	名詞		病気					nakimis			
-435	mita	名詞；形容詞	十	十、10；十の								
-436	mitiku	名詞	橋	橋				mit.pk				
-437	miwou	名詞		苦労、骨折り					mevau			
-438	modo	動詞	壊	壊れる、壊す				mot2.pk				
-439	moho	動詞	行	行く、移動する	-moo	845	同根語	mok1.pk, bohúḷ.bt				
-440	moloa	形容詞		甘い、心地よい				boḷorúḷ.bt	molojaine			
-441	mono	名詞		鰹、カツオ					xorlarmorn			
-442	mova	名詞	米	米				mo1.pk, mon.tk				
-443	mukutu	名詞		鉛								
-444	mukutu	動詞	撃	攻撃する、打つ				kut2.pk				
-445	mungeai	名詞		未開拓地、荒野				báṇam.bt				
-446	muo	動詞	止	止める				muo1.pk				
-447	muohep	名詞		駅、停車場							< muo + -hep	
-448	muta	名詞	家	家				mut2.pk, bádha.bt				
-449	mutua	動詞	飛	飛ぶ				bátujúḷ.bt				
-450	naho	動詞	加	加える、足し算する				náhúl.bt				
-451	naipei	形容詞	労	緻密な、よくできた				naip2.pk, e naipe.pmcp				
-452	naita	名詞	縦	縦					nert, netekte			
-453	naiwou	名詞	酒	酒、アルコール				no1.pk, náju.bt				
-454	naki	動詞		移動する、伝わる					nakimis			
-455	naku	名詞；形容詞	九	九、9；九つの				nághu.bt, nou.tk				
-456	nalua	名詞		海鳥、（特に）カモメ				náḷa.bt	nalva			
-457	name	動詞	開	打ち開く、切り開く				nam2.pk, námúḷ.bt				
-458	nami	名詞；形容詞	四	四、4；四つの				ap1.pk, naga.tk, nagamu.tk				
-459	nanisu	名詞		ズボン					nais			
-460	nanu	名詞	何	何、なに				nan2.pk, nána.bt				
-461	nas^aiai	動詞		処方する					naxer			
-462	nau	名詞		わたし				no.tk	navax			
-463	naublau	名詞		中央政府				noblé.vef				
-464	nauke	名詞		箱、ケース、容器				nauki.bt				
-465	navou	名詞		雀、スズメ					nav			
-466	nelua	名詞；名詞	猫	猫；姓の一つ。				ne2.pk				
-467	nepha	名詞		ピスタチオ					nerfa			
-468	ngaci	動詞		売る					garci			
-469	ngaitwa	形容詞		～さん（男性への敬称）							語義変更；名称の前からかける	
-470	ngaiweo	動詞		鋳造する、鋳込む、型にはめる				gháyoúḷ.bt, kewa-lu.tk				
-471	ngakha	形容詞	激	強烈な				gak1.pk				
-472	ngas'aa	動詞		理解する				ghaccúḷ.bt			用例ではngasóaa	
-473	ngeipu	動詞	助	助ける				uaip2.pk				
-474	ngodi	名詞		宮殿					nordi			
-475	ngongau	名詞	刀	刀、剣、刃物				gau2.pk, ghau.bt				
-476	ngui	名詞	傷	傷				gui2.pk, kuwi.tk				
-477	nguwa	名詞；動詞	弓	弓；弓で射る、射撃する				gua2.pk, ghá.bt				
-478	nicuu	名詞		エリート、精鋭					nixur			
-479	niku	名詞；形容詞	六	六、6；六つの								
-480	nilua	名詞；名詞	胸？	準備；胸？								
-481	nimutu	名詞	族	民族				nim2.pk, nímaṣ.bt, nisu.tk				
-482	ninu	名詞	紙	紙				nin1.pk, nín.bt				
-483	nisisa	名詞		河豚、フグ					nisirsa			
-484	nisiu	形容詞	強	強い				tiu2.az				
-485	nisu	名詞		波					tinirza			
-486	niuni	名詞		安全					niurn			
-487	nonu	形容詞	悪	憎い				non1.pk, nonúḷ.bt, non.bt				
-488	noqo	名詞		靴					firganqerw		理語辞書ではnoqoę	
-489	noxai	名詞		酸					nox			
-490	noyaii	名詞；動詞		学問、勉強；学ぶ、勉強する	noyhep	491	派生関係	nui2.pk				
-491	noyhep	名詞		学校	noyaii, -hep	490, 2	派生関係；派生関係	nui2 hue.pk			< noyaii + -hep	
-493	nua	名詞	水	水				nua2.pk, nutta.bt, na.tk				
-494	nuisu	名詞	軍	軍				núsu.bt	naanwis			
-495	nukina	名詞		制度					niukirna			
-496	numa	動詞	守	守る				num1.pk				
-497	numiu	名詞		ピンク				numíju.bt				
-498	nup'iu	名詞		ココナッツ					nuporju		理語辞書ではnupóiu	
-499	nuta	形容詞		どの				not.bt				
-500	nutha	名詞		ゲーム、遊戯				núdha.bt, nudhorúḷ.bt	lerxenurtha			
-501	nyalu	名詞		繊維					nyal			
-502	nyaunei	形容詞		強い、激しい				nauṇaghúḷ.bt, naunijúḷ.bt			バートnauṇaghúḷ, naunijúḷにおける強調の語素として見ることができる。	
-503	nyauphi	名詞		あばた、瘢痕					nyaphi			
-504	nyautu	名詞	詞	単語				nautu.bt	pzeniatz			
-505	nyeka	形容詞；名詞	連	連続した、つながった；つながり、連番				niek1.pk				
-506	nyitwei	名詞		新人、新入り								
-507	nyouhai	形容詞		問題のある、不確かな、あやしい					niirfe			
-508	o			分離詞							用法不明	
-509	ocou	動詞	散	花が散る				co1.pk				
-510	odui	名詞	油	油、石油				dui.pk, hodhi.bt				
-511	ohi	名詞；形容詞	友	友；親しい				hi1.pk, ohi.bt, oki.tk				
-512	oqaiu	動詞		ふりかける				okajúḷ.bt				
-513	owifizu	形容詞		奇妙な					arvifit			
-514	owu	名詞	平	板、プレート				o1.pk				
-515	p'afaiu	名詞		岬					pafey			
-516	p'aibaia	名詞		興味、関心				bhajúḷ.bt				
-517	paxo	名詞	犬	犬	phaxo	526	同義語	pa2.pk				
-518	pechu	名詞		チーズ					perchu			
-519	peixe	形容詞；副詞		後ろにある、後ろの；後ろに				peixe.pmcp				
-520	peki	形容詞	硬	強い				pek1.pk				
-521	pelu	名詞		文字					xpelai'r			
-522	perao	名詞	道	道				po1.pk, mo.tk				
-523	pet^ii	名詞	星	星				pet2.pk				
-524	phadi	名詞		ベルト					fadi'agerve			
-525	phaungo	名詞		酢					feun			
-526	phaxo	名詞	犬	犬	paxo	517	同義語	pa2.pk				
-527	phedu	形容詞	闇	闇夜、真っ暗な				huet.pk, bhát.bt, bhátúḷ.bt, medu.tk, phed.li				
-528	pheini	名詞	泉	泉、源泉、根源、大元					pheini'avirga			
-529	phengua	名詞		言語					fengguacapea			
-530	pheou	名詞		コース、道順、路線					fey			
-531	phidi	動詞	震	揺れる、震える				pit1.pk				
-532	phobo	名詞	手	手				hop1.pk, bhoma.bt, bhomúḷ.bt, momo.tk				
-533	phouzou	動詞		踏み越える、またぐ					fosorr			
-534	pirai	動詞		繋ぐ、縛る、結ぶ					pirfem			
-535	piu	名詞	力	能力				py.pk				
-536	pogau	名詞		(獣の)巣穴				bhoṇau.bt, phornau.li				
-537	pogie	名詞；名詞	隊	軍、隊、団、組；旅団					podzir			
-538	pogo	名詞	色	色				pok.pk, bhog.bt				
-539	poi'afe	名詞		癌、腫瘍					parfe			
-540	pola	名詞	羊	羊				po1.pk				
-541	polaphobo	名詞	羊手	ポラホボ（地名）				polapobo.pmcp				
-542	pouje	後置詞	通	～を通って				bhán.bt				
-543	puatu	動詞；動詞	奮	怒る、憤慨する、興奮する；起こる、興る、発生する				puat1.pk				
-544	pura	名詞；名詞	風	風；感染症、病気				pua2.pk, bhára.bt, bháro.bt, muka.tk				
-545	puto	形容詞；副詞	真；慥	本当の；本当に、心から				put.pk				
-546	pwiche	名詞；名詞		調書、記録；条約、議定書					firche			
-547	pwojei	名詞	位	順位、等級、身分、地位				pui1.pk, bhai.bt				
-548	pwoutwi	形容詞	海	海の				bhodi.bt	portvirtax			
-549	pwugo	名詞	獣	愚かさ、獣性	bwogo	101	関連語	mug-u.tk				
-550	qaijie	形容詞	中	中程度、ほどほどの、中庸の				kuai2.pk				
-551	qexua	名詞		絵、イメージ				keca.tk				
-552	qoda	名詞	豆	豆				kuot1.pk				
-553	qusiai	名詞		樹脂					quci'e			
-554	quvoo	動詞	塩	塩漬けにする	gio	230	関連語	kuo1.pk, ghíyo.bt				
-555	raijei	名詞		貴かんらん石、クリソライト					dacrarje			
-556	raishe	動詞		格闘する、闘う					rerx			
-557	reae	名詞	軸	軸、茎、棒、(グラスの)脚				la1.pk, e.bt				
-558	requa	名詞		泥				rek.bt				
-559	reto	名詞	雪	雪				let1.pk				
-560	rit'io	名詞		コウモリ					riti'a			
-561	rita	動詞	入	入れる				lit2.pk, ídúḷ.bt				
-562	riwei	動詞		抑圧する					irvej			
-563	rizi	名詞		温度								
-564	roblai	名詞		くしゃみ					roble			
-565	roku	名詞	笛	笛				lok1.pk				
-566	rutwu	形容詞	渋	渋い				rutoṣí.bt				
-567	s^esoa	名詞		手下、配下					xaksversar		理語辞書ではsúesoa	
-568	s^ibau	動詞；動詞		抽出する；引用する					curibaj		理語辞書ではsúibar	
-569	s^odzou	形容詞		偶然の、運任せの					sudz		理語辞書ではsúodzou	
-570	s^udea	名詞		金網					eucsurda, csurda		理語辞典ではsúudea	
-571	s^ut'uu	名詞		間違い、ミス					xturkhurte			
-572	sahu	名詞		双数				ṣahe.bt?, ṣe.bt?			sahuaと同根か。	
-573	sahua	名詞		二項式				ṣahe.bt?, ṣe.bt?			sahuと同根か。	
-574	saiguu	名詞		魚醤	chaula	128	同根語		ceg			
-575	saingoai	形容詞		不意に、突然に				seṇa.bt				
-576	sainiu	名詞		上衣、ベスト、チョッキ				cainíju.bt				
-577	sakika	動詞	来	来る	-sakka	846	同根語	sak2.pk, srakkq.ln, cákíkúḷ.bt, rakkúḷ.bt, sáka.bt, sakká.bt, cákíkaúḷ.bt, cak-u.tk				
-578	sakitu	名詞		やかん					cakirt			
-579	sami	動詞	急	急ぐ	sam	839	派生関係	sam1.pk				
-580	samiki	形容詞		新しい					cerkmern			
-581	sap'ea	形容詞		古い					fengguasapea			
-582	sasia	名詞		姉					carxa			
-583	sati	名詞	素	もと、素、原料				sat1.pk				
-584	sau	名詞	上	上				sau2.pk, co-lu.tk				
-585	saupu	名詞	獣	獣、けだもの				saup1.pk				
-586	sauta	動詞		乗る							sauとの関連が疑われている。	
-587	seai	名詞		厄介ごと、もめごと、問題								
-588	seloo	動詞		聞き違える					axorlaselar			
-589	sephu	動詞	享	借りる	sepai	815	同根語	sep.pk				
-590	shaimai	名詞		四角形				xaimai.pmcf				
-591	shaute	形容詞		最初の、初めの					xauternaz			
-592	sheau	名詞	意	意味、価値				xa2.pk				
-593	shoke	形容詞		背の、裏の					xaksversar			
-594	shomu	動詞	積	積み上げる	shomukhazu	595	派生関係	xom1.pk, ṣoma.bt, coma.tk, com-u.tk				
-595	shomukhazu	名詞	積	堤防	shomu, khazu	594, 353	派生関係；派生関係					
-596	shousa	形容詞	穏	穏やかな、優しい				cosa-lu.tk				
-597	sikina	動詞		よける、避ける					cikina			
-598	sinisa	名詞	名	名前				sin1.pk				
-599	sinu	名詞		生理					cakstinernzirn			
-600	sip'ui	名詞	国	国、地方、郷里				sip1.pk, síbha.bt, ṣibhai.bt, cima.tk				
-601	sisata	動詞		なくなる					korsissatit			
-602	sitana	名詞		触覚					sirtna			
-603	sitika	名詞	蜜	蜜、ハチミツ				sik2.pk				
-604	situsu	名詞	埴	粘土				sít.bt	stuc			
-605	situu	名詞	術	手段、方法、対策				sit1.pk				
-606	siusa	名詞	天	天、空、天空				syt2.pk, ṣúsa.bt				
-607	sono	名詞	前	前				son1.pk				
-608	soqoai	形容詞		不完全な					saqermisero			
-609	suu	名詞	銭	金、ズー				su1.pk, suúḷ.bt	sur			
-610	sua	名詞		円錐、円錐形				cuwa.pmcp				
-611	suaki	接続詞		そして					korsissatit			
-612	suama	名詞		商売、商い					sarma			
-613	sui	動詞	使	使う				sui1.pk, sujúḷ.bt				
-614	suisamia	形容詞		中性の					jancaek			
-615	suka	名詞		いつ				coghi.bt				
-616	suki	名詞		スキ（アイル民族の古い名称）					menyrkskir			
-617	sukisu	名詞		神経、経絡					cakstinern			
-618	sulou	名詞		ハッカ、ミント				súḷa.bt, suḷorúḷ.bt				
-619	suna	名詞	五	五、5				un1.pk, ṣán.bt, cuna.tk				
-620	sunama	名詞		(筋肉の)膜					cunam			
-621	suqui	動詞		詐欺、だます					agesquik			
-622	susi	名詞	孰	どれ	susie	837	同根語	cu.tk				
-623	sutiki	名詞		哺乳類					incuturk			
-624	suvoo	動詞		～すぎる				síyoúḷ.bt		chabbama modo suvoos「彼は殺しすぎた」		
-625	t'aitaiu	間投詞	咍	なんとまあ！				tai.pk, deja.bt				
-626	t'edzou	動詞		赤面する					turx		理語辞書ではtóedzou	
-627	t^ebaia	名詞		苦役、骨折り仕事					tue		理語辞書ではtúebaia	
-628	t^enuai	名詞		列車								
-629	t^es'aiai	名詞；動詞		爆竹；爆竹を鳴らす					tesarja			
-630	tacoa	動詞		後に続く、遅れてくる				dácúḷ.bt, dáṣ.bt				
-631	tadui	名詞		カメムシ					tadyr			
-632	tai	名詞		エネルギー、力					tinirza			
-633	taide	名詞	鶏	鶏、ニワトリ				dhet.bt, tetien.li?				
-634	taik'eo	名詞		ブラジャー					tekor			
-635	taishei	名詞		奴隷					terxe			
-636	taku	名詞；名詞	衣	服；（ゲームの）盤				tak1.pk				
-637	tana	名詞	南	南				tan1.pk				
-638	tananu	動詞		驚く								
-639	tanu	動詞		～してもよい				danúḷ.bt				
-640	taoe	名詞		基盤					tarj			
-641	taseai	動詞		暴風が吹く					tasierjupuj			
-642	tasiku	名詞		防御				taciku.pmcp				
-643	tata	副詞；後置詞	唯	ただ；～のみ、だけ				tet.pk, dat.bt, tetu.tk				
-644	tatami	名詞	体	身体、からだ				tat2.pk				
-645	tatiu	名詞		遺跡					taxur			
-646	tatusa	名詞		王朝、王国				atesè.vef				
-647	tauhi	名詞	文	文、文章、フレーズ				tauk1.pk				
-648	taupwo	名詞	端	縁、へり、辺境、外れ				tau2.pk, daupha.bt, dáp.bt				
-649	tedzii	名詞		長い間					texlis			
-650	teire	名詞		日に灼けた					terre			
-651	tenye	動詞	混	かき混ぜる、かき回す	tenden	833	関連語	ten1.pk				
-652	thaise	動詞		聞く、聞こえる				dheseúḷ.bt				
-653	thana	名詞		のこぎり					thana			
-654	theicho	名詞		(新しい)発見				dhezáúḷ.bt				
-655	thiblei	名詞		炭化水素					thilejaxerg			
-656	tibaie	後置詞？		～ということ				díma.bt				
-657	timini	副詞		頻繁に								
-658	timiu	名詞		田舎					timirve			
-659	tinanu	名詞		伝令					cakstinern			
-660	tiniki	名詞		ツル、鶴				díghi.bt	tenierk			
-661	tisi	名詞	其	それ	chesi	130	同義語	ti.tk, dí.bt				
-662	tisia	名詞	茶	茶				tia2.pk				
-663	titati	動詞		死ぬ								
-664	titimu	動詞	待	待つ				tim1.pk				
-665	titu	形容詞	正	正しい				tit1.pk				
-666	titusu	動詞		殺す					korsissatit			
-667	tiu	副詞	再	再び				ty.pk, tiu.bt				
-668	tiua	動詞	従	従う				tia1.pk				
-669	tiuna	名詞	左	左				tyn1.pk, tijuna.pmcp				
-670	tixuo	名詞；名詞	花	花、草花；最良の部分				xuo1.pk, díṣlo.bt				
-671	tobai	副詞		すでに、もう								
-672	tobwu	名詞	樽	容器				to2.pk, ton.tk				
-673	toca	形容詞		尊敬すべき				ṭác.bt				
-674	topo	動詞		ある								
-675	tubi	動詞		打つ				tup1.az				
-676	tui	動詞	与	与える、～してあげる				tui2.pk, ḍujúḷ.bt				
-677	tukaie	名詞	網	金網、焼き網				tuk2.pk, doghajúḷ.bt				
-678	tukumuku	名詞		陸橋、歩道橋				mit mit.pk				
-679	tuma	名詞		誰				doma.bt				
-680	tuma-na	名詞		誰か				domana.bt				
-681	tumi	形容詞	甘	甘い				tum1.pk				
-682	tumiti	名詞		概念					xymizir			
-683	tunii	動詞		予定する				tuni.pmcp				
-684	tunu	名詞	神	神				tun1.pk, tuna.tk				
-685	tunuki	動詞		終わる								
-686	tut^oe	名詞	毎	それぞれ				tut1.pk				
-687	twaji	形容詞	遠	遠い、はるかな				tuai2.pk				
-688	twikei	名詞	味	味、味覚、趣味、好み				tuik1.pk				
-689	twouno	名詞		ナツメヤシ				ṭánasácú.bt, ṭánadhokit.bt				
-690	twuphu	名詞		マンゴー					tverfe			
-691	ugurief	名詞		自身					agrief			
-692	uki	名詞	男	男	-ki	3	派生関係	ki1.pk, kí.bt				
-693	uku	名詞	物	者、物	-ku	4	派生関係	ku.pk, k.bt				
-694	umi	名詞；形容詞	三	三、3；三つの				om2.pk, lom.bt, umu.tk			活用の際に長子音化が起こらない。	
-695	umu	名詞；形容詞	千	千；千の				mu1.az				
-696	umumu	名詞		市場					iumim			
-697	usa	名詞	女	女	-sa	7	派生関係	sa1.pk, sá.bt, ca.tk				
-698	utata	名詞		話					ytarta			
-699	utiku	名詞		自分、自己、自我	tina	772	関連語	untik.pmcp	untirk		学問的なニュアンスが強い語である。一般的な再帰の意味ではもっぱらtinaを用いる。	
-700	utu	名詞	下	下	uttuja, utuja	763, 844	派生関係；派生関係	ut2.pk				
-701	utui	動詞	遊	遊ぶ				tu2.pk, rúṣ.bt				
-702	utuka	動詞		降りる							utuとの関連が疑われている。	
-703	vas^iai	名詞		氏族、クラン、派閥					farxaj			
-704	vedii	名詞；動詞		テレパシー；頭の中で話す					vedir			
-705	vefica	名詞		ヴェフィス								
-706	vezoe	名詞；形容詞	山	山、山岳；たくさんの				zo1.pk				
-707	vililizi	動詞		転覆する、ひっくりかえる					vililirz			
-708	webwei	名詞		紐穴								
-709	wechu	動詞；動詞		差し迫る；せき立てる					hormarverdzar			
-710	weikhou	動詞		通り抜ける、横切る				wákahúḷ.bt				
-711	wequu	名詞		向こう側				wekupolto.pmcp				
-712	wesi	名詞；形容詞	万	万；一万の				ue1.pk, ue1.az				
-713	witeai	形容詞		無作法な、失礼な、無礼な					witer			
-714	wuaxu	形容詞	無	ない (無い, 亡い)				háṣin.bt, wac-u.tk				
-715	wuo	形容詞；形容詞；名詞	件	現実の、実在の；本当の、本物の；ものごと、案件				uo1.pk, ho.bt				
-716	wupwei	動詞	穴	穴をあける、穿孔				uep.pk				
-717	wutwa	名詞		習慣					adwirdurta			
-718	xadoo	名詞		手品、奇術					xador			
-719	xaigue	名詞；名詞		絵、図、イラスト、影、像；比喩					karnaxerge			
-720	xaingau	名詞		原油、石油					thilejaxerg			
-721	xangei	名詞		後輩、後継者					xane			
-722	xatwa	名詞		先輩、先人					xatva			
-723	xauau	名詞；動詞	歌	歌、さえずり、ウィット；歌う				xau1.pk, ṣahúḷ.bt				
-724	xaunge	名詞？		食肉目(？)					cauxarnekorxa, cauxarne		取り入れられた理語側での意味に不整合	
-725	xefoo	名詞；名詞；問いただす	謎	謎、不思議、秘密；秘儀、奥義；問いただす				xep2.pk				
-726	xeh^eu	名詞；形容詞	夏	夏；夏の				xo1.pk, ṣárahúḷ.bt				
-727	xemo	名詞	月	月				xem1.pk, cemo.tk				
-728	xepee	形容詞		大きい				xerf.li?, xep.pmcp?	xpelai'r			
-729	xidi	名詞；名詞	故	理由、動機、根拠；モチーフ、主題				xit2.pk				
-730	xisa	名詞	足	足、脚、あし				xi1.pk, ṣíṣ.bt, cisa.tk				
-731	xiyu	名詞；名詞；動詞	裁	判断；（ゲームの）投げ棒；裁く、判断する、審判する				xy1.pk, ṣíya.bt		A-mo B-mo C-nu xiyu「AはBをCとみなす」		
-732	xota	名詞	季	季節				xot1.pk				
-733	xoudo	形容詞	錘	重い				xo2.pk, ṣot.bt				
-734	xoupwei	副詞		～もまた								
-735	xufoa	名詞；形容詞；動詞	豊	豊かさ；豊かである；豊かにする、栄えさせる				ho1.pk				
-736	yanio	動詞	横	横、横切る				jano.tk				
-737	yeho	動詞		解散する								
-738	yikho	名詞	西	西				yk2.pk				
-739	yodai	動詞		沈む、もぐる				josedúḷ.bt				
-740	yoma	動詞		拾う				jomúḷ.bt				
-741	yubui	名詞	後	背中、裏、後ろ				yp.pk				
-742	yuh^aa	動詞	磨	磨く				ia1.pk, joraúḷ.bt				
-743	yujo	接続詞	亦	または				y.pk, jo.bt, o.tk				
-744	yunyu	名詞	官	政府、自治体、当局				y1.pk, joṇu.bt				
-745	yuwiu	接続詞		もし～なら、～である場合				hemijoya.bt, joya.bt			現代ではhubwaに役割を奪われており、ほぼ使われない。	
-746	-za	接尾辞		（古語）副詞化語尾					xauternazなど多数		現代では生産性を失っており、痕跡的にしか残っていない。	
-747	zabee	名詞	全	全部	anau	45	関連語	be1.pk, bhá-.bt				
-748	zablei	名詞		網膜					cablei			
-749	zagoo	名詞		ソース、液体の調味料					cardza			
-750	zaih^eu	名詞		中毒、依存症					caikheu			
-751	zaiha	名詞		展示、露出					zerhes			
-752	zaseo	形容詞		少ない、少量の					firjal			
-753	zenge	名詞		アンモニア					zeng			
-754	zieo	動詞	広	広がる、伸びる				zi1.pk				
-755	ziphei	動詞	失	～をなくす、失う				zit1.pk	blofeziphera			
-756	zisho	副詞		さらに、続けて								
-757	zugatie	動詞		まとめる					sgati'ar			
-758	zugihasu	動詞		水を撒く					zgias			
-759	zuhiasuka	名詞		先生、教師、教授	zuhio, asuka	760, 50	派生関係；派生関係					
-760	zuhio	名詞		動機付け、理由付け								
-761	zunaii	名詞	論	論理、論証、推論				zui1.pk, cun.tk				
-762	kaisa akia	間投詞	善日	こんにちは				kait kia1.pk				
-763	uttuja	形容詞		下賤な、低俗な、卑しい	utu	700	派生関係					
-764	phokhou	動詞	増	増える								
-765	simua	動詞		減る								
-766	sawasuka	名詞	上人	偉人、地位のある人、立派な人	sau, asuka	584, 50	派生関係；派生関係	sau2 cuk2.pk				
-767	mahe	動詞		作る、～へと変化させる								
-768	kinuti	名詞		鍋							kinuti < kin + *uti 説が唱えられており、金属製の鍋に限定されるかもしれない	
-769	ahou	形容詞；形容詞	軟	軟らかい；簡単な				ho.pk				
-770	takina	動詞		与える				dákínúḷ.bt				
-771	mimi	動詞	引	引く				mi2.pk				
-772	tina	名詞	己	自分、おのれ	utiku	699	関連語	tin1.pk, dína.bt, tina.tk			学問的な自我としての自分自身の意味にはutikuが用いられる。	
-773	nyoupi	形容詞	賢	賢い、利口な								
-774	twoshou	動詞	呻	うめく、うなる、嘆く								
-775	k'ewo	名詞；形容詞	呉	クレオス；クレオスの				kot2.pk				
-776	tiyaai	形容詞；副詞	反	反対の；反対に								
-777	soshi	形容詞；動詞	逆	逆さの；逆さにする、ひっくり返す								
-778	soshi	接続詞	逆道	逆に							主客が入れ替わるようなときにしか使えず、対照を示すような場合には使えない。	
-779	sania	名詞	顔	顔				san1.pk			sono【前】との関連が疑われている	
-780	cwouphima	名詞		（人名）	cwouphi	161	派生関係					
-781	pochu	名詞	竹	竹								
-782	tegu	動詞		（時間が）経過する								
-783	satamu	名詞		スズ、錫								
-784	chauna	名詞		銀								
-785	ceecimu	名詞		セーシム							穀物の粉で作った生地を焼いて、肉や野菜など好きな具を包んで食べる料理。アイルの家庭料理であるが、上手に生地を焼くのには技量が要求されるため、屋台で食べられることも多い。同様の料理はラネーメに広く知られる。	
-786	h^ibao	形容詞	飢	空腹な、飢えている	kat^oe	344	対義語					
-787	sishu	動詞	下行	負ける、敗北する								
-788	h^ibao tejanuma tunupokunu sishur	熟語	無口叮生行下神赤	飢える叮生神赤に敗る、「腹が減っては戦はできぬ」								
-789	pusho	動詞		取る、手に入れる、持ち上げる、選ぶ	guko	231	関連語				gukoに比べると積極性、意志性が強い語である。	
-790	cwatu	動詞	斥	捨てる				cuat.pk				
-791	titiu	副詞	再再	繰り返して、何度も								
-792	taunyuroe	名詞	多少	数（の大きさ）、多寡	maka	407	関連語	taun1 hue1.pk			多いか少ないかに着目して数を見るときの語。	
-793	aniu	動詞		触れる、接触する								
-794	hepe	名詞	処	場所	-hep, hep'iai	2, 253	派生関係；派生関係	hue.pk, epa.bt				
-795	naipicho	動詞	労	はたらく、頑張る、働く	naipei	451	派生関係					
-796	sauxiyu	名詞；動詞	上裁	準備、事前の用意、根回し；準備する、事前に用意する	sau, xiyu	584, 731	派生関係；派生関係	sau2 xy1.pk		sauja akiaga gattuma sauxiyu liwor. 明日の祭りの準備をしなければ。；xiyuga sauxiyu 裁判の準備		
-797	bupuchuwo	名詞	歪片	ワイルドカード、（トランプの）ジョーカー	chuwo	139	派生関係	bup1 zuo1.pk			パイグ語からの借用。	
-798	ba	接続詞	加	～と								
-799	xelukani	動詞		無視する、黙殺する、放置する							リパライン語xelnkanからの借用。	
-800	chuwaku	名詞	片；片時；時片	（単位としての）時間、ツオ	chuwo	139	派生関係	zuo1 kak.pk			一日を百等分したうちの一。リパラオネでいう1080stususnであり、現世で言うと15分弱。	
-801	kuwasuka	名詞	筆	事務官				kua2 cuk2.pk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。	
-802	kaikasuka	名詞	兵	実働官				kaik cuk2.pk, kekacuka.tk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。	
-803	huagei	名詞；形容詞	黄	黄色；黄色い	huangi, khaicwi	263, 352	関連語；類義語					
-804	kanide	名詞；形容詞	赤	赤；赤い	kani	337	派生関係					
-805	deiphe	名詞；形容詞	青	青；青い								
-806	huroja	名詞；形容詞	黒	黒；黒い	huroo	268	派生関係					
-807	ohinyeka	名詞	友連	組み合わせ	ohi, nyeka	511, 505	派生関係；派生関係					
-808	niukina	名詞	律	ルール、規則							リパライン語niukirnaからの借用。	
-809	p'ujae	動詞	囲	包囲する、取り囲む								
-810	p'ija	名詞	囲	（図や盤における）マス目							パイグ語からの借用。	
-811	mun	名詞	無	ゼロ、（ゲームにおける）「無」、「0」							パイグ語からの借用。	
-812	susitu	名詞		中央、中心							リパライン語sysitからの借用。	
-813	shomamaka	名詞	積値	合計値	shomu, maka	594, 407	派生関係；派生関係					
-814	imiku	名詞	思	考え、思い	imika	281	派生関係					
-815	sepai	動詞	享	収穫する、刈り入れる、採取する	sephu	589	同根語	sep.pk				
-816	wakaja	形容詞	妙	特殊な、特別な、普通でない								
-817	docuna	動詞		返す、戻す、返却する							リパライン語dosnaからの借用。	
-818	reasuka	名詞	軸人	（ゲームの）親				la1 cuk2.pk			パイグ語からの翻訳借用。	
-819	aikachuwo	名詞	光片	（ゲームの）光駒、ドラ	chuwo	139	派生関係	aik2 zuo1.pk			パイグ語からの翻訳借用。	
-820	tasami	形容詞	多	多い								
-821	aupwau	名詞		銅								
-822	aibledu	動詞		軽蔑する、侮蔑する							リパライン語ayplerdからの借用。	
-823	cepu	名詞；名詞	集	（中央政府の）省；（行政機関としての）地方自治体	dado	164	関連語				東島通商語CEPからの借用。	
-824	sooh^a	名詞；動詞	上行	勝利；勝つ							sauとの関連が疑われている。	
-825	tweikou	動詞	残	残る				tuek.pk				
-826	k'uwai	名詞	翰	（人名）				kuai1.pk				
-827	al	小辞		（形容詞の後について比較級を表す）								
-828	leinu	名詞	銭軸	会社、企業							リパライン語lerynからの借用。	
-829	twaupei	動詞		飼いならす、慣れさせる						amuama lutwu leinunu tobai twaupei gukor? 「新しい会社にはもう慣れた？」		
-830	guaqa	名詞	眉	眉毛								
-831	lafimete	名詞		専門家							リパライン語lafirmeterからの借用。	
-832	matuka	動詞		盗む								
-833	tenden	形容詞；副詞	混混	ぐちゃぐちゃである、滅茶苦茶である；グツグツと	tenye	651	関連語	ten1 ten1.pk			オノマトペからの派生と思われる	
-834	mohohep	名詞		目的地、目標、ゴール	moho, -hep	439, 2	派生関係；派生関係					
-835	tamunua	名詞	皇水	（ゲームの）皇水、タムヌア				tam2 nua2.pk			パイグ語からの借用。	
-836	tamuzo	名詞	皇山	（ゲームの）皇山、タムツォ				tam2 zuo1.pk			パイグ語からの借用。	
-837	susie	形容詞	孰	どの～でも	susi	622	同根語	cu.tk		susie poggoma pusshomo kaisa. 「どの色を選んでもよい」	英語で言うany, whateverの意味である。	
-838	aiki	名詞	光男	（人名）	aika, uki	19, 692	派生関係；派生関係					
-839	sam	副詞	急	早く、さっさと、急いで	sami	579	派生関係				語源意識によりsamとつづられるが、発音は/zã/である。	
-840	kaisa hiya	間投詞	心善	ありがとう	kaisa, hiya	330, 256	派生関係；派生関係	hia1 kait.pk		tauhim tuine kaisa hiyar. 「手紙をくれてありがとう」		
-841	vaoa	動詞		祝う、祝福する								
-842	sira ki hiyar iwa lutwu hanu mohor	動詞	心古行新	温故知新、「古きを心いて新しきへ行く」								
-843	sauja	形容詞	上	先の、前回の	sau	584	派生関係					
-844	utuja	形容詞	下	後の、次回の	utu	700	派生関係					
-845	-moo	接尾辞	行	外へ、向こう側へ	moho	439	同根語					
-846	-sakka	接尾辞	来	内へ、こちら側へ	sakika	577	同根語					
-847	bliblo	名詞；形容詞	地心	文化；文化的な、文化の								
-848	geda	動詞		歩く								
-849	umua	名詞；動詞	船	船；運ぶ				muak1.pk				
-850	umuamoo	動詞	船行	送り出す、輸出する	umua, -moo	849, 845	派生関係；派生関係					
-851	umuasakka	動詞	船来	運び入れる、輸入する	umua, -sakka	849, 846	派生関係；派生関係					
-852	kitua	名詞		明かり、たいまつ								
-853	-ngau	接尾辞	刀	道具などを表す				gau2.pk			燐字は刀があてられているが、「かたな」とは同音の別語であると考えられている。	
-854	utuingau	名詞	遊刀	おもちゃ	utui, -ngau	701, 853	派生関係；派生関係	tu2 gau2.pk				
-855	anawasuka	名詞	全人	皆さん	anau, asuka	45, 50	派生関係；派生関係					
+ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	関連する理語	例文	備考
+2	-hep	接尾辞	処	場所	hep'iai, hepe	253, 794	派生関係；派生関係				
+3	-ki	接尾辞	男	男、おとこ	uki	692	派生関係				
+4	-ku	接尾辞	物	物、もの	uku	693	派生関係				
+5	-ma	接尾辞	大	大きい	amama	39	派生関係				
+6	-ni	接尾辞	小	小さい	inini	286	派生関係				
+7	-sa	接尾辞	女	女、おんな	usa	697	派生関係				
+8	a	間投詞	噫	あ				a.pek, há.bt, a.tk			
+9	a	後置詞；後置詞	之	～の；～である				a.pk, a.tk, -án.bt			
+10	abudijei	名詞		汚染防止					abdijery		
+11	acau	動詞	能	～する能力がある、～することができる				c-u.tk, ácahúl.bt			
+12	acii	動詞	辿	道をたどる				aci-lu.tk, accúl.bt			
+13	adwirede	名詞		人肉食					adwirdurta		
+14	age	形容詞		仮の、臨時の、一時的な	akui	33	同根語	ághai.bt	irxe		
+15	aguvii	形容詞		せっかちな、気が早い					agvir		
+16	aifeu	名詞		子供、こども、(人の)子					fevaiarj, gekarifew		
+17	aihei	名詞	冠	王冠				ai2.pk, ehai.bt			
+18	aihou	間投詞		じゃあ！					aihou		
+19	aika	名詞	光	光、ひかり、光線				aik2.pk, eka-lu.tk			
+20	aima	動詞	在	ある、存在する				aim2.pk			
+21	aimu	後置詞；動詞	如	～のような、～のごとく；～のようである				em.pk, ema.bt, -aim.bt, -waim.bt, mu-lu.tk			
+22	aipa	動詞；動詞	倒	落ちる、落下する、転ぶ；(転じて)滅びる				aip1.pk, ephaúḷ.bt			
+23	aipwau	形容詞；形容詞	乾	乾いた、干からびた、乾燥した；(転じて)そっけない、無味乾燥な				puau1.pk	evoradz		
+24	airaniija	名詞		アイラニーヤ							理語を母語とするアイル人のこと
+25	airu	名詞	冠	アイル				ai2.pk			理語の影響でai'r、東島通商語の影響でailと綴られることも多い。
+26	aisaa	名詞		種					sarcvakh		
+27	ait'ee	名詞		牢、監獄、独房					etaj		理語辞書ではaitóee
+28	akai	名詞	血	血				kai1.pk, ághi.bt			
+29	akata	名詞	書	書物				ak1.pk, aghauṭa.bt, ákúḷ.bt			
+30	ake	名詞		火山弾					mammake		
+31	aki	動詞		～させる、～せる							
+32	akia	名詞	日	太陽、日				kia1.pk, ákíjam.bt, kija.tk			
+33	akui	形容詞		仮、仮の	age	14	同根語	ághai.bt			
+34	akunu	名詞		貴様、きさま、てめえ	amua	41	類義語				カジュアルな会話やモノローグで用いる二人称。
+35	akuti	名詞		香辛料、スパイス				ághat.bt			
+36	alazama	名詞		魅力、色気					alzarm		
+37	ale	名詞		生体反応					aledzvaju, arcilanwif		
+38	aluai	名詞		祭り				alwe.pmcp	alve		
+39	amama	形容詞	大	大きい	-ma, ami	5, 40	派生関係；関連語	ma1.pk, amáma.bt			
+40	ami	形容詞	御	偉大な、すごい	amama	39	関連語	am.pk, amúḷ.bt			
+41	amua	名詞	汝	あなた、貴方、君	akunu	34	類義語	mua2.pk, ma.tk			akunuよりも丁寧な二人称。フォーマルな場でも、カジュアルな会話でも用いられる。
+42	amui	名詞	魚	（生き物としての）魚	chaula	128	関連語	mui1.pk, amila.bt			食材や料理としての魚にはchaulaを用いる。
+43	amunu	動詞	無	ない、存在しない、いない				mun1.pk, ám.bt			
+44	anaa	形容詞	静	静かだ、静かな、そっと、小声で				na1.pk, na-lu.tk			
+45	anau	連体詞	全	全ての	zabee	747	関連語	nau.bt, ano.tk, nau1.az			
+46	apo	形容詞		安い					apo		
+47	asi	名詞；形容詞	一	いち、一、1；一つの、ひとつの				lási.bt, asi.tk			活用の際に長子音化が起こらない。
+48	asiti	名詞		ハーブ				rásitúḷ.bt	korniusti'e		
+49	asiu	名詞	石	石、岩、岩石				sy2.pk, asíjaúḷ.bt			
+50	asuka	名詞	人	ヒト、人間				suk2.pk, cuka.tk			
+51	ata	名詞；動詞	目	目、眼；見る				ta1.pk, ata.tk			
+52	atamu	名詞	皇	皇、タム、皇帝				tam2.pk, aṭam.bt, takan.tk, takamu.tk			
+53	ateai	動詞	帝	座っている、君臨する				adheṣ.bt, ales.li?			
+54	atini	名詞		浜、浜辺、はま				ádhín.bt			
+55	aube	動詞		推薦する、推奨する、勧める、紹介する					aubes		
+56	aumi	名詞	傾	坂				aum2.pk, aumúḷ.bt			
+57	avii	名詞		事態、局面、情勢					avir		リパライン語avirからの借用。
+58	aybajis	名詞		文字					arvifit		
+59	ayua	後置詞		は				ja.tk?			
+60	bachau	形容詞	白	白い、しろい				bházahúḷ.bt			
+61	baeai	名詞	糸	綿糸				bai2.pk			
+62	baibae	形容詞；形容詞；副詞	同	変わらない、同様な；（処格）と同じである；～も、同じく				bap.pk, bhápúḷ.bt			
+63	baibia	名詞	民	人民、民衆、国民				bia1.pk			
+64	baihaiu	形容詞	遅	遅い、遅れた				baik.pk, bháheúḷ.bt			
+65	baiza	名詞	膠	魚膠				bait.pk			
+66	bake	名詞		どこ							
+67	bangai	形容詞		食べられない					banerdex		
+68	beca'ymo	名詞		カワウソ					becajm		
+69	bet'aa	名詞	圧	圧縮				bet2.pk			
+70	bexaiai	名詞		連鎖反応					bexe		
+71	bihuo	後置詞		～のそばに							
+72	biwuu	動詞	訴	口説く、言い寄る				u1.pk			
+73	bladai	名詞		農奴					blard		
+74	blecwa	動詞		委託、委任、任せる					blesva		リパライン語blesvaからの借用。
+75	blekhau	名詞		スモモ、李、プラム					blerkh		
+76	blibwau	名詞		鳩、ハト					blirba		
+77	blimou	名詞		灯台					blim		
+78	blohai	名詞		独裁、絶対的権力				bhoḷog.bt, bhoheáḷ.bt, bhoḷorúḷ.bt	blofeziphera		
+79	blokhei	形容詞		砂の、砂でできた					bleiformajera		
+80	blouka	形容詞		中性の、中立な、第三者の					blowka		リパライン語blowkaからの借用。
+81	bloulu	形容詞	夢	想像できる				olu?.tk			
+82	bloungu	名詞		干しブドウ					bloung		
+83	blouxai	名詞		軌道、弾道、跡					aplauxme		
+84	blubla	形容詞；形容詞	歪	曲がった、歪んだ；傾いた、遠回りの				bup2.pk, ula.tk			
+85	bluuja	名詞		天啓、神の声、素晴らしい美声					blurja		リパライン語blurjaからの借用。
+86	bohai	動詞		交換する				bhoheúḷ.bt			
+87	bokua	名詞	我	俺、おれ、あたし	dipai	174	類義語				カジュアルな会話やモノローグで用いる一人称。dipaiよりもややくだけた、あるいは粗野な印象を与える。
+88	bongiai	名詞		雑談					bong'ia		
+89	bot'oo	名詞	凹	穴、くぼみ、へこみ				bot1.pk			
+90	botwu	形容詞		無意味な、くだらない							
+91	boungau	名詞	筒	円筒、円柱、シリンダー、枠				bon2.pk			
+92	bowa	動詞	満	(潮が)満ちる				bo1.pk, bhoúḷ.bt, mo-lu.bt			
+93	buia	名詞		数字				bhájabáni.bt			
+94	buka	名詞		これ				ka1.pk?			くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。
+95	bunae	動詞	鼓？	ぶつかり合う、押し合う				bum1.pk?			
+96	buou	名詞	箱	ケース、箱、容器				bu1.pk			
+97	buwo	動詞	包	包む、包装する				bo1.pk			
+98	bwaulu	動詞；動詞	迷	誤る、間違える；道に迷う				bau2.pk			
+99	bwikha	名詞；名詞		肉、肉体；果肉					pheini'avirga		
+100	bwila	動詞		(すき、そり、馬車などに)つなぐ							
+101	bwogo	名詞	獣	駄獣、荷を引かせる家畜	pwugo	549	関連語				
+102	bwoxou	動詞		立ち上がる、起きる				bhoṣahúḷ.bt			
+103	bwuzei	名詞		暗い気分					pzeniatz		
+104	cache	動詞		掘りだす、発掘する				cazúḷ.bt			
+105	cah^iu	動詞		二つに分かれる				ṣahe.bt?, ṣe.bt?			
+106	cahu	動詞		(堤防などで)せき止める	cwaho	155	同根語	cahúḷ.bt			
+107	camou	名詞		料理人					xamor		
+108	canai	動詞	識	認識する、考える				can2.pk, cánajúḷ.bt			
+109	capaiu	名詞		オパール				ṣabhahu.bt			
+110	capau	形容詞		食べられる、食用の					capaudex		
+111	capi	動詞；動詞		発生する、起こる、生じる；[生物]発生する							
+112	casa	名詞；名詞		蘭、ラン；茶番				caca.pmcp	casarmanugarki		
+113	cauyau	後置詞；副詞		～とともに、～と一緒に；一緒に				cájau.bt			
+114	caxou	形容詞	恒	永遠に、いつまでも、ずっと				cac-u.tk			
+115	cee	動詞	巻	渦巻く、旋回する				ze2.pk, zeúḷ.bt, zekáta.bt			
+116	ceinyo	名詞		丘、小山、丘陵					ceiny		
+117	ceiti	名詞		国					gamyrxert		
+118	ceixei	形容詞	近	近い、近接した	ceyuu	121	同根語	cajúḷ.bt			
+119	celo	名詞		学校					demozel		
+120	ceta	名詞	机	机				cet2.pk			
+121	ceyuu	形容詞	周	周囲の、周辺の	ceixei	118	同根語	cei2.pk, cajúḷ.bt, cai.bt			
+122	chaba	名詞	彼	彼、かれ				zap2.pk			
+123	chade	形容詞	怖	こわい、怖い				zat1.pk, zádeúḷ.bt			
+124	chaitau	名詞		カエル、蛙				chaitaus.vef			
+125	chame	形容詞		たのもしい				zámúḷ.bt			
+126	chasu	名詞		セルロース					chas		
+127	chauchu	動詞	為	する、行う				zau.pk, zúḷ.bt			
+128	chaula	名詞		（食材としての）魚	amui, koxua, saiguu	42, 371, 574	関連語；関連語；関連語		xorla		魚から作られた食材全般を指せる言葉であり、切り身や団子、干物や酢漬けといったものまで含む。
+129	chepo	名詞；動詞	言	言語；話す				zep1.pk, zepha.bt, cepatepa.bt, cema-lu.tk			
+130	chesi	名詞	其	それ	chesim, tisi	131, 661	派生関係；同義語	ze1.pk			
+131	chesim	間投詞		ああ、なるほど	chesi	130	派生関係				
+132	chexu	動詞		絡める、（腕や足を）組む					tjerx		
+133	chigo	形容詞		規則的な、系統的な、組織的な、整然とした				zíghúḷ.bt			
+134	chisha	名詞	質	性質				zit1.pk			
+135	chixu	名詞		時計				zíghíṣ,bt			
+136	chobu	名詞		本							
+137	chogau	名詞		料理、調理					xorga		
+138	choma	副詞		たびたび、なんども							
+139	chuwo	名詞；名詞	片	かけら；（ゲームの）駒				zuo1.pk	chuvo		
+140	cica	名詞	吏；宦	地方公務員							
+141	cidoxile	動詞		はさむ					cedoxirle		
+142	cikau	名詞		写真							
+143	cikau	動詞	座	座る	ciwi	147	同根語	cy2.pk, ṣíkahúḷ.bt, cik-u.tk			
+144	cira	形容詞	古	古い、青銅の				sia2.pk			
+145	citua	動詞；動詞		脅かす、脅迫する；～する恐れがある					xitua		リパライン語xituaからの借用。
+146	civeo	名詞		制服、ユニフォーム					civior		リパライン語civiorからの借用。
+147	ciwi	名詞	席	椅子、席、座席	cikau	143	同根語	cy2.pk, ṣíkahúḷ.bt, cik-u.tk			
+148	cizeu	動詞		売れる					ciziur		
+149	coucu	名詞	餅	餅					cuscadex		粉を練って成形した食べ物のうち、麺でないものを指す。
+150	couyau	名詞	壁	一続きの壁				co1.pk, ṣoya.bt			
+151	cuadu	名詞		手のひら					menaxarde		理語辞典ではcuaduä
+152	cubotu'i	名詞		象牙色、クリーム色					cpatirt		
+153	cunya	接続詞		しかし、だが				ṣiṇṇa.bt			
+154	curau	動詞		切り刻む					cauxange, cauxarnekorxa		
+155	cwaho	動詞		捕まえる、とらえる	cahu	106	同根語	cahúḷ.bt	sarcvakh		
+156	cwairo	名詞	形	形、形式、作法、姿				cuau2.pk			
+157	cwauyi	動詞；動詞		～のせいにする；～を計算に入れる							
+158	cweio	名詞；形容詞	或	あるもの、なにか；ある、どれかの				cue1.pk			
+160	cwelo	名詞	球	玉、団子				cuet.pk, cuwelo.pmcp			
+161	cwouphi	名詞	声	音				cuop1.pk, codhi.bt			
+162	dace	動詞；動詞		走る、急ぐ、(水などが)流れる；筋の通らない					dacrarje?		
+163	dacha	形容詞		楽しい				dházúḷ.bt			
+164	dado	名詞；名詞；動詞	集	集まり、グループ；（特にアイル共和国の）郡、集；集まる	cepu	823	関連語	dat2.pk, dhárad.bt, tadu.tk	dadorta		地域としての郡はdadoを用いるが、自治体政府としての郡にはcepuを用いる。
+165	dailaa	名詞		一度、一回							
+166	daimeu	形容詞		第三の					demozel		
+167	daipa	名詞		歯					dervilkov		
+168	daunou	名詞	虎	虎、トラ				dau2.pk, dhauna.bt, dhán.bt			
+169	daute	形容詞	深	深い、ふかい				daut1.pk			
+170	dexu	名詞；名詞	種	ドングリ、樫の身；亀頭				det2.pk	banerdex, capaudex, cuscadex, desxupse		
+171	diai	名詞		インターネット					adi'a		
+172	dibee	名詞	鎖	鎖、チェーン				dhíp.bt			
+173	dili	動詞		刺す				díl.bt, naunilorúḷ.bt, dilit.pmcp			
+174	dipai	名詞	我	私	bokua	87	関連語	pai2.pk			フォーマルな場でも、カジュアルな会話でも用いられる一人称。bokuaよりは丁寧な印象を与えるが、丁寧すぎるほどではない。
+175	dipe	名詞		歌							
+176	ditanake	動詞		覗く、のぞく							
+177	ditoo	名詞	貝	貝				dit1.pk			
+178	doche	名詞	店	店				ḍáz.bt			
+179	dop'iai	名詞	島	島				dop1.pk, tomu.tk			
+180	duhai	形容詞		浅い、あさい					durfemark		
+181	dukhi	動詞		果実がなる、実る、成果が出る				dhokit.bt	durk		
+182	duqewaa	名詞		蛍光					duqewartax		暗くすると光るもの
+183	duxaii	名詞		場所					hormarverdzar		
+184	dzacao	名詞		プール、池					dzacar		
+185	dzah^ie	名詞		リン酸					dzarfie		理語辞書ではdzahúie
+186	dzecei	間投詞		さて、さあ、ところで					dzec		
+187	dzerua	名詞		ポニーテール					xerfa		
+188	dzipaiu	名詞		へこみ、くぼみ					xeparju		
+189	dzipuai	名詞		落雷、電撃					xerp'e		
+190	dzivaiu	動詞		認証する、公認する					aledzvaju		
+191	dzoriu	形容詞		速い、快速な					dzoy		
+192	ebu	名詞		雑穀、穀物				ebu.pmcp	erb		
+193	ebutuzulu	動詞		暴れる					iptzules		
+194	eipwi	名詞；名詞		酢漬け、マリネ；酢漬け液、マリネード					vismoua		
+195	elwafan	名詞		一撃					ilvefan		
+196	ena	動詞		言う					xauternaz		
+197	epao	形容詞	別	別の、異なる				pau1.pk			
+198	es^eu	名詞	祖	先祖、祖先				so1.pk			
+199	etoxapelu	動詞		間をあける					itzapel		
+200	ewai	名詞；動詞	将	命令、指示；命じる、命令する、指示する				uai1.pk, eyáúḷ.bt			
+201	eyoi	名詞；形容詞	春	春；春の				iei2.pk			
+203	fabui	名詞		宴、宴会、どんちゃん騒ぎ					fabi		
+204	fadzio	名詞		セメント、接着剤					fardza		
+205	fafi	動詞	定	定める				huap1.pk			
+206	fah^ua	動詞	挽	挽く、粉にする、砕く、押しつぶす				hua1.pk			
+207	falaa	形容詞	互	互いの				huat.pk, wáḷa.bt			
+208	faniu	動詞；間投詞		仲良くする、関わる；よろしく！							
+209	fas^eu	名詞		職業、仕事					faxeobe		
+210	feqoai	名詞		サングラス					feqai		
+211	figue	名詞		足の裏					firganqerw		
+212	fimea	名詞		水着					fimea		
+213	foje	名詞	龍	龍、竜				hui2.pk			
+214	foku	名詞	輩	兄弟、姉妹				huok1.pk, fokjut.ln, woghit.bt, moku.tk			
+215	fongio	動詞		同意する、意見が一致する					foni'a		
+216	fopoei	名詞		薄暗い森					aporie		
+217	fuk'io	名詞		混沌、カオス、無秩序					feti'a		
+218	gaa	動詞		言う、説明する							
+219	gamuu	名詞		共和国、共和政					gamuuceiti		
+220	ganyo	後置詞		～から、～以後							
+221	gatu	名詞	祭	祭り、儀式				gat2.pk			
+222	gauble	名詞		猪、イノシシ					gable		
+223	gauki	名詞		花火					casarmanugarki		
+224	gecwe	名詞		気候、風土					gesvi'o		
+225	gecwou	名詞		終わり、終止、最後、結末、末端							
+226	gelao	名詞	門	門、扉				giau1.pk			
+227	genu	動詞		読む							
+228	geqa	名詞	肉	にく 肉				gek.pk	gekarifew		
+229	gerue	名詞		（リボンなどの）花結び					fadi'agerve		
+230	gio	名詞	鹵	岩塩坑	quvoo	554	関連語	kuo1.pk, ghíyo.bt			
+231	guko	動詞；動詞；動詞	受	受け取る、もらう、得る；受ける、受け入れる；こうむる、経験する	pusho	789	関連語	guk2.pk			
+232	guyao	動詞	層	重ねる、重ね合せる				gy1.pk			
+233	h^alaii	名詞		耳かき					fealej		理語辞書ではhúalaii
+234	h^ecuai	動詞		ポケットから出す、懐から出す				recúḷ.bt			
+235	h^ikoo	動詞	認	公認する、認可する、認知する				hio1.pk			
+236	h^olou	名詞		虫歯					feral		理語辞典ではhúolou
+237	h^ozao	名詞		盲腸					khosao		
+238	h^ut^ee	動詞	始	始まる、始める				hut2.pk, huṭeúḷ.bt			
+239	hagi	名詞	北	北				hak2.pk			
+240	hagi	動詞		灰になる、燃え尽きる							
+241	hahau	動詞	笑	叫び声をあげる				hau2.pk			
+242	haicaai	名詞		汁、ジュース					curibaj		
+243	hainyi	副詞		当然の報いとして、正当に、功罪に応じて					fenire		
+244	haivuu	名詞；形容詞		闇、暗闇；暗愚、蒙昧な				háju.bt			
+246	hanu	後置詞	処	～で、～にて、～において				kan.tk			古い処格の接辞。現代では -ne/nu になっているが、燐文体では今でも用いられる。
+247	haroa	名詞		柑橘、オレンジ					farva		
+248	haroa	名詞		ノイズ							
+249	haumei	形容詞		山の、山岳の					bleiformajera, hormarverdzar		
+250	hea	副詞		連れだって、組になって					pirfem		
+251	hema	形容詞	美	美しい				hem1.pk, hámúḷ.bt			
+252	hema	名詞；名詞；名詞		根（数学）；根元；語根							
+253	hep'iai	名詞	地	地方	-hep, hepe	2, 794	派生関係；派生関係	huep2.pk, epa.bt			
+254	hewe	名詞；名詞		岩、岩石；岩山、岩礁				eghi.bt	hervianni		【石】で書ける可能性がある
+255	hiki	名詞	東	ひがし 東							
+256	hiya	名詞	心	こころ 心				hia1.pk, heyáúḷ.bt, híja.bt, ha.bt, rijúḷ.bt, ijalu.tk			
+257	hoduo	名詞		特許、特許証					hoduo		
+258	hogue	名詞		会話、会談							
+259	hona	形容詞	綿	綿羽のような、綿羽でできた、うぶ毛の生えた、綿毛に覆われた				hon1.pk			
+260	hotei	名詞		代用、取換え、代入				otúḷ.bt			
+261	hovi	名詞	骨	骨				ho2.pk			
+262	hoyi	名詞	棚	書棚				hy2.pk			
+263	huangi	名詞	麦	麦、小麦	huagei	803	派生関係		marfakhardz		
+264	hubwa	接続詞	即	すなわち、つまり				hem.pk, -úp.bt, ken.tk			
+265	hungaai	動詞		削り取る、こそげる				kuṇannúḷ.bt?			
+266	hupo	名詞	木	き 木				hup1.pk			
+267	huroe	形容詞	少	少しの、わずかの				hue1.pk			
+268	huroo	名詞	墨	墨（固形物）	huroja	806	派生関係	huo2.pk, horabát.bt			
+269	i	後置詞		～ら、～達				i.tk			
+270	i	小辞		～ではない、～ない				i2.pk			/i:/と長音で読まれる傾向がある。
+271	ia	後置詞；後置詞	於	～に；～から				ie.pk, hína.bt			
+272	iaki	名詞		ルビー、紅玉					jarke		
+273	iama	名詞；動詞	口	口；食べる、飲む				iam1.pk			
+274	iasi	名詞		兄、姉、年長のきょうだい							
+275	idua	動詞		塩を加える、塩漬けにする							
+276	iki	名詞；形容詞	八	八、8；八つの							活用の際に長子音化が起こらない。
+277	ikisa	名詞		積み木、つみき				ghikísa.bt	ekcan		
+278	ikiti	名詞	横	横					ektir, netekte		
+279	iku	名詞；形容詞	二	二、2；二つの				ik2.pk, ríka.bt			活用の際に長子音化が起こらない。
+280	ime	名詞		くき 茎					molojaine		
+281	imika	動詞	思	おもう,思う				imiku.tk			
+282	imisa	形容詞	軽	かるい,軽い				mit2.pk			
+283	imitu	名詞		普通、通常					emert		
+284	imu	名詞	毛	毛				im1.pk			
+285	imuti	名詞		大脳					imyti		
+286	inini	形容詞	小	小さい	-ni	6	派生関係	ni1.pk, inin-u.tk			
+287	inuni	名詞		炭					hervianni		
+288	inusi	名詞	川	川、河川				nut2.pk, inuci.tk			
+289	inutaku	動詞		中断する、途中でやめる					intakk		
+290	iou	名詞	王	王、首相				io.pk			
+291	iqiu	名詞	帯	ひも、テープ、帯				ky2.pk			
+292	itasi	名詞		ウマ、馬					portvirtax		
+293	itua	名詞	果	くだもの、果物				tua1.pk, dhokit.bt			
+294	iwa	接続詞	而	そして				ua.pk, ja.bt, wa.tk			
+295	jabuu	名詞；動詞		造花、ハリボテ；はったりをかける、虚勢を張ってだます							
+296	jaiga	名詞		乳酸					jerga		
+297	jailuo	形容詞		有能な、資格のある、権限のある					jelua		
+298	jaizi	後置詞		～の中から、～から出た、～のうちの、～製の							
+299	jani	動詞；動詞	生	生じる、生まれ出る、生ずる；生む				ian1.pk			
+300	jatu	名詞；形容詞	冬	冬；冬の				iat1.pk			
+302	jebla	名詞		鈍感な耳					ebladz		
+303	jinei	動詞；動詞	閉	閉める、閉じる、閉ざす；終える				in2.pk			
+304	jokhi	名詞		嘘				jog.bt			
+305	jomo	動詞		歌う							
+306	jooi	動詞	直	まっすぐにする,直立させる				io1.pk			
+307	josu	名詞	健	大作、傑作					jos		
+308	josua	名詞	健	決定的な、最終的な							
+309	joveo	名詞	僚	国家公務員							
+310	jubuai	接続詞		つまり					arve		
+311	juce	名詞	輪	輪、環、指輪				yt2.pk			
+312	jukha	形容詞		老衰している、がたがたになっている				rúkasa.bt			
+313	jukuku	名詞		ユーゴック				jurkukku.li			
+314	juo	名詞	牛	ウシ、牛	juro	317	同根語	io2.pk			
+315	juo	動詞		塗装する、メッキする							
+316	jup'ui	形容詞		海の					tasierjupuj		理語辞書ではjupóui
+317	juro	名詞	牛	乳牛	juo	314	同根語	io2.pk			
+318	jusei	名詞		肉団子				juce.pmcp			
+319	k'abaia	形容詞		そでなしの、ノースリーブの					abea		
+320	k'ebaie	動詞		燻製にする					xorla		理語辞典ではkóebaie
+321	k'es'ia	名詞		デーツ、ナツメヤシの実					korjzoria		理語辞典ではkóesóia
+322	k'iwea	接続詞		だから、そこで							用例ではkóiwea
+323	k'uaa	名詞；動詞	筆	筆づかい、タッチ；後に残す				kua2.pk			
+324	kabu	名詞		二度、二回							
+325	kacei	形容詞		地獄に落ちるべき					kachein		
+326	kaci	名詞		復讐、仇討ち、報復					kaci		
+327	kaga	名詞	時	時間				kak.pk, káṇa.bt			
+328	kaiga	動詞		座る							
+329	kaika	名詞；動詞	戦	戦い、戦闘、試合；戦う				kaik.pk, kaikúḷ.bt			
+330	kaisa	形容詞	善	良い、よい				kait.pk, ket-u.tk			
+331	kakana	名詞		身代わり、生贄					karnaxerge		
+332	kakita	動詞		割る、わる、分ける					kakites		
+333	kakusa	動詞	筆	書く、描く							
+334	kami	名詞		神社、お宮					kemie	kami a makati 「マカティ神社」	
+335	kanaka	動詞	躍	跳ねる、ジャンプする	kanata	336	同根語	kan1.pk			
+336	kanata	動詞	躍	走る	kanaka	335	同根語	kan1.pk			
+337	kani	名詞；動詞	火	火、炎；燃える	kanide	804	派生関係	kan1.pk, gháni.bt			
+338	kaniti	動詞		持つ							
+339	kasi	名詞；形容詞	秋	秋；秋の				kat2.pk			
+341	kasui	名詞	硫俐	硫黄	khaicwi	352	同根語	kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt			
+342	kasumu	名詞		ごはん、ご飯、炊いた穀物					vismoua		
+343	kat^oe	形容詞		おとなしい							
+344	kat^oe	動詞	満	いっぱいになる、満ちる	h^ibao	786	対義語		katuroj		理語辞典ではkatúoe
+345	katu	名詞	子	子供、子ども				kat1.pk, ghátu.bt			
+346	kaunyou	動詞		嚙む、かみ合う					korniusti'e		
+347	kausu	名詞		分					korsissatit?		
+348	kawi	名詞		口				kághi.bt			
+349	keicwou	間投詞		例えば				keco.pmcp			
+350	ket'eo	副詞	常	常に、いつも				ket.pk			
+351	khabu	名詞；形容詞	辣	トウガラシ；辛い				kháṣí.bt			
+352	khaicwi	形容詞		砂色の（灰色がかった黄色）	kasui, huagei	341, 803	同根語；類義語	kue cue.pk, kúcuj-.bt, kujacú.bt, kúcú.bt			
+353	khazu	名詞		場所、ところ、部分、土地							
+354	khobau	動詞	試	試す、やってみる、検証する				kop1.pk			
+355	khuthe	名詞		砲弾、銃弾					xturkhurte		
+356	ki	後置詞		～へ、～に、～を				ghi.bt, ki.tk			
+357	kiki	名詞	機	機械、マシン、道具				kik1.pk	afikelixekirk		
+358	kikita	間投詞		（青年への呼びかけとしての）兄さん					kirta		
+359	kimiku	名詞		枕					kemerk		
+360	kimou	形容詞		早い					kirma		
+361	kinia	名詞	右	右				ky1.pk			
+362	kinuka	名詞	金	金属				kin2.pk			
+363	kisamu	動詞		伸ばす				kísamúḷ.bt			
+364	kisi	名詞	那	あれ				kí.bt, ki.tk			
+365	kisu	名詞	頬	ほお、頬				kicu.tk			
+366	kita	名詞；形容詞	百	百、100；百の				kit1.pk, kit1.az			
+367	kitu	形容詞	極	とても				kit.pk, kit.bt			
+368	koli	動詞	疲	疲れる				koli.bt, koli-lu.tk			
+369	kotu	名詞	草	草				kot.pk, koṭ.bt			
+370	kouai	動詞；間投詞	謝	謝る、わびる、謝罪する；すみません、ごめんなさい				kuai1.pk			
+371	koxua	名詞		魚料理、魚肉	chaula	128	関連語		vismoua, cauxarnekorxa		
+372	kuaka	名詞	父	父				kuak1.pk, khak.bt			
+373	kunge	動詞；動詞；動詞	付	付ける、置く；入れ墨；入れ墨を入れる				kun2.pk, kug-u.tk			
+374	kuniki	名詞		師団					kynik		
+375	ky'esiri	名詞		角閃石					kyersi		
+376	laitai	名詞	旦	（時間としての）日							
+377	lanau	動詞；動詞		追う、追いかける；(その状態に)追いやる				lánahúḷ.bt			
+378	laupwau	名詞		選択							
+379	leaa	名詞	琴	弦楽器、琴、箏				lia1.pk			
+380	lebi	形容詞		この							
+381	leitau	名詞		群島、列島					larto		
+382	leka	名詞	絵	絵、絵画				lek1.pk, legha.bt, leghúḷ.bt			
+383	lexai	形容詞		口頭での、言葉の					lerxenurtha		
+384	libwa	名詞	虫	虫、むし、昆虫、（クモ・カタツムリ・ダンゴムシなどの）昆虫でなく、細長くない虫				li2.pk			
+385	lihuo	動詞		平たくする、ぺしゃんこにする、潰す				rohúḷ.bt			
+386	linaesto olus	名詞		リナエスト・オルス							
+387	lingei	形容詞	清	よごれのない、しみのない				lin.pk			
+388	lisua	名詞	倉	保管所、倉庫				li1.pk			
+389	liwo	動詞	須	～しなければならない、～にちがいない、～はずである				ly.pk			
+390	lodu	形容詞	短	短い、みじかい				lot2.pk, rodúḷ.bt			
+391	lohu	名詞	煙	煙、けむり、煙たい				lo1.pk			
+392	loka	形容詞	寒	寒い、凍えている、凍っている				lok1.pk			
+393	lokemyuda	名詞		微妙な状況					myrda		
+394	lorua	名詞；動詞	耳	耳、みみ；聞く				lua1.pk			
+395	losu	動詞	立	立つ、たつ				lo1.pk, e loc.pmcp			
+396	lubu	名詞	鳥	鳥、とり				lup1.pk			
+397	lugea	動詞		曇る、雲で覆われる				roṇúḷ.bt			
+398	luhai	名詞		豆腐					lurfe		
+399	lupe	名詞	玉	翡翠、玉、宝石					lurpe		
+400	lutwu	形容詞	新	新しい、生き生きした、若々しい				lu2.pk			
+401	lutwu	名詞		階段、ステップ							
+402	maadyiti	動詞		つやを出す					madyrti		
+403	macwe	動詞		（燃料を足して）火を燃やし続ける	masuni	424	同根語	bacú.bt, bácujúḷ.bt			
+404	maiblo	名詞；名詞		ファルセット、裏声；爬虫類					meblo		
+405	maikau	名詞；形容詞	茲	これ；この				me.tk			くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。
+406	maixaai	名詞		モグラ					xuspiramexaj		
+407	maka	名詞；名詞	値	数、数字；点、得点	taunyuroe	792	関連語	mak2.pk, bágha.bt, maka.tk			量としての「数」はtaunyuroeを用いる。
+408	makana	名詞		海					durfemark		
+409	makasu	形容詞	長	長い							
+410	makati	名詞		マカティ、天神、アイル共和国の首都							
+411	makina	名詞		音楽				makina.pmcp			
+412	makutu	形容詞		勇ましい				bákatú.bt, bákatúḷ.bt			
+413	mamau	名詞		母	manana	416	同根語	mam1.pk, banáman.bt			
+414	mammake	名詞		ドラゴンフルーツ					mangmerke		
+415	mamu	動詞		なる、成る					pirfem		
+416	manana	名詞；名詞	母	（古語）母、母親；マンマナ島	mamau	413	同根語	mam1.pk, banáman.bt, manmana.pmcp			現代では「母」の意味ではmamauを使う。
+417	mani	名詞	字	字、文字				man1.pk, báni.bt, mani.tk			
+418	maniku	名詞		言語					menyrkskir		
+419	mapwu	名詞；動詞		粉；粉にする、挽く					marfakhardz		
+420	maqui	動詞；動詞	抗	抵抗する、反抗する；耐える				mak1.pk, mákúḷ.bt			
+421	masa	動詞		超える					macc-		
+422	masou	名詞；動詞		冒涜的な言葉、罵詈雑言；侮辱する、吐き捨てる				masátu.bt			
+423	masu	後置詞		～のために							
+424	masuni	動詞		塗る	macwe	403	同根語	bacú.bt, bácujúḷ.bt			
+425	matutu	名詞	外	外、外部、他、よそ				bátat.bt			
+426	maube	名詞		きのこ					curibajmorbern		
+427	mauna	名詞	馬	馬				maun1.pk			
+428	mauphu	動詞		迷わせる、惑わす					aplauxme		
+429	mefoai	名詞		同音異義語					mefoaj		
+430	mexi	副詞		全部、すっかり				báṣi.bt			
+431	minu	名詞		頭痛					menaxarde		
+432	mis^eo	名詞		自治、自制、自律					saqermisero		理語辞典ではmisúeo
+433	misa	名詞；形容詞	七	七、7；七つの							
+434	misu	名詞		病気					nakimis		
+435	mita	名詞；形容詞	十	十、10；十の							
+436	mitiku	名詞	橋	橋				mit.pk			
+437	miwou	名詞		苦労、骨折り					mevau		
+438	modo	動詞	壊	壊れる、壊す				mot2.pk			
+439	moho	動詞	行	行く、移動する	-moo	845	同根語	mok1.pk, bohúḷ.bt			
+440	moloa	形容詞		甘い、心地よい				boḷorúḷ.bt	molojaine		
+441	mono	名詞		鰹、カツオ					xorlarmorn		
+442	mova	名詞	米	米				mo1.pk, mon.tk			
+443	mukutu	名詞		鉛							
+444	mukutu	動詞	撃	攻撃する、打つ				kut2.pk			
+445	mungeai	名詞		未開拓地、荒野				báṇam.bt			
+446	muo	動詞	止	止める				muo1.pk			
+447	muohep	名詞		駅、停車場							< muo + -hep
+448	muta	名詞	家	家				mut2.pk, bádha.bt			
+449	mutua	動詞	飛	飛ぶ				bátujúḷ.bt			
+450	naho	動詞	加	加える、足し算する				náhúl.bt			
+451	naipei	形容詞	労	緻密な、よくできた				naip2.pk, e naipe.pmcp			
+452	naita	名詞	縦	縦					nert, netekte		
+453	naiwou	名詞	酒	酒、アルコール				no1.pk, náju.bt			
+454	naki	動詞		移動する、伝わる					nakimis		
+455	naku	名詞；形容詞	九	九、9；九つの				nághu.bt, nou.tk			
+456	nalua	名詞		海鳥、（特に）カモメ				náḷa.bt	nalva		
+457	name	動詞	開	打ち開く、切り開く				nam2.pk, námúḷ.bt			
+458	nami	名詞；形容詞	四	四、4；四つの				ap1.pk, naga.tk, nagamu.tk			
+459	nanisu	名詞		ズボン					nais		
+460	nanu	名詞	何	何、なに				nan2.pk, nána.bt			
+461	nas^aiai	動詞		処方する					naxer		
+462	nau	名詞		わたし				no.tk	navax		
+463	naublau	名詞		中央政府				noblé.vef			
+464	nauke	名詞		箱、ケース、容器				nauki.bt			
+465	navou	名詞		雀、スズメ					nav		
+466	nelua	名詞；名詞	猫	猫；姓の一つ。				ne2.pk			
+467	nepha	名詞		ピスタチオ					nerfa		
+468	ngaci	動詞		売る					garci		
+469	ngaitwa	形容詞		～さん（男性への敬称）							語義変更；名称の前からかける
+470	ngaiweo	動詞		鋳造する、鋳込む、型にはめる				gháyoúḷ.bt, kewa-lu.tk			
+471	ngakha	形容詞	激	強烈な				gak1.pk			
+472	ngas'aa	動詞		理解する				ghaccúḷ.bt			用例ではngasóaa
+473	ngeipu	動詞	助	助ける				uaip2.pk			
+474	ngodi	名詞		宮殿					nordi		
+475	ngongau	名詞	刀	刀、剣、刃物				gau2.pk, ghau.bt			
+476	ngui	名詞	傷	傷				gui2.pk, kuwi.tk			
+477	nguwa	名詞；動詞	弓	弓；弓で射る、射撃する				gua2.pk, ghá.bt			
+478	nicuu	名詞		エリート、精鋭					nixur		
+479	niku	名詞；形容詞	六	六、6；六つの							
+480	nilua	名詞；名詞	胸？	準備；胸？							
+481	nimutu	名詞	族	民族				nim2.pk, nímaṣ.bt, nisu.tk			
+482	ninu	名詞	紙	紙				nin1.pk, nín.bt			
+483	nisisa	名詞		河豚、フグ					nisirsa		
+484	nisiu	形容詞	強	強い				tiu2.az			
+485	nisu	名詞		波					tinirza		
+486	niuni	名詞		安全					niurn		
+487	nonu	形容詞	悪	憎い				non1.pk, nonúḷ.bt, non.bt			
+488	noqo	名詞		靴					firganqerw		理語辞書ではnoqoę
+489	noxai	名詞		酸					nox		
+490	noyaii	名詞；動詞		学問、勉強；学ぶ、勉強する	noyhep	491	派生関係	nui2.pk			
+491	noyhep	名詞		学校	noyaii, -hep	490, 2	派生関係；派生関係	nui2 hue.pk			< noyaii + -hep
+493	nua	名詞	水	水				nua2.pk, nutta.bt, na.tk			
+494	nuisu	名詞	軍	軍				núsu.bt	naanwis		
+495	nukina	名詞		制度					niukirna		
+496	numa	動詞	守	守る				num1.pk			
+497	numiu	名詞		ピンク				numíju.bt			
+498	nup'iu	名詞		ココナッツ					nuporju		理語辞書ではnupóiu
+499	nuta	形容詞		どの				not.bt			
+500	nutha	名詞		ゲーム、遊戯				núdha.bt, nudhorúḷ.bt	lerxenurtha		
+501	nyalu	名詞		繊維					nyal		
+502	nyaunei	形容詞		強い、激しい				nauṇaghúḷ.bt, naunijúḷ.bt			バートnauṇaghúḷ, naunijúḷにおける強調の語素として見ることができる。
+503	nyauphi	名詞		あばた、瘢痕					nyaphi		
+504	nyautu	名詞	詞	単語				nautu.bt	pzeniatz		
+505	nyeka	形容詞；名詞	連	連続した、つながった；つながり、連番				niek1.pk			
+506	nyitwei	名詞		新人、新入り							
+507	nyouhai	形容詞		問題のある、不確かな、あやしい					niirfe		
+508	o			分離詞							用法不明
+509	ocou	動詞	散	花が散る				co1.pk			
+510	odui	名詞	油	油、石油				dui.pk, hodhi.bt			
+511	ohi	名詞；形容詞	友	友；親しい				hi1.pk, ohi.bt, oki.tk			
+512	oqaiu	動詞		ふりかける				okajúḷ.bt			
+513	owifizu	形容詞		奇妙な					arvifit		
+514	owu	名詞	平	板、プレート				o1.pk			
+515	p'afaiu	名詞		岬					pafey		
+516	p'aibaia	名詞		興味、関心				bhajúḷ.bt			
+517	paxo	名詞	犬	犬	phaxo	526	同義語	pa2.pk			
+518	pechu	名詞		チーズ					perchu		
+519	peixe	形容詞；副詞		後ろにある、後ろの；後ろに				peixe.pmcp			
+520	peki	形容詞	硬	強い				pek1.pk			
+521	pelu	名詞		文字					xpelai'r		
+522	perao	名詞	道	道				po1.pk, mo.tk			
+523	pet^ii	名詞	星	星				pet2.pk			
+524	phadi	名詞		ベルト					fadi'agerve		
+525	phaungo	名詞		酢					feun		
+526	phaxo	名詞	犬	犬	paxo	517	同義語	pa2.pk			
+527	phedu	形容詞	闇	闇夜、真っ暗な				huet.pk, bhát.bt, bhátúḷ.bt, medu.tk, phed.li			
+528	pheini	名詞	泉	泉、源泉、根源、大元					pheini'avirga		
+529	phengua	名詞		言語					fengguacapea		
+530	pheou	名詞		コース、道順、路線					fey		
+531	phidi	動詞	震	揺れる、震える				pit1.pk			
+532	phobo	名詞	手	手				hop1.pk, bhoma.bt, bhomúḷ.bt, momo.tk			
+533	phouzou	動詞		踏み越える、またぐ					fosorr		
+534	pirai	動詞		繋ぐ、縛る、結ぶ					pirfem		
+535	piu	名詞	力	能力				py.pk			
+536	pogau	名詞		(獣の)巣穴				bhoṇau.bt, phornau.li			
+537	pogie	名詞；名詞	隊	軍、隊、団、組；旅団					podzir		
+538	pogo	名詞	色	色				pok.pk, bhog.bt			
+539	poi'afe	名詞		癌、腫瘍					parfe		
+540	pola	名詞	羊	羊				po1.pk			
+541	polaphobo	名詞	羊手	ポラホボ（地名）				polapobo.pmcp			
+542	pouje	後置詞	通	～を通って				bhán.bt			
+543	puatu	動詞；動詞	奮	怒る、憤慨する、興奮する；起こる、興る、発生する				puat1.pk			
+544	pura	名詞；名詞	風	風；感染症、病気				pua2.pk, bhára.bt, bháro.bt, muka.tk			
+545	puto	形容詞；副詞	真；慥	本当の；本当に、心から				put.pk			
+546	pwiche	名詞；名詞		調書、記録；条約、議定書					firche		
+547	pwojei	名詞	位	順位、等級、身分、地位				pui1.pk, bhai.bt			
+548	pwoutwi	形容詞	海	海の				bhodi.bt	portvirtax		
+549	pwugo	名詞	獣	愚かさ、獣性	bwogo	101	関連語	mug-u.tk			
+550	qaijie	形容詞	中	中程度、ほどほどの、中庸の				kuai2.pk			
+551	qexua	名詞		絵、イメージ				keca.tk			
+552	qoda	名詞	豆	豆				kuot1.pk			
+553	qusiai	名詞		樹脂					quci'e		
+554	quvoo	動詞	塩	塩漬けにする	gio	230	関連語	kuo1.pk, ghíyo.bt			
+555	raijei	名詞		貴かんらん石、クリソライト					dacrarje		
+556	raishe	動詞		格闘する、闘う					rerx		
+557	reae	名詞	軸	軸、茎、棒、(グラスの)脚				la1.pk, e.bt			
+558	requa	名詞		泥				rek.bt			
+559	reto	名詞	雪	雪				let1.pk			
+560	rit'io	名詞		コウモリ					riti'a		
+561	rita	動詞	入	入れる				lit2.pk, ídúḷ.bt			
+562	riwei	動詞		抑圧する					irvej		
+563	rizi	名詞		温度							
+564	roblai	名詞		くしゃみ					roble		
+565	roku	名詞	笛	笛				lok1.pk			
+566	rutwu	形容詞	渋	渋い				rutoṣí.bt			
+567	s^esoa	名詞		手下、配下					xaksversar		理語辞書ではsúesoa
+568	s^ibau	動詞；動詞		抽出する；引用する					curibaj		理語辞書ではsúibar
+569	s^odzou	形容詞		偶然の、運任せの					sudz		理語辞書ではsúodzou
+570	s^udea	名詞		金網					eucsurda, csurda		理語辞典ではsúudea
+571	s^ut'uu	名詞		間違い、ミス					xturkhurte		
+572	sahu	名詞		双数				ṣahe.bt?, ṣe.bt?			sahuaと同根か。
+573	sahua	名詞		二項式				ṣahe.bt?, ṣe.bt?			sahuと同根か。
+574	saiguu	名詞		魚醤	chaula	128	同根語		ceg		
+575	saingoai	形容詞		不意に、突然に				seṇa.bt			
+576	sainiu	名詞		上衣、ベスト、チョッキ				cainíju.bt			
+577	sakika	動詞	来	来る	-sakka	846	同根語	sak2.pk, srakkq.ln, cákíkúḷ.bt, rakkúḷ.bt, sáka.bt, sakká.bt, cákíkaúḷ.bt, cak-u.tk			
+578	sakitu	名詞		やかん					cakirt		
+579	sami	動詞	急	急ぐ	sam	839	派生関係	sam1.pk			
+580	samiki	形容詞		新しい					cerkmern		
+581	sap'ea	形容詞		古い					fengguasapea		
+582	sasia	名詞		姉					carxa		
+583	sati	名詞	素	もと、素、原料				sat1.pk			
+584	sau	名詞	上	上				sau2.pk, co-lu.tk			
+585	saupu	名詞	獣	獣、けだもの				saup1.pk			
+586	sauta	動詞		乗る							sauとの関連が疑われている。
+587	seai	名詞		厄介ごと、もめごと、問題							
+588	seloo	動詞		聞き違える					axorlaselar		
+589	sephu	動詞	享	借りる	sepai	815	同根語	sep.pk			
+590	shaimai	名詞		四角形				xaimai.pmcf			
+591	shaute	形容詞		最初の、初めの					xauternaz		
+592	sheau	名詞	意	意味、価値				xa2.pk			
+593	shoke	形容詞		背の、裏の					xaksversar		
+594	shomu	動詞	積	積み上げる	shomukhazu	595	派生関係	xom1.pk, ṣoma.bt, coma.tk, com-u.tk			
+595	shomukhazu	名詞	積	堤防	shomu, khazu	594, 353	派生関係；派生関係				
+596	shousa	形容詞	穏	穏やかな、優しい				cosa-lu.tk			
+597	sikina	動詞		よける、避ける					cikina		
+598	sinisa	名詞	名	名前				sin1.pk			
+599	sinu	名詞		生理					cakstinernzirn		
+600	sip'ui	名詞	国	国、地方、郷里				sip1.pk, síbha.bt, ṣibhai.bt, cima.tk			
+601	sisata	動詞		なくなる					korsissatit		
+602	sitana	名詞		触覚					sirtna		
+603	sitika	名詞	蜜	蜜、ハチミツ				sik2.pk			
+604	situsu	名詞	埴	粘土				sít.bt	stuc		
+605	situu	名詞	術	手段、方法、対策				sit1.pk			
+606	siusa	名詞	天	天、空、天空				syt2.pk, ṣúsa.bt			
+607	sono	名詞	前	前				son1.pk			
+608	soqoai	形容詞		不完全な					saqermisero		
+609	suu	名詞	銭	金、ズー				su1.pk, suúḷ.bt	sur		
+610	sua	名詞		円錐、円錐形				cuwa.pmcp			
+611	suaki	接続詞		そして					korsissatit		
+612	suama	名詞		商売、商い					sarma		
+613	sui	動詞	使	使う				sui1.pk, sujúḷ.bt			
+614	suisamia	形容詞		中性の					jancaek		
+615	suka	名詞		いつ				coghi.bt			
+616	suki	名詞		スキ（アイル民族の古い名称）					menyrkskir		
+617	sukisu	名詞		神経、経絡					cakstinern		
+618	sulou	名詞		ハッカ、ミント				súḷa.bt, suḷorúḷ.bt			
+619	suna	名詞	五	五、5				un1.pk, ṣán.bt, cuna.tk			
+620	sunama	名詞		(筋肉の)膜					cunam		
+621	suqui	動詞		詐欺、だます					agesquik		
+622	susi	名詞	孰	どれ	susie	837	同根語	cu.tk			
+623	sutiki	名詞		哺乳類					incuturk		
+624	suvoo	動詞		～すぎる				síyoúḷ.bt		chabbama modo suvoos「彼は殺しすぎた」	
+625	t'aitaiu	間投詞	咍	なんとまあ！				tai.pk, deja.bt			
+626	t'edzou	動詞		赤面する					turx		理語辞書ではtóedzou
+627	t^ebaia	名詞		苦役、骨折り仕事					tue		理語辞書ではtúebaia
+628	t^enuai	名詞		列車							
+629	t^es'aiai	名詞；動詞		爆竹；爆竹を鳴らす					tesarja		
+630	tacoa	動詞		後に続く、遅れてくる				dácúḷ.bt, dáṣ.bt			
+631	tadui	名詞		カメムシ					tadyr		
+632	tai	名詞		エネルギー、力					tinirza		
+633	taide	名詞	鶏	鶏、ニワトリ				dhet.bt, tetien.li?			
+634	taik'eo	名詞		ブラジャー					tekor		
+635	taishei	名詞		奴隷					terxe		
+636	taku	名詞；名詞	衣	服；（ゲームの）盤				tak1.pk			
+637	tana	名詞	南	南				tan1.pk			
+638	tananu	動詞		驚く							
+639	tanu	動詞		～してもよい				danúḷ.bt			
+640	taoe	名詞		基盤					tarj		
+641	taseai	動詞		暴風が吹く					tasierjupuj		
+642	tasiku	名詞		防御				taciku.pmcp			
+643	tata	副詞；後置詞	唯	ただ；～のみ、だけ				tet.pk, dat.bt, tetu.tk			
+644	tatami	名詞	体	身体、からだ				tat2.pk			
+645	tatiu	名詞		遺跡					taxur		
+646	tatusa	名詞		王朝、王国				atesè.vef			
+647	tauhi	名詞	文	文、文章、フレーズ				tauk1.pk			
+648	taupwo	名詞	端	縁、へり、辺境、外れ				tau2.pk, daupha.bt, dáp.bt			
+649	tedzii	名詞		長い間					texlis		
+650	teire	名詞		日に灼けた					terre		
+651	tenye	動詞	混	かき混ぜる、かき回す	tenden	833	関連語	ten1.pk			
+652	thaise	動詞		聞く、聞こえる				dheseúḷ.bt			
+653	thana	名詞		のこぎり					thana		
+654	theicho	名詞		(新しい)発見				dhezáúḷ.bt			
+655	thiblei	名詞		炭化水素					thilejaxerg		
+656	tibaie	後置詞？		～ということ				díma.bt			
+657	timini	副詞		頻繁に							
+658	timiu	名詞		田舎					timirve		
+659	tinanu	名詞		伝令					cakstinern		
+660	tiniki	名詞		ツル、鶴				díghi.bt	tenierk		
+661	tisi	名詞	其	それ	chesi	130	同義語	ti.tk, dí.bt			
+662	tisia	名詞	茶	茶				tia2.pk			
+663	titati	動詞		死ぬ							
+664	titimu	動詞	待	待つ				tim1.pk			
+665	titu	形容詞	正	正しい				tit1.pk			
+666	titusu	動詞		殺す					korsissatit		
+667	tiu	副詞	再	再び				ty.pk, tiu.bt			
+668	tiua	動詞	従	従う				tia1.pk			
+669	tiuna	名詞	左	左				tyn1.pk, tijuna.pmcp			
+670	tixuo	名詞；名詞	花	花、草花；最良の部分				xuo1.pk, díṣlo.bt			
+671	tobai	副詞		すでに、もう							
+672	tobwu	名詞	樽	容器				to2.pk, ton.tk			
+673	toca	形容詞		尊敬すべき				ṭác.bt			
+674	topo	動詞		ある							
+675	tubi	動詞		打つ				tup1.az			
+676	tui	動詞	与	与える、～してあげる				tui2.pk, ḍujúḷ.bt			
+677	tukaie	名詞	網	金網、焼き網				tuk2.pk, doghajúḷ.bt			
+678	tukumuku	名詞		陸橋、歩道橋				mit mit.pk			
+679	tuma	名詞		誰				doma.bt			
+680	tuma-na	名詞		誰か				domana.bt			
+681	tumi	形容詞	甘	甘い				tum1.pk			
+682	tumiti	名詞		概念					xymizir		
+683	tunii	動詞		予定する				tuni.pmcp			
+684	tunu	名詞	神	神				tun1.pk, tuna.tk			
+685	tunuki	動詞		終わる							
+686	tut^oe	名詞	毎	それぞれ				tut1.pk			
+687	twaji	形容詞	遠	遠い、はるかな				tuai2.pk			
+688	twikei	名詞	味	味、味覚、趣味、好み				tuik1.pk			
+689	twouno	名詞		ナツメヤシ				ṭánasácú.bt, ṭánadhokit.bt			
+690	twuphu	名詞		マンゴー					tverfe		
+691	ugurief	名詞		自身					agrief		
+692	uki	名詞	男	男	-ki	3	派生関係	ki1.pk, kí.bt			
+693	uku	名詞	物	者、物	-ku	4	派生関係	ku.pk, k.bt			
+694	umi	名詞；形容詞	三	三、3；三つの				om2.pk, lom.bt, umu.tk			活用の際に長子音化が起こらない。
+695	umu	名詞；形容詞	千	千；千の				mu1.az			
+696	umumu	名詞		市場					iumim		
+697	usa	名詞	女	女	-sa	7	派生関係	sa1.pk, sá.bt, ca.tk			
+698	utata	名詞		話					ytarta		
+699	utiku	名詞		自分、自己、自我	tina	772	関連語	untik.pmcp	untirk		学問的なニュアンスが強い語である。一般的な再帰の意味ではもっぱらtinaを用いる。
+700	utu	名詞	下	下	uttuja, utuja	763, 844	派生関係；派生関係	ut2.pk			
+701	utui	動詞	遊	遊ぶ				tu2.pk, rúṣ.bt			
+702	utuka	動詞		降りる							utuとの関連が疑われている。
+703	vas^iai	名詞		氏族、クラン、派閥					farxaj		
+704	vedii	名詞；動詞		テレパシー；頭の中で話す					vedir		
+705	vefica	名詞		ヴェフィス							
+706	vezoe	名詞；形容詞	山	山、山岳；たくさんの				zo1.pk			
+707	vililizi	動詞		転覆する、ひっくりかえる					vililirz		
+708	webwei	名詞		紐穴							
+709	wechu	動詞；動詞		差し迫る；せき立てる					hormarverdzar		
+710	weikhou	動詞		通り抜ける、横切る				wákahúḷ.bt			
+711	wequu	名詞		向こう側				wekupolto.pmcp			
+712	wesi	名詞；形容詞	万	万；一万の				ue1.pk, ue1.az			
+713	witeai	形容詞		無作法な、失礼な、無礼な					witer		
+714	wuaxu	形容詞	無	ない (無い, 亡い)				háṣin.bt, wac-u.tk			
+715	wuo	形容詞；形容詞；名詞	件	現実の、実在の；本当の、本物の；ものごと、案件				uo1.pk, ho.bt			
+716	wupwei	動詞	穴	穴をあける、穿孔				uep.pk			
+717	wutwa	名詞		習慣					adwirdurta		
+718	xadoo	名詞		手品、奇術					xador		
+719	xaigue	名詞；名詞		絵、図、イラスト、影、像；比喩					karnaxerge		
+720	xaingau	名詞		原油、石油					thilejaxerg		
+721	xangei	名詞		後輩、後継者					xane		
+722	xatwa	名詞		先輩、先人					xatva		
+723	xauau	名詞；動詞	歌	歌、さえずり、ウィット；歌う				xau1.pk, ṣahúḷ.bt			
+724	xaunge	名詞？		食肉目(？)					cauxarnekorxa, cauxarne		取り入れられた理語側での意味に不整合
+725	xefoo	名詞；名詞；問いただす	謎	謎、不思議、秘密；秘儀、奥義；問いただす				xep2.pk			
+726	xeh^eu	名詞；形容詞	夏	夏；夏の				xo1.pk, ṣárahúḷ.bt			
+727	xemo	名詞	月	月				xem1.pk, cemo.tk			
+728	xepee	形容詞		大きい				xerf.li?, xep.pmcp?	xpelai'r		
+729	xidi	名詞；名詞	故	理由、動機、根拠；モチーフ、主題				xit2.pk			
+730	xisa	名詞	足	足、脚、あし				xi1.pk, ṣíṣ.bt, cisa.tk			
+731	xiyu	名詞；名詞；動詞	裁	判断；（ゲームの）投げ棒；裁く、判断する、審判する				xy1.pk, ṣíya.bt		A-mo B-mo C-nu xiyu「AはBをCとみなす」	
+732	xota	名詞	季	季節				xot1.pk			
+733	xoudo	形容詞	錘	重い				xo2.pk, ṣot.bt			
+734	xoupwei	副詞		～もまた							
+735	xufoa	名詞；形容詞；動詞	豊	豊かさ；豊かである；豊かにする、栄えさせる				ho1.pk			
+736	yanio	動詞	横	横、横切る				jano.tk			
+737	yeho	動詞		解散する							
+738	yikho	名詞	西	西				yk2.pk			
+739	yodai	動詞		沈む、もぐる				josedúḷ.bt			
+740	yoma	動詞		拾う				jomúḷ.bt			
+741	yubui	名詞	後	背中、裏、後ろ				yp.pk			
+742	yuh^aa	動詞	磨	磨く				ia1.pk, joraúḷ.bt			
+743	yujo	接続詞	亦	または				y.pk, jo.bt, o.tk			
+744	yunyu	名詞	官	政府、自治体、当局				y1.pk, joṇu.bt			
+745	yuwiu	接続詞		もし～なら、～である場合				hemijoya.bt, joya.bt			現代ではhubwaに役割を奪われており、ほぼ使われない。
+746	-za	接尾辞		（古語）副詞化語尾					xauternazなど多数		現代では生産性を失っており、痕跡的にしか残っていない。
+747	zabee	名詞	全	全部	anau	45	関連語	be1.pk, bhá-.bt			
+748	zablei	名詞		網膜					cablei		
+749	zagoo	名詞		ソース、液体の調味料					cardza		
+750	zaih^eu	名詞		中毒、依存症					caikheu		
+751	zaiha	名詞		展示、露出					zerhes		
+752	zaseo	形容詞		少ない、少量の					firjal		
+753	zenge	名詞		アンモニア					zeng		
+754	zieo	動詞	広	広がる、伸びる				zi1.pk			
+755	ziphei	動詞	失	～をなくす、失う				zit1.pk	blofeziphera		
+756	zisho	副詞		さらに、続けて							
+757	zugatie	動詞		まとめる					sgati'ar		
+758	zugihasu	動詞		水を撒く					zgias		
+759	zuhiasuka	名詞		先生、教師、教授	zuhio, asuka	760, 50	派生関係；派生関係				
+760	zuhio	名詞		動機付け、理由付け							
+761	zunaii	名詞	論	論理、論証、推論				zui1.pk, cun.tk			
+762	kaisa akia	間投詞	善日	こんにちは				kait kia1.pk			
+763	uttuja	形容詞		下賤な、低俗な、卑しい	utu	700	派生関係				
+764	phokhou	動詞	増	増える							
+765	simua	動詞		減る							
+766	sawasuka	名詞	上人	偉人、地位のある人、立派な人	sau, asuka	584, 50	派生関係；派生関係	sau2 cuk2.pk			
+767	mahe	動詞		作る、～へと変化させる							
+768	kinuti	名詞		鍋							kinuti < kin + *uti 説が唱えられており、金属製の鍋に限定されるかもしれない
+769	ahou	形容詞；形容詞	軟	軟らかい；簡単な				ho.pk			
+770	takina	動詞		与える				dákínúḷ.bt			
+771	mimi	動詞	引	引く				mi2.pk			
+772	tina	名詞	己	自分、おのれ	utiku	699	関連語	tin1.pk, dína.bt, tina.tk			学問的な自我としての自分自身の意味にはutikuが用いられる。
+773	nyoupi	形容詞	賢	賢い、利口な							
+774	twoshou	動詞	呻	うめく、うなる、嘆く							
+775	k'ewo	名詞；形容詞	呉	クレオス；クレオスの				kot2.pk			
+776	tiyaai	形容詞；副詞	反	反対の；反対に							
+777	soshi	形容詞；動詞	逆	逆さの；逆さにする、ひっくり返す							
+778	soshi	接続詞	逆道	逆に							主客が入れ替わるようなときにしか使えず、対照を示すような場合には使えない。
+779	sania	名詞	顔	顔				san1.pk			sono【前】との関連が疑われている
+780	cwouphima	名詞		（人名）	cwouphi	161	派生関係				
+781	pochu	名詞	竹	竹							
+782	tegu	動詞		（時間が）経過する							
+783	satamu	名詞		スズ、錫							
+784	chauna	名詞		銀							
+785	ceecimu	名詞		セーシム							穀物の粉で作った生地を焼いて、肉や野菜など好きな具を包んで食べる料理。アイルの家庭料理であるが、上手に生地を焼くのには技量が要求されるため、屋台で食べられることも多い。同様の料理はラネーメに広く知られる。
+786	h^ibao	形容詞	飢	空腹な、飢えている	kat^oe	344	対義語				
+787	sishu	動詞	下行	負ける、敗北する							
+788	h^ibao tejanuma tunupokunu sishur	熟語	無口叮生行下神赤	飢える叮生神赤に敗る、「腹が減っては戦はできぬ」							
+789	pusho	動詞		取る、手に入れる、持ち上げる、選ぶ	guko	231	関連語				gukoに比べると積極性、意志性が強い語である。
+790	cwatu	動詞	斥	捨てる				cuat.pk			
+791	titiu	副詞	再再	繰り返して、何度も							
+792	taunyuroe	名詞	多少	数（の大きさ）、多寡	maka	407	関連語	taun1 hue1.pk			多いか少ないかに着目して数を見るときの語。
+793	aniu	動詞		触れる、接触する							
+794	hepe	名詞	処	場所	-hep, hep'iai	2, 253	派生関係；派生関係	hue.pk, epa.bt			
+795	naipicho	動詞	労	はたらく、頑張る、働く	naipei	451	派生関係				
+796	sauxiyu	名詞；動詞	上裁	準備、事前の用意、根回し；準備する、事前に用意する	sau, xiyu	584, 731	派生関係；派生関係	sau2 xy1.pk		sauja akiaga gattuma sauxiyu liwor. 明日の祭りの準備をしなければ。；xiyuga sauxiyu 裁判の準備	
+797	bupuchuwo	名詞	歪片	ワイルドカード、（トランプの）ジョーカー	chuwo	139	派生関係	bup1 zuo1.pk			パイグ語からの借用。
+798	ba	接続詞	加	～と							
+799	xelukani	動詞		無視する、黙殺する、放置する							リパライン語xelnkanからの借用。
+800	chuwaku	名詞	片；片時；時片	（単位としての）時間、ツオ	chuwo	139	派生関係	zuo1 kak.pk			一日を百等分したうちの一。リパラオネでいう1080stususnであり、現世で言うと15分弱。
+801	kuwasuka	名詞	筆	事務官				kua2 cuk2.pk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。
+802	kaikasuka	名詞	兵	実働官				kaik cuk2.pk, kekacuka.tk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。
+803	huagei	名詞；形容詞	黄	黄色；黄色い	huangi, khaicwi	263, 352	関連語；類義語				
+804	kanide	名詞；形容詞	赤	赤；赤い	kani	337	派生関係				
+805	deiphe	名詞；形容詞	青	青；青い							
+806	huroja	名詞；形容詞	黒	黒；黒い	huroo	268	派生関係				
+807	ohinyeka	名詞	友連	組み合わせ	ohi, nyeka	511, 505	派生関係；派生関係				
+808	niukina	名詞	律	ルール、規則							リパライン語niukirnaからの借用。
+809	p'ujae	動詞	囲	包囲する、取り囲む							
+810	p'ija	名詞	囲	（図や盤における）マス目							パイグ語からの借用。
+811	mun	名詞	無	ゼロ、（ゲームにおける）「無」、「0」							パイグ語からの借用。
+812	susitu	名詞		中央、中心							リパライン語sysitからの借用。
+813	shomamaka	名詞	積値	合計値	shomu, maka	594, 407	派生関係；派生関係				
+814	imiku	名詞	思	考え、思い	imika	281	派生関係				
+815	sepai	動詞	享	収穫する、刈り入れる、採取する	sephu	589	同根語	sep.pk			
+816	wakaja	形容詞	妙	特殊な、特別な、普通でない							
+817	docuna	動詞		返す、戻す、返却する							リパライン語dosnaからの借用。
+818	reasuka	名詞	軸人	（ゲームの）親				la1 cuk2.pk			パイグ語からの翻訳借用。
+819	aikachuwo	名詞	光片	（ゲームの）光駒、ドラ	chuwo	139	派生関係	aik2 zuo1.pk			パイグ語からの翻訳借用。
+820	tasami	形容詞	多	多い							
+821	aupwau	名詞		銅							
+822	aibledu	動詞		軽蔑する、侮蔑する							リパライン語ayplerdからの借用。
+823	cepu	名詞；名詞	集	（中央政府の）省；（行政機関としての）地方自治体	dado	164	関連語				東島通商語CEPからの借用。
+824	sooh^a	名詞；動詞	上行	勝利；勝つ							sauとの関連が疑われている。
+825	tweikou	動詞	残	残る				tuek.pk			
+826	k'uwai	名詞	翰	（人名）				kuai1.pk			
+827	al	小辞		（形容詞の後について比較級を表す）							
+828	leinu	名詞	銭軸	会社、企業							リパライン語lerynからの借用。
+829	twaupei	動詞		飼いならす、慣れさせる						amuama lutwu leinunu tobai twaupei gukor? 「新しい会社にはもう慣れた？」	
+830	guaqa	名詞	眉	眉毛							
+831	lafimete	名詞		専門家							リパライン語lafirmeterからの借用。
+832	matuka	動詞		盗む							
+833	tenden	形容詞；副詞	混混	ぐちゃぐちゃである、滅茶苦茶である；グツグツと	tenye	651	関連語	ten1 ten1.pk			オノマトペからの派生と思われる
+834	mohohep	名詞		目的地、目標、ゴール	moho, -hep	439, 2	派生関係；派生関係				
+835	tamunua	名詞	皇水	（ゲームの）皇水、タムヌア				tam2 nua2.pk			パイグ語からの借用。
+836	tamuzo	名詞	皇山	（ゲームの）皇山、タムツォ				tam2 zuo1.pk			パイグ語からの借用。
+837	susie	形容詞	孰	どの～でも	susi	622	同根語	cu.tk		susie poggoma pusshomo kaisa. 「どの色を選んでもよい」	英語で言うany, whateverの意味である。
+838	aiki	名詞	光男	（人名）	aika, uki	19, 692	派生関係；派生関係				
+839	sam	副詞	急	早く、さっさと、急いで	sami	579	派生関係				語源意識によりsamとつづられるが、発音は/zã/である。
+840	kaisa hiya	間投詞	心善	ありがとう	kaisa, hiya	330, 256	派生関係；派生関係	hia1 kait.pk		tauhim tuine kaisa hiyar. 「手紙をくれてありがとう」	
+841	vaoa	動詞		祝う、祝福する							
+842	sira ki hiyar iwa lutwu hanu mohor	動詞	心古行新	温故知新、「古きを心いて新しきへ行く」							
+843	sauja	形容詞	上	先の、前回の	sau	584	派生関係				
+844	utuja	形容詞	下	後の、次回の	utu	700	派生関係				
+845	-moo	接尾辞	行	外へ、向こう側へ	moho	439	同根語				
+846	-sakka	接尾辞	来	内へ、こちら側へ	sakika	577	同根語				
+847	bliblo	名詞；形容詞	地心	文化；文化的な、文化の							
+848	geda	動詞		歩く							
+849	umua	名詞；動詞	船	船；運ぶ				muak1.pk			
+850	umuamoo	動詞	船行	送り出す、輸出する	umua, -moo	849, 845	派生関係；派生関係				
+851	umuasakka	動詞	船来	運び入れる、輸入する	umua, -sakka	849, 846	派生関係；派生関係				
+852	kitua	名詞		明かり、たいまつ							
+853	-ngau	接尾辞	刀	道具などを表す				gau2.pk			燐字は刀があてられているが、「かたな」とは同音の別語であると考えられている。
+854	utuingau	名詞	遊刀	おもちゃ	utui, -ngau	701, 853	派生関係；派生関係	tu2 gau2.pk			
+855	anawasuka	名詞	全人	皆さん	anau, asuka	45, 50	派生関係；派生関係				
