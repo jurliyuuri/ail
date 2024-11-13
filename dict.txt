@@ -1,7 +1,7 @@
 ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	関連する理語	例文	備考	799
 2	-hep	接尾辞	処	場所	hep'iai, hepe	253, 794	派生関係；派生関係					
 3	-ki	接尾辞	男	男、おとこ	uki	692	派生関係					
-4	-ku	接尾辞	物	者、物、もの	uku	693	派生関係					
+4	-ku	接尾辞	物	物、もの	uku	693	派生関係					
 5	-ma	接尾辞	大	大きい	amama	39	派生関係					
 6	-ni	接尾辞	小	小さい	inini	286	派生関係					
 7	-sa	接尾辞	女	女、おんな	usa	697	派生関係					
@@ -307,10 +307,10 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 311	juce	名詞	輪	輪、環、指輪				yt2.pk				
 312	jukha	形容詞		老衰している、がたがたになっている				rúkasa.bt				
 313	jukuku	名詞		ユーゴック				jurkukku.li				
-314	juo	名詞	牛	ウシ、牛				io2.pk				
+314	juo	名詞	牛	ウシ、牛	juro	317	同根語	io2.pk				
 315	juo	動詞		塗装する、メッキする								
 316	jup'ui	形容詞		海の					tasierjupuj		理語辞書ではjupóui	
-317	juro	名詞	牛	乳牛				io2.pk				
+317	juro	名詞	牛	乳牛	juo	314	同根語	io2.pk				
 318	jusei	名詞		肉団子				juce.pmcp				
 319	k'abaia	形容詞		そでなしの、ノースリーブの					abea			
 320	k'ebaie	動詞		燻製にする					xorla		理語辞典ではkóebaie	
@@ -431,7 +431,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 436	mitiku	名詞	橋	橋				mit.pk				
 437	miwou	名詞		苦労、骨折り					mevau			
 438	modo	動詞	壊	壊れる、壊す				mot2.pk				
-439	moho	動詞	行	行く、移動する				mok1.pk, bohúḷ.bt				
+439	moho	動詞	行	行く、移動する	-moo	845	同根語	mok1.pk, bohúḷ.bt				
 440	moloa	形容詞		甘い、心地よい				boḷorúḷ.bt	molojaine			
 441	mono	名詞		鰹、カツオ					xorlarmorn			
 442	mova	名詞	米	米				mo1.pk, mon.tk				
@@ -568,7 +568,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 574	saiguu	名詞		魚醤	chaula	128	同根語		ceg			
 575	saingoai	形容詞		不意に、突然に				seṇa.bt				
 576	sainiu	名詞		上衣、ベスト、チョッキ				cainíju.bt				
-577	sakika	動詞	来	来る				sak2.pk, srakkq.ln, cákíkúḷ.bt, rakkúḷ.bt, sáka.bt, sakká.bt, cákíkaúḷ.bt, cak-u.tk				
+577	sakika	動詞	来	来る	-sakka	846	同根語	sak2.pk, srakkq.ln, cákíkúḷ.bt, rakkúḷ.bt, sáka.bt, sakká.bt, cákíkaúḷ.bt, cak-u.tk				
 578	sakitu	名詞		やかん					cakirt			
 579	sami	動詞	急	急ぐ	sam	839	派生関係	sam1.pk				
 580	samiki	形容詞		新しい					cerkmern			

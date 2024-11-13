@@ -81,7 +81,6 @@
       {
         "title": "接尾辞",
         "forms": [
-          "者",
           "物",
           "もの"
         ]
@@ -8708,7 +8707,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 317,
+          "form": "juro"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -8783,7 +8790,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 314,
+          "form": "juo"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -12169,7 +12184,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 845,
+          "form": "-moo"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -15976,7 +15999,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "同根語",
+        "entry": {
+          "id": 846,
+          "form": "-sakka"
+        }
+      }
+    ]
   },
   {
     "entry": {
