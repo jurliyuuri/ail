@@ -1,4 +1,4 @@
-import { Word } from "./types.ts";
+import { Word } from "./types.ts"
 
 function validateRelID(dict: Word[]): [number, string, number, string][] {
   const wordsWithError: [number, string, number, string][] = []
@@ -19,4 +19,4 @@ function validateRelID(dict: Word[]): [number, string, number, string][] {
   return wordsWithError
 }
 
-export default validateRelID;
+export default validateRelID

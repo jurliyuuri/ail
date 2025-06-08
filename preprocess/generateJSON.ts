@@ -1,12 +1,12 @@
 "use strict"
-import fs from 'node:fs';
-import compose from './compose.ts';
-import validateID from './validateIDs.ts';
-import validateRelID from './validateRelID.ts';
+import fs from 'node:fs'
+import compose from './compose.ts'
+import validateID from './validateIDs.ts'
+import validateRelID from './validateRelID.ts'
 
-const lines: string[] = fs.readFileSync('../dict.txt', 'utf-8').split(/\r\n|\n/);
+const lines: string[] = fs.readFileSync('../dict.txt', 'utf-8').split(/\r\n|\n/)
 // lines[0] はカラムの名前なので読んでしまうと ERROR になる
-const [words, wordsWithError, wordsWithWarning] =  compose(lines.slice(1));
+const [words, wordsWithError, wordsWithWarning] =  compose(lines.slice(1))
 
 if (wordsWithError.length > 0) {
   wordsWithError.forEach(element => console.log(element))
