@@ -12,7 +12,7 @@ if (wordsWithError.length > 0) {
   wordsWithError.forEach(element => console.log(element))
   throw new Error("entry is ill-formed")
 } else {
-  console.log(`OK: all entries are well-formed\n`)
+  console.log(`OK: ALL entries are well-formed\n`)
 }
 
 const duplicateIds = validateID(Array.from(words, word => word.entry.id))
@@ -21,7 +21,7 @@ if (duplicateIds.length > 0) {
   duplicateIds.forEach(id => console.log(`| ${id}`))
   throw new Error('duplicate IDs')
 } else {
-  console.log(`OK: no duplicate IDs found\n`)
+  console.log(`OK: NO duplicate IDs found\n`)
 }
 
 const wordsWithWrongRelID = validateRelID(words)
@@ -31,7 +31,7 @@ if (wordsWithWrongRelID.length > 0) {
   })
   throw new Error("wrong RelID")
 } else {
-  console.log(`OK: no wrong relIDs found\n`)
+  console.log(`OK: NO wrong relIDs found\n`)
 }
 
 if (wordsWithWarning.length > 0) {

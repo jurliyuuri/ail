@@ -22,7 +22,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 22	aipa	動詞；動詞	倒	落ちる、落下する、転ぶ；(転じて)滅びる				aip1.pk, ephaúḷ.bt			
 23	aipwau	形容詞；形容詞	乾	乾いた、干からびた、乾燥した；(転じて)そっけない、無味乾燥な				puau1.pk	evoradz		
 24	airaniija	名詞		アイラニーヤ							理語を母語とするアイル人のこと
-25	airu	名詞	冠	アイル				ai2.pk			理語の影響でai'r、東島通商語の影響でailと綴られることも多い。
+25	airu	名詞	冠	アイル	aira	863	派生関係	ai2.pk			理語の影響でai'r、東島通商語の影響でailと綴られることも多い。
 26	aisaa	名詞		種					sarcvakh		
 27	ait'ee	名詞		牢、監獄、独房					etaj		理語辞書ではaitóee
 28	akai	名詞	血	血				kai1.pk, ághi.bt			
@@ -400,7 +400,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 405	maikau	名詞；形容詞	茲	これ；この				me.tk			くだけた会話などではmaikauが、改まった会話ではbukaが用いられる傾向にある。
 406	maixaai	名詞		モグラ					xuspiramexaj		
 407	maka	名詞；名詞	値	数、数字；点、得点	taunyuroe	792	関連語	mak2.pk, bágha.bt, maka.tk			量としての「数」はtaunyuroeを用いる。
-408	makana	名詞		海					durfemark		
+408	makana	名詞		海				makana.pmcp	durfemark		
 409	makasu	形容詞	長	長い							
 410	makati	名詞		マカティ、天神、アイル共和国の首都							
 411	makina	名詞		音楽				makina.pmcp			
@@ -461,7 +461,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 466	nelua	名詞；名詞	猫	猫；姓の一つ。				ne2.pk			
 467	nepha	名詞		ピスタチオ					nerfa		
 468	ngaci	動詞		売る					garci		
-469	ngaitwa	形容詞		～さん（男性への敬称）							語義変更；名称の前からかける
+469	ngaitwa	形容詞		～さん（敬称）							語義変更；名称の前からかける
 470	ngaiweo	動詞		鋳造する、鋳込む、型にはめる				gháyoúḷ.bt, kewa-lu.tk			
 471	ngakha	形容詞	激	強烈な				gak1.pk			
 472	ngas'aa	動詞		理解する				ghaccúḷ.bt			用例ではngasóaa
@@ -794,7 +794,7 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 800	chuwaku	名詞	片；片時；時片	（単位としての）時間、ツオ	chuwo	139	派生関係	zuo1 kak.pk			一日を百等分したうちの一。リパラオネでいう1080stususnであり、現世で言うと15分弱。
 801	kuwasuka	名詞	筆	事務官				kua2 cuk2.pk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。
 802	kaikasuka	名詞	兵	実働官				kaik cuk2.pk, kekacuka.tk			アイル共和国では役人はkuwasuka(筆), kaikasuka(兵)の二つに大きく分けられる。kuwasukaは後方での事務を、kaikasukaは現場での実働を担当する。
-803	huagei	名詞；形容詞	黄	黄色；黄色い	huangi, khaicwi	263, 352	関連語；類義語				
+803	huagei	名詞；形容詞		黄色；黄色い	huangi, khaicwi	263, 352	関連語；類義語				
 804	kanide	名詞；形容詞	赤	赤；赤い	kani	337	派生関係				
 805	deiphe	名詞；形容詞	青	青；青い							
 806	huroja	名詞；形容詞	黒	黒；黒い	huroo	268	派生関係				
@@ -847,3 +847,13 @@ ID	語形	品詞	燐字	意味	関連語	関連語ID	関連語タグ	同根語	�
 853	-ngau	接尾辞	刀	道具などを表す				gau2.pk			燐字は刀があてられているが、「かたな」とは同音の別語であると考えられている。
 854	utuingau	名詞	遊刀	おもちゃ	utui, -ngau	701, 853	派生関係；派生関係	tu2 gau2.pk			
 855	anawasuka	名詞	全人	皆さん	anau, asuka	45, 50	派生関係；派生関係				
+856	h^ogua	動詞	寝	眠る、寝る、寝付く				hok1.pk			
+857	pwaucho	動詞		紡ぐ							
+858	hovigelao	名詞	骨門	ホーギャウ（地名）				ho1 giau1.pk, okijau.pmcp			
+859	hovikinuku	名詞	骨谷	ホーキン（地名）				ho1 kin1.pk, okin.pmcp			
+860	kinuku	名詞	谷	谷、盆地				kin1.pk			
+861	nyekareka	名詞		社会、世の中							nyekaとの関連が指摘されている。
+862	cecio	名詞		間				cecijo.pmcp	cecio		リパライン語cecioからの借用。
+863	aira	形容詞	冠	アイルの	airu	25	派生関係	ai2.pk			東島通商語の影響でailaと綴られることもある。
+864	amunuza	後置詞	無	～なしに、～なくして	amunu, -za	43, 746	派生関係；派生関係			nonu amunuza tunukisvia. 「つつがなく終わりますように」	副詞句を作り、直後に動詞を伴う。
+865	asukacecio	名詞		（人同士の）仲	asuka, cecio	50, 862	派生関係；派生関係				

@@ -739,7 +739,15 @@
       }
     ],
     "variations": [],
-    "relations": []
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 863,
+          "form": "aira"
+        }
+      }
+    ]
   },
   {
     "entry": {
@@ -11343,6 +11351,10 @@
     "tags": [],
     "contents": [
       {
+        "title": "同根語",
+        "text": "makana.pmcp"
+      },
+      {
         "title": "関連する理語",
         "text": "durfemark"
       }
@@ -13003,7 +13015,7 @@
       {
         "title": "形容詞",
         "forms": [
-          "～さん（男性への敬称）"
+          "～さん（敬称）"
         ]
       }
     ],
@@ -22310,12 +22322,6 @@
         "forms": [
           "黄色い"
         ]
-      },
-      {
-        "title": "燐字",
-        "forms": [
-          "黄"
-        ]
       }
     ],
     "tags": [],
@@ -23991,6 +23997,321 @@
         "entry": {
           "id": 50,
           "form": "asuka"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 856,
+      "form": "h^ogua"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "眠る",
+          "寝る",
+          "寝付く"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "寝"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "hok1.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 857,
+      "form": "pwaucho"
+    },
+    "translations": [
+      {
+        "title": "動詞",
+        "forms": [
+          "紡ぐ"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 858,
+      "form": "hovigelao"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "ホーギャウ（地名）"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "骨門"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "ho1 giau1.pk, okijau.pmcp"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 859,
+      "form": "hovikinuku"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "ホーキン（地名）"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "骨谷"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "ho1 kin1.pk, okin.pmcp"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 860,
+      "form": "kinuku"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "谷",
+          "盆地"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "谷"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "kin1.pk"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 861,
+      "form": "nyekareka"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "社会",
+          "世の中"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "備考",
+        "text": "nyekaとの関連が指摘されている。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 862,
+      "form": "cecio"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "間"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "cecijo.pmcp"
+      },
+      {
+        "title": "関連する理語",
+        "text": "cecio"
+      },
+      {
+        "title": "備考",
+        "text": "リパライン語cecioからの借用。"
+      }
+    ],
+    "variations": [],
+    "relations": []
+  },
+  {
+    "entry": {
+      "id": 863,
+      "form": "aira"
+    },
+    "translations": [
+      {
+        "title": "形容詞",
+        "forms": [
+          "アイルの"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "冠"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "同根語",
+        "text": "ai2.pk"
+      },
+      {
+        "title": "備考",
+        "text": "東島通商語の影響でailaと綴られることもある。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 25,
+          "form": "airu"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 864,
+      "form": "amunuza"
+    },
+    "translations": [
+      {
+        "title": "後置詞",
+        "forms": [
+          "～なしに",
+          "～なくして"
+        ]
+      },
+      {
+        "title": "燐字",
+        "forms": [
+          "無"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [
+      {
+        "title": "例文",
+        "text": "nonu amunuza tunukisvia. 「つつがなく終わりますように」"
+      },
+      {
+        "title": "備考",
+        "text": "副詞句を作り、直後に動詞を伴う。"
+      }
+    ],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 43,
+          "form": "amunu"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 746,
+          "form": "-za"
+        }
+      }
+    ]
+  },
+  {
+    "entry": {
+      "id": 865,
+      "form": "asukacecio"
+    },
+    "translations": [
+      {
+        "title": "名詞",
+        "forms": [
+          "（人同士の）仲"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": [
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 50,
+          "form": "asuka"
+        }
+      },
+      {
+        "title": "派生関係",
+        "entry": {
+          "id": 862,
+          "form": "cecio"
         }
       }
     ]
